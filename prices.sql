@@ -48,8 +48,8 @@ insert into `price` values
 insert into `price` values 
 (
 23103,
-20000,
-79474
+100000,
+71347
 );
 
 insert into `price` values 
@@ -97,8 +97,8 @@ null
 insert into `price` values 
 (
 43359,
-1448600,
-1909065
+1444500,
+1844733
 );
 
 insert into `price` values 
@@ -125,8 +125,8 @@ null
 insert into `price` values 
 (
 4334,
-20000,
-69220
+60000,
+58663
 );
 
 insert into `price` values 
@@ -139,36 +139,36 @@ null
 insert into `price` values 
 (
 23104,
-11750,
-39292
+10000,
+33806
 );
 
 insert into `price` values 
 (
 23098,
-20000,
-58779
+55000,
+56184
 );
 
 insert into `price` values 
 (
 43343,
 1997000,
-1996837
+1996866
 );
 
 insert into `price` values 
 (
 23111,
 36500,
-56205
+53286
 );
 
 insert into `price` values 
 (
 23095,
-10000,
-39932
+50000,
+39765
 );
 
 insert into `price` values 
@@ -223,8 +223,8 @@ insert into `price` values
 insert into `price` values 
 (
 23113,
-60000,
-30002
+40000,
+34247
 );
 
 insert into `price` values 
@@ -293,22 +293,22 @@ null
 insert into `price` values 
 (
 20906,
-3496,
-7401
+3990,
+6426
 );
 
 insert into `price` values 
 (
 11288,
-50000,
-50000
+10000,
+41866
 );
 
 insert into `price` values 
 (
 23118,
 10000,
-19783
+18768
 );
 
 insert into `price` values 
@@ -364,7 +364,7 @@ insert into `price` values
 (
 32833,
 92000,
-95570
+94793
 );
 
 insert into `price` values 
@@ -377,8 +377,8 @@ insert into `price` values
 insert into `price` values 
 (
 32772,
-500000,
-null
+400000,
+400000
 );
 
 insert into `price` values 
@@ -413,14 +413,14 @@ insert into `price` values
 (
 41098,
 1999500,
-1518886
+1587546
 );
 
 insert into `price` values 
 (
 44920,
-482500,
-1412390
+462000,
+1280968
 );
 
 insert into `price` values 
@@ -440,8 +440,8 @@ null
 insert into `price` values 
 (
 31308,
-769373,
-764887
+770668,
+765340
 );
 
 insert into `price` values 
@@ -503,15 +503,15 @@ null
 insert into `price` values 
 (
 31140,
-501447,
-501447
+480000,
+492087
 );
 
 insert into `price` values 
 (
 6796,
-20000,
-18210
+40000,
+20061
 );
 
 insert into `price` values 
@@ -790,8 +790,8 @@ null
 insert into `price` values 
 (
 23100,
-20000,
-43633
+19500,
+40248
 );
 
 insert into `price` values 
@@ -833,7 +833,14 @@ insert into `price` values
 (
 6833,
 1000000,
-418367
+634614
+);
+
+insert into `price` values 
+(
+10052,
+27067,
+27067
 );
 
 insert into `price` values 
@@ -874,8 +881,8 @@ null
 insert into `price` values 
 (
 24712,
-40000,
-40000
+50000,
+45714
 );
 
 insert into `price` values 
@@ -945,14 +952,14 @@ insert into `price` values
 (
 13856,
 7800,
-45657
+44096
 );
 
 insert into `price` values 
 (
 30422,
-110000,
-null
+100000,
+100000
 );
 
 insert into `price` values 
@@ -986,8 +993,8 @@ null
 insert into `price` values 
 (
 31186,
-998275,
-839737
+1039892,
+855253
 );
 
 insert into `price` values 
@@ -1007,22 +1014,22 @@ null
 insert into `price` values 
 (
 23116,
-49667,
-44594
+58500,
+46403
 );
 
 insert into `price` values 
 (
 31226,
-150000,
-null
+1200000,
+1200000
 );
 
 insert into `price` values 
 (
 31305,
 757643,
-754703
+754992
 );
 
 insert into `price` values 
@@ -1133,8 +1140,8 @@ null
 insert into `price` values 
 (
 14656,
-47500,
-null
+250000,
+250000
 );
 
 insert into `price` values 
@@ -1168,8 +1175,8 @@ null
 insert into `price` values 
 (
 20964,
-240000,
-232637
+227500,
+232116
 );
 
 insert into `price` values 
@@ -1218,7 +1225,7 @@ insert into `price` values
 (
 31295,
 553282,
-635157
+634205
 );
 
 insert into `price` values 
@@ -1267,7 +1274,7 @@ insert into `price` values
 (
 23506,
 2899608,
-2660765
+2689497
 );
 
 insert into `price` values 
@@ -1393,28 +1400,28 @@ insert into `price` values
 (
 23119,
 57000,
-49072
+49802
 );
 
 insert into `price` values 
 (
 41541,
-1790000,
-1869140
+500000,
+1844831
 );
 
 insert into `price` values 
 (
 42743,
-1499500,
-1091855
+1100000,
+1122862
 );
 
 insert into `price` values 
 (
 43430,
-1997000,
-1889219
+1990200,
+1904184
 );
 
 insert into `price` values 
@@ -1483,8 +1490,8 @@ insert into `price` values
 insert into `price` values 
 (
 20950,
-57500,
-82190
+30000,
+74231
 );
 
 insert into `price` values 
@@ -1588,8 +1595,8 @@ insert into `price` values
 insert into `price` values 
 (
 21767,
-57413,
-null
+29900,
+46725
 );
 
 insert into `price` values 
@@ -1630,8 +1637,8 @@ null
 insert into `price` values 
 (
 2957,
-14129,
-14129
+13500,
+13928
 );
 
 insert into `price` values 
@@ -1819,8 +1826,8 @@ insert into `price` values
 insert into `price` values 
 (
 21764,
-120930,
-173320
+19900,
+142454
 );
 
 insert into `price` values 
@@ -1840,8 +1847,8 @@ null
 insert into `price` values 
 (
 9819,
-20000,
-47377
+10000,
+40872
 );
 
 insert into `price` values 
@@ -1861,8 +1868,8 @@ insert into `price` values
 insert into `price` values 
 (
 20958,
-60000,
-60422
+42500,
+57739
 );
 
 insert into `price` values 
@@ -1911,14 +1918,14 @@ insert into `price` values
 (
 24717,
 77175,
-105585
+105329
 );
 
 insert into `price` values 
 (
 31145,
-517765,
-508351
+527177,
+509223
 );
 
 insert into `price` values 
@@ -1938,15 +1945,15 @@ null
 insert into `price` values 
 (
 24728,
-131259,
-null
+60000,
+60000
 );
 
 insert into `price` values 
 (
 31229,
-1392509,
-1048227
+1160150,
+1130818
 );
 
 insert into `price` values 
@@ -2086,7 +2093,7 @@ insert into `price` values
 (
 24725,
 120000,
-120964
+120751
 );
 
 insert into `price` values 
@@ -2107,7 +2114,7 @@ insert into `price` values
 (
 23507,
 2890638,
-3068619
+3047209
 );
 
 insert into `price` values 
@@ -2177,7 +2184,7 @@ insert into `price` values
 (
 23482,
 60000,
-88751
+79576
 );
 
 insert into `price` values 
@@ -2190,8 +2197,8 @@ insert into `price` values
 insert into `price` values 
 (
 10403,
-4169898,
-3955683
+4183758,
+3979677
 );
 
 insert into `price` values 
@@ -2219,14 +2226,14 @@ insert into `price` values
 (
 23508,
 3227857,
-3635511
+3601361
 );
 
 insert into `price` values 
 (
 10056,
-20000,
-20000
+9750,
+14260
 );
 
 insert into `price` values 
@@ -2268,7 +2275,7 @@ insert into `price` values
 (
 14909,
 80000,
-128294
+116000
 );
 
 insert into `price` values 
@@ -2331,21 +2338,21 @@ insert into `price` values
 (
 10085,
 150000,
-69999
+84999
 );
 
 insert into `price` values 
 (
 4344,
-5000,
-null
+22,
+22
 );
 
 insert into `price` values 
 (
 11985,
-95000,
-null
+90000,
+90000
 );
 
 insert into `price` values 
@@ -2373,14 +2380,14 @@ insert into `price` values
 (
 14174,
 30000,
-17273
+17826
 );
 
 insert into `price` values 
 (
 7554,
 30000,
-38521
+36719
 );
 
 insert into `price` values 
@@ -2394,7 +2401,7 @@ insert into `price` values
 (
 21933,
 50000,
-51514
+51251
 );
 
 insert into `price` values 
@@ -2408,7 +2415,7 @@ insert into `price` values
 (
 6583,
 20000,
-28667
+24801
 );
 
 insert into `price` values 
@@ -2421,8 +2428,8 @@ null
 insert into `price` values 
 (
 6587,
-30000,
-null
+3000,
+3000
 );
 
 insert into `price` values 
@@ -2443,7 +2450,7 @@ insert into `price` values
 (
 890,
 480000,
-622312
+601558
 );
 
 insert into `price` values 
@@ -2526,8 +2533,8 @@ insert into `price` values
 insert into `price` values 
 (
 5069,
-12000,
-25275
+10000,
+21765
 );
 
 insert into `price` values 
@@ -2540,8 +2547,8 @@ insert into `price` values
 insert into `price` values 
 (
 8257,
-63110,
-77278
+69326,
+76323
 );
 
 insert into `price` values 
@@ -2554,8 +2561,8 @@ null
 insert into `price` values 
 (
 29160,
-155000,
-128174
+200000,
+134204
 );
 
 insert into `price` values 
@@ -2624,8 +2631,8 @@ null
 insert into `price` values 
 (
 9812,
-19392,
-19392
+69103,
+33159
 );
 
 insert into `price` values 
@@ -2680,8 +2687,8 @@ null
 insert into `price` values 
 (
 2059,
-2425500,
-2620195
+2695000,
+2606270
 );
 
 insert into `price` values 
@@ -2694,8 +2701,8 @@ null
 insert into `price` values 
 (
 31285,
-493458,
-485007
+500065,
+485916
 );
 
 insert into `price` values 
@@ -2799,8 +2806,8 @@ null
 insert into `price` values 
 (
 1613,
-99900,
-182929
+120000,
+162254
 );
 
 insert into `price` values 
@@ -2841,15 +2848,15 @@ null
 insert into `price` values 
 (
 15614,
-21078,
-null
+80480,
+80480
 );
 
 insert into `price` values 
 (
 30420,
-40000,
-7844
+19800,
+10685
 );
 
 insert into `price` values 
@@ -2939,8 +2946,8 @@ null
 insert into `price` values 
 (
 16716,
-362299,
-336343
+377241,
+339522
 );
 
 insert into `price` values 
@@ -3009,15 +3016,15 @@ null
 insert into `price` values 
 (
 25438,
-9875,
-7482
+8893,
+7801
 );
 
 insert into `price` values 
 (
 3480,
 690000,
-76588
+178822
 );
 
 insert into `price` values 
@@ -3058,8 +3065,8 @@ null
 insert into `price` values 
 (
 25439,
-4998,
-9739
+4591,
+8854
 );
 
 insert into `price` values 
@@ -3086,8 +3093,8 @@ null
 insert into `price` values 
 (
 31203,
-350000,
-501690
+553715,
+506211
 );
 
 insert into `price` values 
@@ -3100,8 +3107,8 @@ insert into `price` values
 insert into `price` values 
 (
 25046,
-80000,
-358152
+410012,
+359081
 );
 
 insert into `price` values 
@@ -3114,8 +3121,8 @@ insert into `price` values
 insert into `price` values 
 (
 5964,
-120000,
-131622
+60000,
+121339
 );
 
 insert into `price` values 
@@ -3177,15 +3184,15 @@ null
 insert into `price` values 
 (
 20960,
-49500,
-102843
+50000,
+95955
 );
 
 insert into `price` values 
 (
 13048,
-807197,
-456656
+663993,
+499579
 );
 
 insert into `price` values 
@@ -3324,8 +3331,8 @@ insert into `price` values
 insert into `price` values 
 (
 15227,
-65775,
-108462
+104266,
+107793
 );
 
 insert into `price` values 
@@ -3422,8 +3429,8 @@ null
 insert into `price` values 
 (
 12979,
-299999,
-301067
+259999,
+293087
 );
 
 insert into `price` values 
@@ -3500,21 +3507,21 @@ insert into `price` values
 (
 5207,
 20000,
-22244
+22056
 );
 
 insert into `price` values 
 (
 42968,
 1947000,
-1992249
+1985939
 );
 
 insert into `price` values 
 (
 31254,
-556168,
-534590
+558170,
+536477
 );
 
 insert into `price` values 
@@ -3604,8 +3611,8 @@ insert into `price` values
 insert into `price` values 
 (
 52323,
-30000000,
-null
+18600000,
+18722104
 );
 
 insert into `price` values 
@@ -3640,7 +3647,7 @@ insert into `price` values
 (
 23484,
 90000,
-74000
+76400
 );
 
 insert into `price` values 
@@ -3653,8 +3660,8 @@ null
 insert into `price` values 
 (
 23487,
-90000,
-145797
+100000,
+132554
 );
 
 insert into `price` values 
@@ -3724,7 +3731,7 @@ insert into `price` values
 (
 45779,
 1999500,
-1204264
+1314611
 );
 
 insert into `price` values 
@@ -3745,14 +3752,14 @@ insert into `price` values
 (
 21755,
 137500,
-102161
+105339
 );
 
 insert into `price` values 
 (
 13109,
-381738,
-380141
+381422,
+380178
 );
 
 insert into `price` values 
@@ -3773,7 +3780,7 @@ insert into `price` values
 (
 13125,
 268206,
-232314
+239493
 );
 
 insert into `price` values 
@@ -3800,8 +3807,8 @@ null
 insert into `price` values 
 (
 31942,
-757192,
-666090
+776620,
+678786
 );
 
 insert into `price` values 
@@ -3906,7 +3913,7 @@ insert into `price` values
 (
 31222,
 340000,
-376536
+374974
 );
 
 insert into `price` values 
@@ -3982,8 +3989,8 @@ insert into `price` values
 insert into `price` values 
 (
 25054,
-83299,
-87564
+84762,
+86414
 );
 
 insert into `price` values 
@@ -3996,15 +4003,15 @@ null
 insert into `price` values 
 (
 21851,
-25000,
-null
+28900,
+28900
 );
 
 insert into `price` values 
 (
 21853,
-60000,
-148919
+150000,
+149044
 );
 
 insert into `price` values 
@@ -4144,7 +4151,7 @@ insert into `price` values
 (
 4324,
 7430,
-55617
+54975
 );
 
 insert into `price` values 
@@ -4263,7 +4270,7 @@ insert into `price` values
 (
 12042,
 16780,
-27312
+25280
 );
 
 insert into `price` values 
@@ -4346,8 +4353,8 @@ null
 insert into `price` values 
 (
 31231,
-1208707,
-1228502
+1271882,
+1287376
 );
 
 insert into `price` values 
@@ -4395,15 +4402,15 @@ insert into `price` values
 insert into `price` values 
 (
 24648,
-129400,
-104261
+120000,
+110474
 );
 
 insert into `price` values 
 (
 24670,
-50000,
-50000
+60000,
+55483
 );
 
 insert into `price` values 
@@ -4480,14 +4487,14 @@ insert into `price` values
 (
 6563,
 20000,
-21934
+21637
 );
 
 insert into `price` values 
 (
 8186,
-45338,
-44545
+70190,
+49517
 );
 
 insert into `price` values 
@@ -4507,8 +4514,8 @@ null
 insert into `price` values 
 (
 24987,
-60000,
-null
+118013,
+118013
 );
 
 insert into `price` values 
@@ -4564,7 +4571,7 @@ insert into `price` values
 (
 10063,
 80000,
-87967
+86621
 );
 
 insert into `price` values 
@@ -4640,8 +4647,8 @@ null
 insert into `price` values 
 (
 12054,
-5000,
-null
+52511,
+52511
 );
 
 insert into `price` values 
@@ -4676,7 +4683,7 @@ insert into `price` values
 (
 4088,
 70000,
-85692
+81723
 );
 
 insert into `price` values 
@@ -4745,8 +4752,8 @@ null
 insert into `price` values 
 (
 4320,
-1790000,
-2955081
+1390000,
+2857649
 );
 
 insert into `price` values 
@@ -4774,14 +4781,14 @@ insert into `price` values
 (
 21768,
 351950,
-353998
+353830
 );
 
 insert into `price` values 
 (
 15279,
 250000,
-76377
+91259
 );
 
 insert into `price` values 
@@ -4843,8 +4850,8 @@ null
 insert into `price` values 
 (
 22279,
-650000,
-650000
+2000000,
+1066913
 );
 
 insert into `price` values 
@@ -4949,14 +4956,14 @@ insert into `price` values
 (
 4715,
 30000,
-63476
+58831
 );
 
 insert into `price` values 
 (
 4036,
-70520,
-70453
+50000,
+69067
 );
 
 insert into `price` values 
@@ -4969,8 +4976,8 @@ null
 insert into `price` values 
 (
 6562,
-50000,
-null
+20000,
+20000
 );
 
 insert into `price` values 
@@ -4984,7 +4991,7 @@ insert into `price` values
 (
 24948,
 239637,
-217453
+220122
 );
 
 insert into `price` values 
@@ -5110,21 +5117,21 @@ insert into `price` values
 (
 41534,
 1999500,
-1984367
+1986468
 );
 
 insert into `price` values 
 (
 24853,
 150000,
-123685
+129022
 );
 
 insert into `price` values 
 (
 43344,
-1998999,
-1556216
+1998498,
+1617609
 );
 
 insert into `price` values 
@@ -5138,14 +5145,14 @@ insert into `price` values
 (
 42406,
 1999500,
-1526812
+1540263
 );
 
 insert into `price` values 
 (
 41527,
-1995000,
-1346100
+1992000,
+1435724
 );
 
 insert into `price` values 
@@ -5186,8 +5193,8 @@ insert into `price` values
 insert into `price` values 
 (
 3198,
-130600,
-106246
+140743,
+112333
 );
 
 insert into `price` values 
@@ -5236,7 +5243,7 @@ insert into `price` values
 (
 10333,
 30000,
-24220
+25503
 );
 
 insert into `price` values 
@@ -5270,8 +5277,8 @@ null
 insert into `price` values 
 (
 31179,
-732344,
-713921
+736479,
+715779
 );
 
 insert into `price` values 
@@ -5298,8 +5305,8 @@ null
 insert into `price` values 
 (
 43422,
-749500,
-747022
+480000,
+849555
 );
 
 insert into `price` values 
@@ -5347,8 +5354,8 @@ insert into `price` values
 insert into `price` values 
 (
 20828,
-50000,
-14947
+27400,
+17850
 );
 
 insert into `price` values 
@@ -5369,21 +5376,21 @@ insert into `price` values
 (
 43725,
 796500,
-1224682
+1165270
 );
 
 insert into `price` values 
 (
 1973,
 85000000,
-86674419
+86345798
 );
 
 insert into `price` values 
 (
 40916,
-232552,
-119692
+180000,
+130943
 );
 
 insert into `price` values 
@@ -5411,7 +5418,7 @@ insert into `price` values
 (
 43536,
 1257000,
-497103
+604601
 );
 
 insert into `price` values 
@@ -5431,8 +5438,8 @@ null
 insert into `price` values 
 (
 45602,
-1998999,
-2000714
+1998498,
+2000431
 );
 
 insert into `price` values 
@@ -5543,8 +5550,8 @@ insert into `price` values
 insert into `price` values 
 (
 25291,
-120000,
-null
+81500,
+81500
 );
 
 insert into `price` values 
@@ -5557,8 +5564,8 @@ null
 insert into `price` values 
 (
 24630,
-50000,
-50000
+200000,
+56250
 );
 
 insert into `price` values 
@@ -5586,7 +5593,7 @@ insert into `price` values
 (
 4251,
 210000,
-49914
+75874
 );
 
 insert into `price` values 
@@ -5641,8 +5648,8 @@ insert into `price` values
 insert into `price` values 
 (
 9902,
-16200,
-39378
+5000,
+39012
 );
 
 insert into `price` values 
@@ -5684,7 +5691,7 @@ insert into `price` values
 (
 20955,
 60000,
-58461
+58723
 );
 
 insert into `price` values 
@@ -5705,7 +5712,7 @@ insert into `price` values
 (
 6585,
 61338,
-15598
+26044
 );
 
 insert into `price` values 
@@ -5796,7 +5803,7 @@ insert into `price` values
 (
 3842,
 80000,
-95933
+93239
 );
 
 insert into `price` values 
@@ -5816,8 +5823,8 @@ null
 insert into `price` values 
 (
 9779,
-5000,
-3744
+7500,
+3848
 );
 
 insert into `price` values 
@@ -5873,28 +5880,28 @@ insert into `price` values
 (
 3195,
 10000,
-14532
+14264
 );
 
 insert into `price` values 
 (
 8188,
 70000,
-127500
+109429
 );
 
 insert into `price` values 
 (
 31220,
-431955,
-436904
+433875,
+436525
 );
 
 insert into `price` values 
 (
 43356,
 1999500,
-1869334
+1888399
 );
 
 insert into `price` values 
@@ -5999,7 +6006,7 @@ insert into `price` values
 (
 4577,
 61408,
-58264
+58994
 );
 
 insert into `price` values 
@@ -6013,7 +6020,7 @@ insert into `price` values
 (
 14567,
 105627,
-109918
+108662
 );
 
 insert into `price` values 
@@ -6027,7 +6034,7 @@ insert into `price` values
 (
 30804,
 667657,
-710970
+704347
 );
 
 insert into `price` values 
@@ -6061,8 +6068,8 @@ null
 insert into `price` values 
 (
 43423,
-239997,
-239542
+360000,
+281946
 );
 
 insert into `price` values 
@@ -6103,15 +6110,15 @@ insert into `price` values
 insert into `price` values 
 (
 10001,
-7900,
-36554
+58500,
+40556
 );
 
 insert into `price` values 
 (
 14431,
-77777,
-null
+90619,
+90619
 );
 
 insert into `price` values 
@@ -6222,8 +6229,8 @@ null
 insert into `price` values 
 (
 31201,
-621332,
-434244
+480145,
+453614
 );
 
 insert into `price` values 
@@ -6279,14 +6286,14 @@ insert into `price` values
 (
 29201,
 120000,
-217548
+193857
 );
 
 insert into `price` values 
 (
 24741,
 79285,
-52734
+53039
 );
 
 insert into `price` values 
@@ -6348,8 +6355,8 @@ null
 insert into `price` values 
 (
 31181,
-1770234,
-1347800
+845878,
+1423787
 );
 
 insert into `price` values 
@@ -6362,15 +6369,15 @@ insert into `price` values
 insert into `price` values 
 (
 34085,
-1250000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
 (
 21790,
-60000,
-null
+24900,
+42924
 );
 
 insert into `price` values 
@@ -6411,8 +6418,8 @@ null
 insert into `price` values 
 (
 4368,
-20000,
-17335
+10000,
+15411
 );
 
 insert into `price` values 
@@ -6503,7 +6510,7 @@ insert into `price` values
 (
 15211,
 15739,
-150128
+138608
 );
 
 insert into `price` values 
@@ -6530,15 +6537,15 @@ null
 insert into `price` values 
 (
 31198,
-333461,
-null
+650000,
+650000
 );
 
 insert into `price` values 
 (
 31193,
-546612,
-512484
+562706,
+515533
 );
 
 insert into `price` values 
@@ -6558,8 +6565,8 @@ null
 insert into `price` values 
 (
 2236,
-180000,
-630843
+200000,
+589846
 );
 
 insert into `price` values 
@@ -6572,15 +6579,15 @@ insert into `price` values
 insert into `price` values 
 (
 24790,
-140756,
-140756
+123800,
+136958
 );
 
 insert into `price` values 
 (
 23909,
-11990000,
-7234538
+18890000,
+8982857
 );
 
 insert into `price` values 
@@ -6614,8 +6621,8 @@ insert into `price` values
 insert into `price` values 
 (
 9782,
-40000,
-40000
+3000,
+35174
 );
 
 insert into `price` values 
@@ -6643,7 +6650,7 @@ insert into `price` values
 (
 4369,
 80000,
-59545
+63333
 );
 
 insert into `price` values 
@@ -6726,8 +6733,8 @@ null
 insert into `price` values 
 (
 2958,
-19292,
-19567
+22348,
+19920
 );
 
 insert into `price` values 
@@ -6747,8 +6754,8 @@ null
 insert into `price` values 
 (
 31157,
-855907,
-807868
+859260,
+812685
 );
 
 insert into `price` values 
@@ -6859,8 +6866,8 @@ null
 insert into `price` values 
 (
 22459,
-250000,
-250000
+50000,
+156976
 );
 
 insert into `price` values 
@@ -6894,8 +6901,8 @@ null
 insert into `price` values 
 (
 10053,
-31452,
-null
+1500000,
+1500000
 );
 
 insert into `price` values 
@@ -6930,7 +6937,7 @@ insert into `price` values
 (
 24760,
 254867,
-253232
+253452
 );
 
 insert into `price` values 
@@ -6950,8 +6957,8 @@ null
 insert into `price` values 
 (
 7048,
-19800,
-126961
+10000,
+114965
 );
 
 insert into `price` values 
@@ -6964,8 +6971,8 @@ insert into `price` values
 insert into `price` values 
 (
 9818,
-40000,
-40000
+56001,
+51078
 );
 
 insert into `price` values 
@@ -6993,7 +7000,7 @@ insert into `price` values
 (
 3206,
 43707,
-68385
+63582
 );
 
 insert into `price` values 
@@ -7042,7 +7049,7 @@ insert into `price` values
 (
 6660,
 622700,
-620361
+620604
 );
 
 insert into `price` values 
@@ -7126,7 +7133,7 @@ insert into `price` values
 (
 41526,
 1794500,
-1934035
+1914582
 );
 
 insert into `price` values 
@@ -7161,7 +7168,7 @@ insert into `price` values
 (
 12025,
 10000,
-55211
+50140
 );
 
 insert into `price` values 
@@ -7175,7 +7182,7 @@ insert into `price` values
 (
 15213,
 50000,
-72767
+71720
 );
 
 insert into `price` values 
@@ -7251,15 +7258,15 @@ insert into `price` values
 insert into `price` values 
 (
 6575,
-20862,
-28649
+30763,
+28557
 );
 
 insert into `price` values 
 (
 6615,
-35000,
-24038
+22027,
+23940
 );
 
 insert into `price` values 
@@ -7314,8 +7321,8 @@ null
 insert into `price` values 
 (
 6569,
-40000,
-null
+60000,
+60000
 );
 
 insert into `price` values 
@@ -7398,8 +7405,8 @@ null
 insert into `price` values 
 (
 9999,
-7300,
-67091
+21798,
+58482
 );
 
 insert into `price` values 
@@ -7440,8 +7447,8 @@ null
 insert into `price` values 
 (
 7481,
-51488,
-51488
+159947,
+105717
 );
 
 insert into `price` values 
@@ -7476,7 +7483,7 @@ insert into `price` values
 (
 15509,
 40000,
-41478
+41158
 );
 
 insert into `price` values 
@@ -7496,15 +7503,15 @@ null
 insert into `price` values 
 (
 20907,
-30000,
-24453
+7500,
+22785
 );
 
 insert into `price` values 
 (
 42473,
-100000,
-382698
+70000,
+341196
 );
 
 insert into `price` values 
@@ -7517,8 +7524,8 @@ null
 insert into `price` values 
 (
 15969,
-100000,
-100000
+50000,
+78050
 );
 
 insert into `price` values 
@@ -7545,8 +7552,8 @@ insert into `price` values
 insert into `price` values 
 (
 23197,
-2000000,
-null
+750000,
+1394000
 );
 
 insert into `price` values 
@@ -7580,8 +7587,8 @@ null
 insert into `price` values 
 (
 31242,
-581007,
-502611
+596940,
+510751
 );
 
 insert into `price` values 
@@ -7615,8 +7622,8 @@ insert into `price` values
 insert into `price` values 
 (
 3055,
-40339,
-40500
+39331,
+40271
 );
 
 insert into `price` values 
@@ -7629,8 +7636,8 @@ null
 insert into `price` values 
 (
 9801,
-80000,
-null
+2000,
+2000
 );
 
 insert into `price` values 
@@ -7665,7 +7672,7 @@ insert into `price` values
 (
 41106,
 1999500,
-565072
+764108
 );
 
 insert into `price` values 
@@ -7693,7 +7700,7 @@ insert into `price` values
 (
 24898,
 580000,
-null
+580000
 );
 
 insert into `price` values 
@@ -7727,8 +7734,8 @@ null
 insert into `price` values 
 (
 21852,
-40000,
-107774
+60000,
+83380
 );
 
 insert into `price` values 
@@ -7749,7 +7756,7 @@ insert into `price` values
 (
 41105,
 239000,
-445080
+418018
 );
 
 insert into `price` values 
@@ -7776,8 +7783,8 @@ insert into `price` values
 insert into `price` values 
 (
 13135,
-455469,
-474497
+450914,
+471578
 );
 
 insert into `price` values 
@@ -7791,7 +7798,7 @@ insert into `price` values
 (
 15304,
 40000,
-48572
+46615
 );
 
 insert into `price` values 
@@ -7811,8 +7818,8 @@ null
 insert into `price` values 
 (
 42902,
-582500,
-1178218
+580200,
+1095137
 );
 
 insert into `price` values 
@@ -7847,28 +7854,28 @@ insert into `price` values
 (
 13074,
 212212,
-179478
+187180
 );
 
 insert into `price` values 
 (
 13070,
-531526,
-491801
+250000,
+459063
 );
 
 insert into `price` values 
 (
 13035,
 300000,
-731454
+660764
 );
 
 insert into `price` values 
 (
 13036,
 2500000,
-2225995
+2384076
 );
 
 insert into `price` values 
@@ -7937,8 +7944,8 @@ null
 insert into `price` values 
 (
 20826,
-139221,
-129189
+151254,
+137034
 );
 
 insert into `price` values 
@@ -8021,8 +8028,8 @@ insert into `price` values
 insert into `price` values 
 (
 4576,
-9750,
-9439
+68970,
+15892
 );
 
 insert into `price` values 
@@ -8036,7 +8043,7 @@ insert into `price` values
 (
 12999,
 2850851,
-2929914
+2922152
 );
 
 insert into `price` values 
@@ -8098,8 +8105,8 @@ null
 insert into `price` values 
 (
 4818,
-30000,
-null
+48562,
+48562
 );
 
 insert into `price` values 
@@ -8161,8 +8168,8 @@ null
 insert into `price` values 
 (
 7419,
-30000,
-30000
+90000,
+53199
 );
 
 insert into `price` values 
@@ -8210,22 +8217,22 @@ insert into `price` values
 insert into `price` values 
 (
 44922,
-483000,
-629479
+464500,
+607777
 );
 
 insert into `price` values 
 (
 40923,
-749500,
-955879
+360000,
+918164
 );
 
 insert into `price` values 
 (
 30726,
-1713285,
-1662910
+1752777,
+1669230
 );
 
 insert into `price` values 
@@ -8267,7 +8274,7 @@ insert into `price` values
 (
 43867,
 582500,
-1328069
+1224617
 );
 
 insert into `price` values 
@@ -8350,8 +8357,8 @@ null
 insert into `price` values 
 (
 5266,
-458628,
-450149
+503740,
+451773
 );
 
 insert into `price` values 
@@ -8469,8 +8476,8 @@ insert into `price` values
 insert into `price` values 
 (
 24951,
-190000,
-105957
+530000,
+178076
 );
 
 insert into `price` values 
@@ -8483,8 +8490,8 @@ insert into `price` values
 insert into `price` values 
 (
 31160,
-715724,
-701760
+719868,
+703064
 );
 
 insert into `price` values 
@@ -8526,7 +8533,7 @@ insert into `price` values
 (
 24711,
 90000,
-79443
+82801
 );
 
 insert into `price` values 
@@ -8596,7 +8603,7 @@ insert into `price` values
 (
 11995,
 50000,
-31150
+32211
 );
 
 insert into `price` values 
@@ -8728,8 +8735,8 @@ insert into `price` values
 insert into `price` values 
 (
 2262,
-238459,
-null
+500000,
+500000
 );
 
 insert into `price` values 
@@ -8799,14 +8806,14 @@ insert into `price` values
 (
 24880,
 122500,
-188111
+173129
 );
 
 insert into `price` values 
 (
 24946,
 150000,
-123685
+129022
 );
 
 insert into `price` values 
@@ -8924,8 +8931,8 @@ null
 insert into `price` values 
 (
 31184,
-796981,
-685254
+685194,
+697471
 );
 
 insert into `price` values 
@@ -8945,15 +8952,15 @@ null
 insert into `price` values 
 (
 15249,
-38823,
-29728
+28611,
+29716
 );
 
 insert into `price` values 
 (
 9783,
 65454,
-16896
+29935
 );
 
 insert into `price` values 
@@ -8988,21 +8995,21 @@ insert into `price` values
 (
 7734,
 1713104,
-1501742
+1520021
 );
 
 insert into `price` values 
 (
 24770,
 670000,
-null
+670000
 );
 
 insert into `price` values 
 (
 25674,
-98000,
-98000
+30000,
+78424
 );
 
 insert into `price` values 
@@ -9079,7 +9086,7 @@ insert into `price` values
 (
 24672,
 400000,
-null
+400000
 );
 
 insert into `price` values 
@@ -9141,15 +9148,15 @@ null
 insert into `price` values 
 (
 43427,
-54250,
-184957
+35000,
+165921
 );
 
 insert into `price` values 
 (
 42971,
 1997000,
-1631655
+1682596
 );
 
 insert into `price` values 
@@ -9197,8 +9204,8 @@ insert into `price` values
 insert into `price` values 
 (
 31214,
-504541,
-475708
+505106,
+478281
 );
 
 insert into `price` values 
@@ -9225,8 +9232,8 @@ insert into `price` values
 insert into `price` values 
 (
 1716,
-200000,
-null
+15201,
+15201
 );
 
 insert into `price` values 
@@ -9239,8 +9246,8 @@ null
 insert into `price` values 
 (
 7057,
-27620,
-75166
+27400,
+66177
 );
 
 insert into `price` values 
@@ -9267,15 +9274,15 @@ null
 insert into `price` values 
 (
 6612,
-10000,
-10000
+53336,
+45081
 );
 
 insert into `price` values 
 (
 3186,
 50000,
-30352
+36977
 );
 
 insert into `price` values 
@@ -9499,7 +9506,7 @@ insert into `price` values
 (
 41102,
 1049500,
-1602944
+1524651
 );
 
 insert into `price` values 
@@ -9512,8 +9519,8 @@ insert into `price` values
 insert into `price` values 
 (
 31213,
-448806,
-433299
+433539,
+448630
 );
 
 insert into `price` values 
@@ -9526,8 +9533,8 @@ null
 insert into `price` values 
 (
 30725,
-13279190,
-13154990
+13285797,
+13168978
 );
 
 insert into `price` values 
@@ -9540,8 +9547,8 @@ null
 insert into `price` values 
 (
 31306,
-648297,
-579393
+648749,
+585230
 );
 
 insert into `price` values 
@@ -9562,7 +9569,7 @@ insert into `price` values
 (
 31127,
 1301976,
-1280778
+1282858
 );
 
 insert into `price` values 
@@ -9604,7 +9611,7 @@ insert into `price` values
 (
 24684,
 223588,
-268072
+262140
 );
 
 insert into `price` values 
@@ -9638,8 +9645,8 @@ null
 insert into `price` values 
 (
 13082,
-500000,
-451780
+450000,
+451535
 );
 
 insert into `price` values 
@@ -9736,8 +9743,8 @@ insert into `price` values
 insert into `price` values 
 (
 31225,
-912133,
-853907
+956829,
+860373
 );
 
 insert into `price` values 
@@ -9771,8 +9778,8 @@ insert into `price` values
 insert into `price` values 
 (
 13146,
-786522,
-790805
+814837,
+792802
 );
 
 insert into `price` values 
@@ -9827,22 +9834,22 @@ null
 insert into `price` values 
 (
 31168,
-200000,
-223079
+250000,
+227003
 );
 
 insert into `price` values 
 (
 13013,
-485100,
-605699
+663613,
+596503
 );
 
 insert into `price` values 
 (
 13007,
 643191,
-645379
+645190
 );
 
 insert into `price` values 
@@ -9856,7 +9863,7 @@ insert into `price` values
 (
 13000,
 1000000,
-957633
+965746
 );
 
 insert into `price` values 
@@ -9898,7 +9905,7 @@ insert into `price` values
 (
 5213,
 74906,
-267994
+263503
 );
 
 insert into `price` values 
@@ -9996,7 +10003,7 @@ insert into `price` values
 (
 10171,
 120000,
-128242
+127010
 );
 
 insert into `price` values 
@@ -10037,8 +10044,8 @@ null
 insert into `price` values 
 (
 10003,
-4300,
-127369
+58500,
+110827
 );
 
 insert into `price` values 
@@ -10051,8 +10058,8 @@ null
 insert into `price` values 
 (
 2072,
-31212,
-26822
+31240,
+27647
 );
 
 insert into `price` values 
@@ -10087,7 +10094,7 @@ insert into `price` values
 (
 10400,
 500000,
-413333
+489601
 );
 
 insert into `price` values 
@@ -10142,8 +10149,8 @@ null
 insert into `price` values 
 (
 13134,
-1194290,
-1161315
+1224943,
+1165405
 );
 
 insert into `price` values 
@@ -10220,7 +10227,7 @@ insert into `price` values
 (
 31152,
 1370000,
-1108332
+1112097
 );
 
 insert into `price` values 
@@ -10303,15 +10310,15 @@ null
 insert into `price` values 
 (
 6613,
-39867,
-39867
+39960,
+39892
 );
 
 insert into `price` values 
 (
 7046,
 20289,
-26601
+26486
 );
 
 insert into `price` values 
@@ -10387,15 +10394,15 @@ insert into `price` values
 insert into `price` values 
 (
 4569,
-100000,
-96088
+50000,
+75855
 );
 
 insert into `price` values 
 (
 15307,
 30000,
-44615
+41012
 );
 
 insert into `price` values 
@@ -10464,8 +10471,8 @@ null
 insert into `price` values 
 (
 22278,
-350000,
-350000
+2000000,
+1312500
 );
 
 insert into `price` values 
@@ -10513,8 +10520,8 @@ null
 insert into `price` values 
 (
 9892,
-8571,
-46962
+48171,
+47121
 );
 
 insert into `price` values 
@@ -10569,8 +10576,8 @@ null
 insert into `price` values 
 (
 6601,
-39697,
-19694
+39878,
+23641
 );
 
 insert into `price` values 
@@ -10584,7 +10591,7 @@ insert into `price` values
 (
 24667,
 187038,
-200466
+197966
 );
 
 insert into `price` values 
@@ -10598,7 +10605,7 @@ insert into `price` values
 (
 7456,
 45000,
-30001
+35370
 );
 
 insert into `price` values 
@@ -10647,14 +10654,14 @@ insert into `price` values
 (
 13001,
 1266714,
-1047667
+1051318
 );
 
 insert into `price` values 
 (
 23494,
 60000,
-74838
+70697
 );
 
 insert into `price` values 
@@ -10668,7 +10675,7 @@ insert into `price` values
 (
 24740,
 150000,
-124170
+129408
 );
 
 insert into `price` values 
@@ -10681,15 +10688,15 @@ insert into `price` values
 insert into `price` values 
 (
 31209,
-2173524,
-2161058
+2197705,
+2162780
 );
 
 insert into `price` values 
 (
 31210,
-2381522,
-2370345
+2400394,
+2371676
 );
 
 insert into `price` values 
@@ -10780,7 +10787,7 @@ insert into `price` values
 (
 10069,
 81732,
-100997
+99196
 );
 
 insert into `price` values 
@@ -10836,14 +10843,14 @@ insert into `price` values
 (
 24624,
 120000,
-95090
+100520
 );
 
 insert into `price` values 
 (
 31199,
-282110,
-342913
+454820,
+338922
 );
 
 insert into `price` values 
@@ -10863,8 +10870,8 @@ null
 insert into `price` values 
 (
 25288,
-120000,
-120000
+330000,
+168749
 );
 
 insert into `price` values 
@@ -10941,7 +10948,7 @@ insert into `price` values
 (
 4727,
 150000,
-144718
+146584
 );
 
 insert into `price` values 
@@ -10983,7 +10990,7 @@ insert into `price` values
 (
 31158,
 739054,
-744356
+744378
 );
 
 insert into `price` values 
@@ -11045,8 +11052,8 @@ insert into `price` values
 insert into `price` values 
 (
 9922,
-54061,
-null
+90000,
+90000
 );
 
 insert into `price` values 
@@ -11060,7 +11067,7 @@ insert into `price` values
 (
 45745,
 1997000,
-1674224
+1721995
 );
 
 insert into `price` values 
@@ -11081,7 +11088,7 @@ insert into `price` values
 (
 25299,
 120000,
-132632
+130070
 );
 
 insert into `price` values 
@@ -11129,29 +11136,29 @@ null
 insert into `price` values 
 (
 41533,
-240000,
-503929
+360000,
+623428
 );
 
 insert into `price` values 
 (
 41535,
-1798400,
-1383196
+1999500,
+1466114
 );
 
 insert into `price` values 
 (
 42961,
-1999500,
-1025993
+1990000,
+1166440
 );
 
 insert into `price` values 
 (
 16840,
-1524936,
-1188495
+1394228,
+1243720
 );
 
 insert into `price` values 
@@ -11179,7 +11186,7 @@ insert into `price` values
 (
 15232,
 50000,
-41457
+41777
 );
 
 insert into `price` values 
@@ -11207,7 +11214,7 @@ insert into `price` values
 (
 3184,
 4182,
-15663
+13940
 );
 
 insert into `price` values 
@@ -11339,8 +11346,8 @@ null
 insert into `price` values 
 (
 31564,
-786365,
-681849
+787704,
+690853
 );
 
 insert into `price` values 
@@ -11430,8 +11437,8 @@ insert into `price` values
 insert into `price` values 
 (
 6567,
-24401,
-24401
+27526,
+25133
 );
 
 insert into `price` values 
@@ -11444,8 +11451,8 @@ null
 insert into `price` values 
 (
 6570,
-39378,
-null
+61089,
+61089
 );
 
 insert into `price` values 
@@ -11472,8 +11479,8 @@ null
 insert into `price` values 
 (
 31250,
-486175,
-500418
+497693,
+499356
 );
 
 insert into `price` values 
@@ -11529,7 +11536,7 @@ insert into `price` values
 (
 24608,
 30000,
-null
+30000
 );
 
 insert into `price` values 
@@ -11550,14 +11557,14 @@ insert into `price` values
 (
 9811,
 48900,
-34813
+36894
 );
 
 insert into `price` values 
 (
 9815,
-15000,
-47587
+74992,
+58084
 );
 
 insert into `price` values 
@@ -11606,7 +11613,7 @@ insert into `price` values
 (
 12994,
 4005298,
-2629197
+2913908
 );
 
 insert into `price` values 
@@ -11647,8 +11654,8 @@ insert into `price` values
 insert into `price` values 
 (
 4071,
-160000,
-null
+43736,
+43736
 );
 
 insert into `price` values 
@@ -11661,8 +11668,8 @@ null
 insert into `price` values 
 (
 6590,
-6600,
-null
+38632,
+38632
 );
 
 insert into `price` values 
@@ -11690,7 +11697,7 @@ insert into `price` values
 (
 23489,
 200000,
-122445
+132885
 );
 
 insert into `price` values 
@@ -11710,8 +11717,8 @@ null
 insert into `price` values 
 (
 790,
-30000,
-34958
+70000,
+39418
 );
 
 insert into `price` values 
@@ -11773,8 +11780,8 @@ null
 insert into `price` values 
 (
 31235,
-520000,
-598387
+629744,
+602307
 );
 
 insert into `price` values 
@@ -11822,8 +11829,8 @@ null
 insert into `price` values 
 (
 24762,
-120000,
-120000
+118013,
+119205
 );
 
 insert into `price` values 
@@ -11892,15 +11899,15 @@ null
 insert into `price` values 
 (
 2256,
-591690,
-583564
+597138,
+584551
 );
 
 insert into `price` values 
 (
 9757,
 55744,
-40428
+43114
 );
 
 insert into `price` values 
@@ -12018,8 +12025,8 @@ null
 insert into `price` values 
 (
 25108,
-220000,
-220000
+120000,
+180605
 );
 
 insert into `price` values 
@@ -12053,8 +12060,8 @@ insert into `price` values
 insert into `price` values 
 (
 6594,
-50000,
-88334
+63363,
+86669
 );
 
 insert into `price` values 
@@ -12067,8 +12074,8 @@ insert into `price` values
 insert into `price` values 
 (
 25302,
-96318,
-null
+810000,
+810000
 );
 
 insert into `price` values 
@@ -12145,7 +12152,7 @@ insert into `price` values
 (
 3042,
 20000,
-140364
+136116
 );
 
 insert into `price` values 
@@ -12242,8 +12249,8 @@ insert into `price` values
 insert into `price` values 
 (
 13067,
-200000,
-200000
+140000,
+163237
 );
 
 insert into `price` values 
@@ -12298,15 +12305,15 @@ insert into `price` values
 insert into `price` values 
 (
 31228,
-1455677,
-1474771
+1480000,
+1473568
 );
 
 insert into `price` values 
 (
 40903,
-69500,
-606025
+50000,
+528222
 );
 
 insert into `price` values 
@@ -12375,8 +12382,8 @@ null
 insert into `price` values 
 (
 1717,
-1317011,
-null
+30000,
+30000
 );
 
 insert into `price` values 
@@ -12467,7 +12474,7 @@ insert into `price` values
 (
 25306,
 210000,
-159440
+162926
 );
 
 insert into `price` values 
@@ -12515,8 +12522,8 @@ insert into `price` values
 insert into `price` values 
 (
 15284,
-101000,
-101000
+100000,
+100614
 );
 
 insert into `price` values 
@@ -12530,7 +12537,7 @@ insert into `price` values
 (
 9955,
 12800,
-20745
+20190
 );
 
 insert into `price` values 
@@ -12571,15 +12578,15 @@ null
 insert into `price` values 
 (
 6419,
-40000,
-66923
+80000,
+66799
 );
 
 insert into `price` values 
 (
 15286,
-80000,
-66525
+30000,
+62467
 );
 
 insert into `price` values 
@@ -12607,7 +12614,7 @@ insert into `price` values
 (
 44684,
 988500,
-1553745
+1474938
 );
 
 insert into `price` values 
@@ -12725,8 +12732,8 @@ insert into `price` values
 insert into `price` values 
 (
 12992,
-562832,
-445823
+100000,
+449750
 );
 
 insert into `price` values 
@@ -12803,7 +12810,7 @@ insert into `price` values
 (
 12425,
 40000,
-47188
+45750
 );
 
 insert into `price` values 
@@ -12844,8 +12851,8 @@ insert into `price` values
 insert into `price` values 
 (
 24848,
-510000,
-null
+500000,
+503201
 );
 
 insert into `price` values 
@@ -12956,8 +12963,8 @@ null
 insert into `price` values 
 (
 9814,
-50000,
-null
+72199,
+72199
 );
 
 insert into `price` values 
@@ -13040,8 +13047,8 @@ null
 insert into `price` values 
 (
 31246,
-578543,
-500993
+546315,
+501978
 );
 
 insert into `price` values 
@@ -13096,14 +13103,14 @@ null
 insert into `price` values 
 (
 6614,
-20000,
-18075
+43360,
+20274
 );
 
 insert into `price` values 
 (
 9821,
-27567,
+27594,
 27567
 );
 
@@ -13293,7 +13300,7 @@ insert into `price` values
 (
 15236,
 54970,
-71461
+63987
 );
 
 insert into `price` values 
@@ -13370,14 +13377,14 @@ insert into `price` values
 (
 9912,
 340000,
-null
+340000
 );
 
 insert into `price` values 
 (
 14203,
 70000,
-62173
+63429
 );
 
 insert into `price` values 
@@ -13398,7 +13405,7 @@ insert into `price` values
 (
 13091,
 1452022,
-1373726
+1381913
 );
 
 insert into `price` values 
@@ -13425,8 +13432,8 @@ null
 insert into `price` values 
 (
 1203,
-500000,
-1300233
+1624708,
+1261360
 );
 
 insert into `price` values 
@@ -13489,14 +13496,14 @@ insert into `price` values
 (
 42901,
 1999500,
-1308413
+1401443
 );
 
 insert into `price` values 
 (
 2315,
 90000,
-19563
+33169
 );
 
 insert into `price` values 
@@ -13565,8 +13572,8 @@ null
 insert into `price` values 
 (
 13059,
-771215,
-768874
+722594,
+768781
 );
 
 insert into `price` values 
@@ -13579,8 +13586,8 @@ null
 insert into `price` values 
 (
 24784,
-150000,
-691770
+370000,
+594850
 );
 
 insert into `price` values 
@@ -13608,14 +13615,14 @@ insert into `price` values
 (
 3203,
 2500000,
-1476513
+1988257
 );
 
 insert into `price` values 
 (
 24976,
 520000,
-null
+520000
 );
 
 insert into `price` values 
@@ -13629,7 +13636,7 @@ insert into `price` values
 (
 6573,
 40000,
-25556
+34467
 );
 
 insert into `price` values 
@@ -13649,8 +13656,8 @@ null
 insert into `price` values 
 (
 31223,
-929898,
-936015
+937520,
+935550
 );
 
 insert into `price` values 
@@ -13719,8 +13726,8 @@ null
 insert into `price` values 
 (
 2912,
-897365,
-897764
+905193,
+897826
 );
 
 insert into `price` values 
@@ -13768,8 +13775,8 @@ null
 insert into `price` values 
 (
 23499,
-770000,
-637474
+220000,
+584791
 );
 
 insert into `price` values 
@@ -13796,15 +13803,15 @@ insert into `price` values
 insert into `price` values 
 (
 40909,
-240000,
-335851
+360000,
+471080
 );
 
 insert into `price` values 
 (
 42456,
 997500,
-1675141
+1580665
 );
 
 insert into `price` values 
@@ -13831,8 +13838,8 @@ insert into `price` values
 insert into `price` values 
 (
 24774,
-184461,
-184461
+185585,
+184930
 );
 
 insert into `price` values 
@@ -13852,8 +13859,8 @@ null
 insert into `price` values 
 (
 31227,
-1399479,
-1233418
+1382085,
+1249407
 );
 
 insert into `price` values 
@@ -13971,8 +13978,8 @@ null
 insert into `price` values 
 (
 15230,
-30000,
-30000
+5000,
+27222
 );
 
 insert into `price` values 
@@ -13985,15 +13992,15 @@ null
 insert into `price` values 
 (
 24666,
-61432,
-61432
+510000,
+435239
 );
 
 insert into `price` values 
 (
 31138,
-230000,
-598746
+663766,
+590037
 );
 
 insert into `price` values 
@@ -14133,7 +14140,7 @@ insert into `price` values
 (
 2800,
 339749,
-345046
+344762
 );
 
 insert into `price` values 
@@ -14167,8 +14174,8 @@ null
 insert into `price` values 
 (
 15233,
-101425,
-251270
+270000,
+258762
 );
 
 insert into `price` values 
@@ -14238,7 +14245,7 @@ insert into `price` values
 (
 9940,
 17500,
-47094
+43680
 );
 
 insert into `price` values 
@@ -14335,8 +14342,8 @@ null
 insert into `price` values 
 (
 7494,
-10629,
-56153
+52821,
+55715
 );
 
 insert into `price` values 
@@ -14349,8 +14356,8 @@ null
 insert into `price` values 
 (
 6553,
-10000,
-null
+14814,
+14814
 );
 
 insert into `price` values 
@@ -14364,7 +14371,7 @@ insert into `price` values
 (
 3036,
 56081,
-60323
+59501
 );
 
 insert into `price` values 
@@ -14454,8 +14461,8 @@ null
 insert into `price` values 
 (
 6596,
-50000,
-33412
+120000,
+55439
 );
 
 insert into `price` values 
@@ -14475,8 +14482,8 @@ insert into `price` values
 insert into `price` values 
 (
 5214,
-49000,
-49000
+290000,
+143140
 );
 
 insert into `price` values 
@@ -14510,29 +14517,29 @@ null
 insert into `price` values 
 (
 23742,
-399947,
-399947
+150000,
+327992
 );
 
 insert into `price` values 
 (
 31161,
-678651,
-695451
+685427,
+694148
 );
 
 insert into `price` values 
 (
 10111,
 50000,
-63333
+58607
 );
 
 insert into `price` values 
 (
 10189,
-70000,
-null
+30000,
+30000
 );
 
 insert into `price` values 
@@ -14560,7 +14567,7 @@ insert into `price` values
 (
 16828,
 935000,
-931673
+957718
 );
 
 insert into `price` values 
@@ -14622,8 +14629,8 @@ null
 insert into `price` values 
 (
 41517,
-1798499,
-1895973
+1797998,
+1882404
 );
 
 insert into `price` values 
@@ -14700,7 +14707,7 @@ insert into `price` values
 (
 8262,
 270000,
-245652
+252501
 );
 
 insert into `price` values 
@@ -14755,8 +14762,8 @@ null
 insert into `price` values 
 (
 13003,
-1094871,
-1083079
+1124277,
+1084587
 );
 
 insert into `price` values 
@@ -14805,7 +14812,7 @@ insert into `price` values
 (
 23503,
 240000,
-257286
+252101
 );
 
 insert into `price` values 
@@ -14839,15 +14846,15 @@ insert into `price` values
 insert into `price` values 
 (
 16799,
-1100000,
-1384018
+1641069,
+1473484
 );
 
 insert into `price` values 
 (
 43826,
-389500,
-1879119
+1000000,
+1689102
 );
 
 insert into `price` values 
@@ -14958,15 +14965,15 @@ null
 insert into `price` values 
 (
 31164,
-926066,
-945725
+2367548,
+968003
 );
 
 insert into `price` values 
 (
 43549,
 1997000,
-1824098
+1848321
 );
 
 insert into `price` values 
@@ -15000,8 +15007,8 @@ insert into `price` values
 insert into `price` values 
 (
 31176,
-3810919,
-1354341
+3813069,
+1581563
 );
 
 insert into `price` values 
@@ -15042,8 +15049,8 @@ null
 insert into `price` values 
 (
 31244,
-726433,
-725444
+727120,
+725564
 );
 
 insert into `price` values 
@@ -15056,8 +15063,8 @@ null
 insert into `price` values 
 (
 31215,
-500000,
-483335
+340000,
+465855
 );
 
 insert into `price` values 
@@ -15084,8 +15091,8 @@ null
 insert into `price` values 
 (
 8180,
-100000,
-100000
+50000,
+78572
 );
 
 insert into `price` values 
@@ -15112,8 +15119,8 @@ null
 insert into `price` values 
 (
 25297,
-60000,
-60000
+90000,
+83226
 );
 
 insert into `price` values 
@@ -15140,15 +15147,15 @@ null
 insert into `price` values 
 (
 15269,
-40857,
-40857
+40000,
+40549
 );
 
 insert into `price` values 
 (
 14420,
 75840,
-60201
+66970
 );
 
 insert into `price` values 
@@ -15189,15 +15196,15 @@ null
 insert into `price` values 
 (
 16819,
-5000000,
-5000000
+1759392,
+2868019
 );
 
 insert into `price` values 
 (
 16817,
 1000000,
-1060404
+1048805
 );
 
 insert into `price` values 
@@ -15239,7 +15246,7 @@ insert into `price` values
 (
 13027,
 455856,
-468072
+466400
 );
 
 insert into `price` values 
@@ -15252,8 +15259,8 @@ null
 insert into `price` values 
 (
 10126,
-160000,
-73241
+64242,
+72390
 );
 
 insert into `price` values 
@@ -15261,6 +15268,13 @@ insert into `price` values
 8269,
 290125,
 null
+);
+
+insert into `price` values 
+(
+9378,
+750000,
+750000
 );
 
 insert into `price` values 
@@ -15357,8 +15371,8 @@ insert into `price` values
 insert into `price` values 
 (
 3041,
-230000,
-109239
+290000,
+152692
 );
 
 insert into `price` values 
@@ -15434,22 +15448,22 @@ insert into `price` values
 insert into `price` values 
 (
 20818,
-40000,
-44529
+32500,
+41233
 );
 
 insert into `price` values 
 (
 24826,
 178300,
-286681
+282513
 );
 
 insert into `price` values 
 (
 40899,
-582500,
-1079557
+544500,
+1007257
 );
 
 insert into `price` values 
@@ -15497,22 +15511,22 @@ insert into `price` values
 insert into `price` values 
 (
 16804,
-1157000,
-1157000
+1355300,
+1193207
 );
 
 insert into `price` values 
 (
 16806,
 550000,
-697403
+665262
 );
 
 insert into `price` values 
 (
 24622,
 120000,
-115882
+116792
 );
 
 insert into `price` values 
@@ -15630,22 +15644,22 @@ null
 insert into `price` values 
 (
 31156,
-926425,
-934803
+952923,
+934347
 );
 
 insert into `price` values 
 (
 24777,
-166173,
-166173
+167489,
+166724
 );
 
 insert into `price` values 
 (
 1121,
 403000,
-4637464
+3982129
 );
 
 insert into `price` values 
@@ -15659,7 +15673,7 @@ insert into `price` values
 (
 40921,
 372500,
-595774
+564794
 );
 
 insert into `price` values 
@@ -15716,6 +15730,13 @@ insert into `price` values
 24831,
 122461,
 null
+);
+
+insert into `price` values 
+(
+29371,
+4990000,
+4990000
 );
 
 insert into `price` values 
@@ -15792,7 +15813,7 @@ insert into `price` values
 (
 7459,
 49652,
-46388
+47374
 );
 
 insert into `price` values 
@@ -15875,8 +15896,8 @@ null
 insert into `price` values 
 (
 24860,
-110000,
-null
+380000,
+380000
 );
 
 insert into `price` values 
@@ -15904,7 +15925,7 @@ insert into `price` values
 (
 42398,
 1999500,
-1669023
+1715772
 );
 
 insert into `price` values 
@@ -16022,8 +16043,8 @@ insert into `price` values
 insert into `price` values 
 (
 13040,
-765693,
-756126
+772357,
+757147
 );
 
 insert into `price` values 
@@ -16058,7 +16079,7 @@ insert into `price` values
 (
 13087,
 60000,
-39435
+49376
 );
 
 insert into `price` values 
@@ -16072,7 +16093,7 @@ insert into `price` values
 (
 43541,
 1999500,
-724813
+901503
 );
 
 insert into `price` values 
@@ -16099,8 +16120,8 @@ null
 insert into `price` values 
 (
 13031,
-2047500,
-2049639
+2027025,
+2049054
 );
 
 insert into `price` values 
@@ -16149,21 +16170,21 @@ insert into `price` values
 (
 43550,
 582500,
-323008
+361798
 );
 
 insert into `price` values 
 (
 45780,
 1999500,
-1204264
+1314611
 );
 
 insert into `price` values 
 (
 3048,
-80000,
-80000
+65757,
+68853
 );
 
 insert into `price` values 
@@ -16190,8 +16211,8 @@ null
 insert into `price` values 
 (
 13054,
-250000,
-296153
+300000,
+294998
 );
 
 insert into `price` values 
@@ -16246,8 +16267,8 @@ insert into `price` values
 insert into `price` values 
 (
 15291,
-30000,
-120417
+70000,
+108336
 );
 
 insert into `price` values 
@@ -16260,8 +16281,8 @@ null
 insert into `price` values 
 (
 41539,
-1000000,
-1079748
+998500,
+1068419
 );
 
 insert into `price` values 
@@ -16303,14 +16324,14 @@ insert into `price` values
 (
 43432,
 434499,
-512897
+501697
 );
 
 insert into `price` values 
 (
 11993,
-50000,
-null
+60067,
+60067
 );
 
 insert into `price` values 
@@ -16330,8 +16351,8 @@ null
 insert into `price` values 
 (
 9803,
-90000,
-64211
+57497,
+64022
 );
 
 insert into `price` values 
@@ -16365,8 +16386,8 @@ insert into `price` values
 insert into `price` values 
 (
 31183,
-1008026,
-825694
+1024199,
+843357
 );
 
 insert into `price` values 
@@ -16407,8 +16428,8 @@ null
 insert into `price` values 
 (
 7455,
-99500,
-null
+85000,
+85000
 );
 
 insert into `price` values 
@@ -16442,22 +16463,22 @@ null
 insert into `price` values 
 (
 43425,
-1997000,
-1388380
+1990200,
+1478365
 );
 
 insert into `price` values 
 (
 45793,
 1947000,
-1442383
+1512738
 );
 
 insert into `price` values 
 (
 49084,
-1998999,
-1699289
+1998498,
+1742270
 );
 
 insert into `price` values 
@@ -16484,8 +16505,8 @@ null
 insert into `price` values 
 (
 13016,
-450000,
-640760
+400000,
+607556
 );
 
 insert into `price` values 
@@ -16533,8 +16554,8 @@ insert into `price` values
 insert into `price` values 
 (
 7026,
-8500,
-null
+44,
+44
 );
 
 insert into `price` values 
@@ -16555,7 +16576,7 @@ insert into `price` values
 (
 12984,
 736216,
-744849
+744068
 );
 
 insert into `price` values 
@@ -16582,8 +16603,15 @@ insert into `price` values
 insert into `price` values 
 (
 4091,
-1000000,
-1238413
+220000,
+915108
+);
+
+insert into `price` values 
+(
+29372,
+4990000,
+4990000
 );
 
 insert into `price` values 
@@ -16604,7 +16632,7 @@ insert into `price` values
 (
 24636,
 39000,
-54170
+53752
 );
 
 insert into `price` values 
@@ -16631,8 +16659,8 @@ null
 insert into `price` values 
 (
 7519,
-86993,
-82559
+70968,
+79628
 );
 
 insert into `price` values 
@@ -16701,8 +16729,8 @@ insert into `price` values
 insert into `price` values 
 (
 41524,
-1999500,
-1999500
+1997000,
+1999172
 );
 
 insert into `price` values 
@@ -16722,8 +16750,8 @@ null
 insert into `price` values 
 (
 31572,
-764232,
-644494
+765320,
+656262
 );
 
 insert into `price` values 
@@ -16737,7 +16765,7 @@ insert into `price` values
 (
 43332,
 1997000,
-1716747
+1755821
 );
 
 insert into `price` values 
@@ -16785,7 +16813,7 @@ null
 insert into `price` values 
 (
 6395,
-12413,
+12441,
 12413
 );
 
@@ -16828,7 +16856,7 @@ insert into `price` values
 (
 25244,
 77500,
-79532
+79150
 );
 
 insert into `price` values 
@@ -16841,15 +16869,15 @@ null
 insert into `price` values 
 (
 13052,
-2000000,
-2000000
+300000,
+1077145
 );
 
 insert into `price` values 
 (
 2098,
-556267,
-522838
+546837,
+527459
 );
 
 insert into `price` values 
@@ -16862,8 +16890,8 @@ null
 insert into `price` values 
 (
 10045,
-1000,
-null
+46,
+46
 );
 
 insert into `price` values 
@@ -16925,8 +16953,8 @@ null
 insert into `price` values 
 (
 6595,
-20000,
-null
+90000,
+90000
 );
 
 insert into `price` values 
@@ -16939,8 +16967,8 @@ null
 insert into `price` values 
 (
 12052,
-40000,
-null
+1500,
+1500
 );
 
 insert into `price` values 
@@ -16954,7 +16982,7 @@ insert into `price` values
 (
 43380,
 1947000,
-1992671
+1986332
 );
 
 insert into `price` values 
@@ -16995,8 +17023,8 @@ null
 insert into `price` values 
 (
 727,
-30000,
-30000
+10000,
+22727
 );
 
 insert into `price` values 
@@ -17044,8 +17072,8 @@ null
 insert into `price` values 
 (
 13112,
-470000,
-470000
+150000,
+361427
 );
 
 insert into `price` values 
@@ -17086,8 +17114,8 @@ null
 insert into `price` values 
 (
 42907,
-250000,
-1131026
+450000,
+1036983
 );
 
 insert into `price` values 
@@ -17142,22 +17170,22 @@ insert into `price` values
 insert into `price` values 
 (
 41110,
-1000000,
-1227203
+900000,
+1191642
 );
 
 insert into `price` values 
 (
 45746,
 1999500,
-1652922
+1702928
 );
 
 insert into `price` values 
 (
 31211,
-1619139,
-1596867
+1658413,
+1599886
 );
 
 insert into `price` values 
@@ -17234,7 +17262,7 @@ insert into `price` values
 (
 15270,
 70000,
-84998
+81332
 );
 
 insert into `price` values 
@@ -17310,15 +17338,15 @@ null
 insert into `price` values 
 (
 25000,
-270000,
-270000
+580000,
+377641
 );
 
 insert into `price` values 
 (
 41108,
-449400,
-757637
+179999,
+704061
 );
 
 insert into `price` values 
@@ -17429,8 +17457,8 @@ insert into `price` values
 insert into `price` values 
 (
 45762,
-1998999,
-1580250
+1994399,
+1638273
 );
 
 insert into `price` values 
@@ -17507,7 +17535,7 @@ insert into `price` values
 (
 42969,
 1999500,
-1998270
+1998443
 );
 
 insert into `price` values 
@@ -17598,7 +17626,7 @@ insert into `price` values
 (
 43334,
 1999500,
-1391940
+1479166
 );
 
 insert into `price` values 
@@ -17632,8 +17660,8 @@ null
 insert into `price` values 
 (
 40914,
-479250,
-789541
+370000,
+745389
 );
 
 insert into `price` values 
@@ -17667,8 +17695,8 @@ null
 insert into `price` values 
 (
 40915,
-583000,
-1111774
+1000000,
+1060350
 );
 
 insert into `price` values 
@@ -17724,7 +17752,7 @@ insert into `price` values
 (
 43316,
 1999500,
-1991575
+1992824
 );
 
 insert into `price` values 
@@ -17794,14 +17822,14 @@ insert into `price` values
 (
 16858,
 1000000,
-1176000
+1133334
 );
 
 insert into `price` values 
 (
 16857,
-1080799,
-825921
+2266840,
+1184790
 );
 
 insert into `price` values 
@@ -17814,8 +17842,8 @@ null
 insert into `price` values 
 (
 25156,
-200000,
-207881
+120000,
+193504
 );
 
 insert into `price` values 
@@ -17836,7 +17864,7 @@ insert into `price` values
 (
 24634,
 56600,
-53079
+53399
 );
 
 insert into `price` values 
@@ -17850,7 +17878,7 @@ insert into `price` values
 (
 13136,
 900000,
-644232
+713552
 );
 
 insert into `price` values 
@@ -17884,8 +17912,8 @@ null
 insert into `price` values 
 (
 12975,
-8726177,
-8485304
+8735915,
+8512201
 );
 
 insert into `price` values 
@@ -17969,7 +17997,7 @@ insert into `price` values
 (
 15235,
 120000,
-70369
+78004
 );
 
 insert into `price` values 
@@ -18150,8 +18178,8 @@ null
 insert into `price` values 
 (
 15015,
-2358,
-2358
+258,
+1537
 );
 
 insert into `price` values 
@@ -18255,8 +18283,8 @@ null
 insert into `price` values 
 (
 9934,
-70000,
-49822
+48829,
+50632
 );
 
 insert into `price` values 
@@ -18367,8 +18395,8 @@ insert into `price` values
 insert into `price` values 
 (
 9923,
-69920,
-null
+291869,
+291869
 );
 
 insert into `price` values 
@@ -18417,7 +18445,7 @@ insert into `price` values
 (
 9883,
 120000,
-128242
+127010
 );
 
 insert into `price` values 
@@ -18494,7 +18522,7 @@ insert into `price` values
 (
 38278,
 350000,
-276415
+302438
 );
 
 insert into `price` values 
@@ -18549,8 +18577,8 @@ null
 insert into `price` values 
 (
 1721,
-2990000,
-3189498
+2450000,
+3049293
 );
 
 insert into `price` values 
@@ -18585,7 +18613,7 @@ insert into `price` values
 (
 15303,
 20000,
-16286
+17311
 );
 
 insert into `price` values 
@@ -18675,8 +18703,8 @@ null
 insert into `price` values 
 (
 3065,
-30000,
-null
+1500,
+1500
 );
 
 insert into `price` values 
@@ -18725,7 +18753,7 @@ insert into `price` values
 (
 1625,
 160000,
-51570
+67439
 );
 
 insert into `price` values 
@@ -18746,7 +18774,7 @@ insert into `price` values
 (
 31224,
 909076,
-918793
+917954
 );
 
 insert into `price` values 
@@ -18956,7 +18984,7 @@ insert into `price` values
 (
 41109,
 582500,
-921992
+873731
 );
 
 insert into `price` values 
@@ -19005,7 +19033,7 @@ insert into `price` values
 (
 16827,
 1409596,
-1358893
+1364953
 );
 
 insert into `price` values 
@@ -19033,7 +19061,7 @@ insert into `price` values
 (
 15251,
 70000,
-81478
+80233
 );
 
 insert into `price` values 
@@ -19215,7 +19243,7 @@ insert into `price` values
 (
 15165,
 111117,
-111048
+111058
 );
 
 insert into `price` values 
@@ -19249,15 +19277,15 @@ null
 insert into `price` values 
 (
 31243,
-615378,
-625996
+654798,
+625441
 );
 
 insert into `price` values 
 (
 42972,
-180000,
-383749
+160000,
+353399
 );
 
 insert into `price` values 
@@ -19305,8 +19333,8 @@ insert into `price` values
 insert into `price` values 
 (
 9756,
-10000,
-8481
+20000,
+16710
 );
 
 insert into `price` values 
@@ -19327,14 +19355,14 @@ insert into `price` values
 (
 43338,
 1999500,
-1138505
+1265898
 );
 
 insert into `price` values 
 (
 24585,
 120000,
-134547
+132003
 );
 
 insert into `price` values 
@@ -19453,21 +19481,21 @@ insert into `price` values
 (
 7532,
 61999,
-65929
+64827
 );
 
 insert into `price` values 
 (
 9998,
-50000,
-52400
+42304,
+49218
 );
 
 insert into `price` values 
 (
 45775,
 1497000,
-1031018
+1097264
 );
 
 insert into `price` values 
@@ -19516,7 +19544,7 @@ insert into `price` values
 (
 45742,
 1999500,
-1871470
+1890710
 );
 
 insert into `price` values 
@@ -19774,8 +19802,8 @@ null
 insert into `price` values 
 (
 6600,
-230000,
-156848
+70000,
+153126
 );
 
 insert into `price` values 
@@ -19837,8 +19865,8 @@ null
 insert into `price` values 
 (
 9948,
-68392,
-79933
+68436,
+77314
 );
 
 insert into `price` values 
@@ -19852,7 +19880,7 @@ insert into `price` values
 (
 15274,
 170000,
-108547
+111858
 );
 
 insert into `price` values 
@@ -19935,8 +19963,8 @@ null
 insert into `price` values 
 (
 22277,
-500000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -19970,8 +19998,8 @@ null
 insert into `price` values 
 (
 3192,
-1500,
-1971
+1450,
+13705
 );
 
 insert into `price` values 
@@ -19985,7 +20013,7 @@ insert into `price` values
 (
 43350,
 1999500,
-979972
+1121291
 );
 
 insert into `price` values 
@@ -20117,8 +20145,8 @@ null
 insert into `price` values 
 (
 13021,
-495000,
-536883
+400000,
+526612
 );
 
 insert into `price` values 
@@ -20146,7 +20174,7 @@ insert into `price` values
 (
 24651,
 150000,
-119976
+126331
 );
 
 insert into `price` values 
@@ -20195,7 +20223,7 @@ insert into `price` values
 (
 24615,
 50000,
-92016
+85012
 );
 
 insert into `price` values 
@@ -20285,8 +20313,8 @@ null
 insert into `price` values 
 (
 13065,
-357777,
-338788
+381707,
+341182
 );
 
 insert into `price` values 
@@ -20348,8 +20376,8 @@ null
 insert into `price` values 
 (
 25318,
-289760,
-null
+500000,
+500000
 );
 
 insert into `price` values 
@@ -20376,8 +20404,8 @@ null
 insert into `price` values 
 (
 15223,
-159397,
-46959
+30000,
+54072
 );
 
 insert into `price` values 
@@ -20390,8 +20418,8 @@ null
 insert into `price` values 
 (
 9805,
-50000,
-45547
+44868,
+45430
 );
 
 insert into `price` values 
@@ -20412,7 +20440,7 @@ insert into `price` values
 (
 34828,
 85000000,
-86674419
+86345798
 );
 
 insert into `price` values 
@@ -20461,7 +20489,7 @@ insert into `price` values
 (
 43395,
 1997000,
-1162132
+1278533
 );
 
 insert into `price` values 
@@ -20495,8 +20523,8 @@ insert into `price` values
 insert into `price` values 
 (
 13097,
-2119772,
-2100172
+350000,
+2019250
 );
 
 insert into `price` values 
@@ -20551,8 +20579,8 @@ null
 insert into `price` values 
 (
 25320,
-205000,
-205000
+580000,
+279290
 );
 
 insert into `price` values 
@@ -20789,8 +20817,8 @@ null
 insert into `price` values 
 (
 43378,
-1999500,
-1999500
+1990500,
+1999414
 );
 
 insert into `price` values 
@@ -20831,8 +20859,8 @@ null
 insert into `price` values 
 (
 6397,
-25000,
-25000
+28344,
+27927
 );
 
 insert into `price` values 
@@ -20880,8 +20908,8 @@ null
 insert into `price` values 
 (
 7439,
-97128,
-88818
+96406,
+90026
 );
 
 insert into `price` values 
@@ -20936,8 +20964,8 @@ null
 insert into `price` values 
 (
 13113,
-370000,
-667299
+900000,
+766425
 );
 
 insert into `price` values 
@@ -20985,8 +21013,8 @@ null
 insert into `price` values 
 (
 43553,
-197500,
-222070
+197000,
+218584
 );
 
 insert into `price` values 
@@ -21063,7 +21091,7 @@ insert into `price` values
 (
 31556,
 300000,
-625008
+598858
 );
 
 insert into `price` values 
@@ -21105,7 +21133,7 @@ insert into `price` values
 (
 5756,
 1108904,
-1028166
+1036501
 );
 
 insert into `price` values 
@@ -21175,7 +21203,7 @@ insert into `price` values
 (
 16861,
 5000000,
-3326988
+3512878
 );
 
 insert into `price` values 
@@ -21202,8 +21230,8 @@ null
 insert into `price` values 
 (
 41100,
-583000,
-300743
+544500,
+339546
 );
 
 insert into `price` values 
@@ -21216,8 +21244,8 @@ insert into `price` values
 insert into `price` values 
 (
 31185,
-638363,
-689516
+719915,
+684932
 );
 
 insert into `price` values 
@@ -21370,8 +21398,8 @@ null
 insert into `price` values 
 (
 8184,
-10000,
-12425
+80000,
+17458
 );
 
 insert into `price` values 
@@ -21510,8 +21538,8 @@ insert into `price` values
 insert into `price` values 
 (
 31163,
-2118888,
-1226205
+1313409,
+1301112
 );
 
 insert into `price` values 
@@ -21524,8 +21552,8 @@ null
 insert into `price` values 
 (
 34087,
-1990000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -21545,8 +21573,8 @@ insert into `price` values
 insert into `price` values 
 (
 3021,
-788505,
-1045124
+1315710,
+1058441
 );
 
 insert into `price` values 
@@ -21616,7 +21644,7 @@ insert into `price` values
 (
 13039,
 629275,
-583756
+586060
 );
 
 insert into `price` values 
@@ -21685,8 +21713,8 @@ insert into `price` values
 insert into `price` values 
 (
 13051,
-750000,
-699217
+500000,
+666781
 );
 
 insert into `price` values 
@@ -21714,7 +21742,7 @@ insert into `price` values
 (
 40901,
 1999500,
-1010649
+1149089
 );
 
 insert into `price` values 
@@ -21735,7 +21763,7 @@ insert into `price` values
 (
 25205,
 120000,
-232234
+207577
 );
 
 insert into `price` values 
@@ -21762,8 +21790,8 @@ null
 insert into `price` values 
 (
 6337,
-8635,
-8635
+50000,
+25180
 );
 
 insert into `price` values 
@@ -21811,15 +21839,15 @@ insert into `price` values
 insert into `price` values 
 (
 1640,
-200000,
-200000
+70000,
+180741
 );
 
 insert into `price` values 
 (
 31233,
-731502,
-777750
+733568,
+779021
 );
 
 insert into `price` values 
@@ -21833,21 +21861,21 @@ insert into `price` values
 (
 43393,
 1999500,
-1992442
+1993436
 );
 
 insert into `price` values 
 (
 43331,
 1999500,
-1835679
+1858411
 );
 
 insert into `price` values 
 (
 16838,
-650000,
-715738
+200000,
+616192
 );
 
 insert into `price` values 
@@ -21917,21 +21945,21 @@ insert into `price` values
 (
 25187,
 184855,
-145275
+145730
 );
 
 insert into `price` values 
 (
 45772,
 1999500,
-1982595
+1984938
 );
 
 insert into `price` values 
 (
 41532,
-257000,
-663546
+1997000,
+811907
 );
 
 insert into `price` values 
@@ -22001,14 +22029,14 @@ insert into `price` values
 (
 10183,
 83127,
-81004
+81332
 );
 
 insert into `price` values 
 (
 10194,
-29900,
-29900
+20000,
+26010
 );
 
 insert into `price` values 
@@ -22288,7 +22316,7 @@ insert into `price` values
 (
 13004,
 639540,
-607715
+610712
 );
 
 insert into `price` values 
@@ -22323,7 +22351,7 @@ insert into `price` values
 (
 9385,
 900000,
-1391544
+1258323
 );
 
 insert into `price` values 
@@ -22336,8 +22364,8 @@ insert into `price` values
 insert into `price` values 
 (
 9904,
-10000,
-10000
+80000,
+19244
 );
 
 insert into `price` values 
@@ -22406,8 +22434,8 @@ null
 insert into `price` values 
 (
 7062,
-6100,
-47293
+97500,
+56981
 );
 
 insert into `price` values 
@@ -22448,8 +22476,8 @@ null
 insert into `price` values 
 (
 31212,
-1911820,
-1926648
+1936841,
+1925605
 );
 
 insert into `price` values 
@@ -22476,8 +22504,8 @@ insert into `price` values
 insert into `price` values 
 (
 21154,
-255599,
-255599
+2000000,
+1069652
 );
 
 insert into `price` values 
@@ -22498,7 +22526,7 @@ insert into `price` values
 (
 25296,
 259450,
-223336
+223697
 );
 
 insert into `price` values 
@@ -22511,8 +22539,8 @@ null
 insert into `price` values 
 (
 6269,
-27075,
-24781
+29177,
+25419
 );
 
 insert into `price` values 
@@ -22527,6 +22555,13 @@ insert into `price` values
 1443,
 1000000,
 null
+);
+
+insert into `price` values 
+(
+29378,
+4990000,
+4990000
 );
 
 insert into `price` values 
@@ -22574,8 +22609,8 @@ null
 insert into `price` values 
 (
 4561,
-100000,
-92074
+50000,
+74463
 );
 
 insert into `price` values 
@@ -22596,7 +22631,7 @@ insert into `price` values
 (
 10097,
 300000,
-137063
+153357
 );
 
 insert into `price` values 
@@ -22610,7 +22645,7 @@ insert into `price` values
 (
 10179,
 103127,
-108716
+107845
 );
 
 insert into `price` values 
@@ -22652,7 +22687,7 @@ insert into `price` values
 (
 10198,
 80000,
-60801
+67028
 );
 
 insert into `price` values 
@@ -22680,7 +22715,7 @@ insert into `price` values
 (
 14223,
 56373,
-59910
+59133
 );
 
 insert into `price` values 
@@ -22736,7 +22771,7 @@ insert into `price` values
 (
 43418,
 250000,
-179290
+189243
 );
 
 insert into `price` values 
@@ -22799,7 +22834,7 @@ insert into `price` values
 (
 13126,
 750000,
-697637
+727413
 );
 
 insert into `price` values 
@@ -22952,8 +22987,8 @@ insert into `price` values
 insert into `price` values 
 (
 9799,
-50000,
-33086
+90000,
+36121
 );
 
 insert into `price` values 
@@ -22967,7 +23002,7 @@ insert into `price` values
 (
 38089,
 85000000,
-86674419
+86345798
 );
 
 insert into `price` values 
@@ -23037,7 +23072,7 @@ insert into `price` values
 (
 42752,
 1997000,
-1841462
+1863149
 );
 
 insert into `price` values 
@@ -23071,15 +23106,15 @@ insert into `price` values
 insert into `price` values 
 (
 40897,
-824767,
-1088320
+823765,
+1051650
 );
 
 insert into `price` values 
 (
 41094,
-165500,
-167523
+165000,
+167180
 );
 
 insert into `price` values 
@@ -23212,14 +23247,14 @@ insert into `price` values
 (
 40913,
 663500,
-372240
+416004
 );
 
 insert into `price` values 
 (
 45734,
-1999500,
-1429358
+1990200,
+1509530
 );
 
 insert into `price` values 
@@ -23232,57 +23267,57 @@ insert into `price` values
 insert into `price` values 
 (
 43428,
-126250,
-174101
+125500,
+167398
 );
 
 insert into `price` values 
 (
 43397,
 997000,
-1109528
+1093914
 );
 
 insert into `price` values 
 (
 43398,
 1997000,
-1996837
+1996866
 );
 
 insert into `price` values 
 (
 45747,
 1999500,
-1438440
+1521881
 );
 
 insert into `price` values 
 (
 42453,
-1992500,
-1946965
+250000,
+1915744
 );
 
 insert into `price` values 
 (
 42459,
-1997000,
-1466150
+1994500,
+1539504
 );
 
 insert into `price` values 
 (
 42464,
 988500,
-1890723
+1764935
 );
 
 insert into `price` values 
 (
 41099,
-1999500,
-1600674
+550000,
+1625028
 );
 
 insert into `price` values 
@@ -23295,8 +23330,8 @@ null
 insert into `price` values 
 (
 43424,
-80000,
-433265
+60000,
+382708
 );
 
 insert into `price` values 
@@ -23310,7 +23345,7 @@ insert into `price` values
 (
 42415,
 199500,
-528111
+486230
 );
 
 insert into `price` values 
@@ -23345,14 +23380,14 @@ insert into `price` values
 (
 45731,
 1999500,
-1264225
+1371916
 );
 
 insert into `price` values 
 (
 43351,
-1998999,
-1846412
+1990200,
+1867461
 );
 
 insert into `price` values 
@@ -23408,7 +23443,7 @@ insert into `price` values
 (
 25103,
 194535,
-151714
+152206
 );
 
 insert into `price` values 
@@ -23422,7 +23457,7 @@ insert into `price` values
 (
 39948,
 135000,
-141555
+140233
 );
 
 insert into `price` values 
@@ -23478,7 +23513,7 @@ insert into `price` values
 (
 14770,
 228696,
-138740
+152250
 );
 
 insert into `price` values 
@@ -23512,8 +23547,8 @@ null
 insert into `price` values 
 (
 14276,
-44631,
-44631
+44675,
+44648
 );
 
 insert into `price` values 
@@ -23632,7 +23667,7 @@ insert into `price` values
 (
 39976,
 132000,
-94364
+95662
 );
 
 insert into `price` values 
@@ -23667,7 +23702,7 @@ insert into `price` values
 (
 39915,
 135000,
-122149
+124892
 );
 
 insert into `price` values 
@@ -23694,15 +23729,15 @@ null
 insert into `price` values 
 (
 37763,
-701995,
-601228
+554925,
+602526
 );
 
 insert into `price` values 
 (
 37764,
-610666,
-546199
+505745,
+546030
 );
 
 insert into `price` values 
@@ -23884,21 +23919,21 @@ insert into `price` values
 (
 39940,
 135000,
-117096
+118511
 );
 
 insert into `price` values 
 (
 43377,
 1997000,
-1991164
+1991977
 );
 
 insert into `price` values 
 (
 36670,
 255000,
-216858
+220407
 );
 
 insert into `price` values 
@@ -23939,15 +23974,15 @@ null
 insert into `price` values 
 (
 37646,
-1179676,
-1164319
+1190924,
+1166181
 );
 
 insert into `price` values 
 (
 45768,
 1999500,
-1115549
+1254866
 );
 
 insert into `price` values 
@@ -23974,8 +24009,8 @@ insert into `price` values
 insert into `price` values 
 (
 35579,
-1868753,
-1202724
+80000,
+1132524
 );
 
 insert into `price` values 
@@ -24002,8 +24037,8 @@ null
 insert into `price` values 
 (
 39088,
-130000,
-185516
+650000,
+390959
 );
 
 insert into `price` values 
@@ -24016,8 +24051,8 @@ insert into `price` values
 insert into `price` values 
 (
 44649,
-550000,
-588180
+650000,
+721194
 );
 
 insert into `price` values 
@@ -24044,8 +24079,8 @@ insert into `price` values
 insert into `price` values 
 (
 36671,
-301665,
-308579
+309988,
+308767
 );
 
 insert into `price` values 
@@ -24066,21 +24101,21 @@ insert into `price` values
 (
 37744,
 3583140,
-3539693
+3544556
 );
 
 insert into `price` values 
 (
 39084,
-200000,
-null
+650000,
+650000
 );
 
 insert into `price` values 
 (
 39086,
-140000,
-140000
+550000,
+321347
 );
 
 insert into `price` values 
@@ -24100,8 +24135,8 @@ null
 insert into `price` values 
 (
 35616,
-550000,
-577448
+500000,
+584125
 );
 
 insert into `price` values 
@@ -24177,15 +24212,15 @@ null
 insert into `price` values 
 (
 37821,
-684561,
-667213
+737869,
+670981
 );
 
 insert into `price` values 
 (
 44670,
-1334165,
-1027580
+750000,
+1048529
 );
 
 insert into `price` values 
@@ -24212,8 +24247,8 @@ null
 insert into `price` values 
 (
 35980,
-55512,
-null
+83268,
+83268
 );
 
 insert into `price` values 
@@ -24227,7 +24262,7 @@ insert into `price` values
 (
 41502,
 130000,
-125479
+126464
 );
 
 insert into `price` values 
@@ -24332,7 +24367,7 @@ insert into `price` values
 (
 35683,
 2858193,
-2791979
+2799386
 );
 
 insert into `price` values 
@@ -24436,15 +24471,15 @@ null
 insert into `price` values 
 (
 52234,
-1999500,
-360005
+559500,
+439733
 );
 
 insert into `price` values 
 (
 39955,
 138000,
-120516
+124300
 );
 
 insert into `price` values 
@@ -24513,8 +24548,8 @@ null
 insert into `price` values 
 (
 37856,
-3620634,
-3542117
+3465000,
+3538478
 );
 
 insert into `price` values 
@@ -24598,7 +24633,7 @@ insert into `price` values
 (
 37776,
 400000,
-485715
+472974
 );
 
 insert into `price` values 
@@ -24611,8 +24646,8 @@ null
 insert into `price` values 
 (
 39085,
-200000,
-null
+650000,
+650000
 );
 
 insert into `price` values 
@@ -24632,15 +24667,15 @@ insert into `price` values
 insert into `price` values 
 (
 41974,
-519999,
-null
+300000,
+300000
 );
 
 insert into `price` values 
 (
 39947,
 134500,
-124003
+124621
 );
 
 insert into `price` values 
@@ -24731,7 +24766,7 @@ insert into `price` values
 (
 10109,
 20000,
-21667
+21444
 );
 
 insert into `price` values 
@@ -24871,7 +24906,7 @@ insert into `price` values
 (
 39949,
 137500,
-109505
+113670
 );
 
 insert into `price` values 
@@ -24905,8 +24940,8 @@ insert into `price` values
 insert into `price` values 
 (
 40672,
-1487109,
-1407902
+1490175,
+1414860
 );
 
 insert into `price` values 
@@ -24954,8 +24989,8 @@ null
 insert into `price` values 
 (
 52289,
-1239500,
-943705
+930000,
+956106
 );
 
 insert into `price` values 
@@ -24983,7 +25018,7 @@ insert into `price` values
 (
 43551,
 706801,
-1048807
+1001353
 );
 
 insert into `price` values 
@@ -25011,7 +25046,7 @@ insert into `price` values
 (
 39966,
 131000,
-132736
+132361
 );
 
 insert into `price` values 
@@ -25123,7 +25158,7 @@ insert into `price` values
 (
 40865,
 100000,
-178946
+171427
 );
 
 insert into `price` values 
@@ -25165,7 +25200,7 @@ insert into `price` values
 (
 39908,
 135500,
-116973
+120785
 );
 
 insert into `price` values 
@@ -25185,8 +25220,8 @@ insert into `price` values
 insert into `price` values 
 (
 43249,
-258000,
-231729
+250000,
+233556
 );
 
 insert into `price` values 
@@ -25206,7 +25241,7 @@ null
 insert into `price` values 
 (
 37786,
-300000,
+550000,
 550000
 );
 
@@ -25220,22 +25255,22 @@ null
 insert into `price` values 
 (
 37753,
-475482,
-455358
+473258,
+457491
 );
 
 insert into `price` values 
 (
 41607,
-906305,
-900119
+937718,
+896411
 );
 
 insert into `price` values 
 (
 37624,
-5000000,
-2775000
+3800000,
+3315333
 );
 
 insert into `price` values 
@@ -25248,22 +25283,22 @@ null
 insert into `price` values 
 (
 41525,
-562362,
-559728
+576760,
+560140
 );
 
 insert into `price` values 
 (
 39083,
-150000,
-150000
+500000,
+325002
 );
 
 insert into `price` values 
 (
 41975,
-100000,
-143664
+250000,
+146792
 );
 
 insert into `price` values 
@@ -25283,8 +25318,8 @@ null
 insert into `price` values 
 (
 37793,
-1100000,
-1100000
+330000,
+731738
 );
 
 insert into `price` values 
@@ -25360,8 +25395,8 @@ null
 insert into `price` values 
 (
 37891,
-667642,
-638922
+670363,
+641774
 );
 
 insert into `price` values 
@@ -25382,7 +25417,7 @@ insert into `price` values
 (
 42754,
 1999500,
-1968709
+1973062
 );
 
 insert into `price` values 
@@ -25423,8 +25458,8 @@ null
 insert into `price` values 
 (
 44210,
-4171332,
-4169456
+4387090,
+4172254
 );
 
 insert into `price` values 
@@ -25452,7 +25487,7 @@ insert into `price` values
 (
 44668,
 1250000,
-1119913
+1120899
 );
 
 insert into `price` values 
@@ -25472,8 +25507,8 @@ null
 insert into `price` values 
 (
 36296,
-133113,
-null
+127200,
+127200
 );
 
 insert into `price` values 
@@ -25494,21 +25529,21 @@ insert into `price` values
 (
 35639,
 931910,
-837189
+845657
 );
 
 insert into `price` values 
 (
 43364,
-1998999,
-1781137
+1998498,
+1811321
 );
 
 insert into `price` values 
 (
 37805,
 1250000,
-1867231
+1769950
 );
 
 insert into `price` values 
@@ -25584,7 +25619,7 @@ null
 insert into `price` values 
 (
 15601,
-59953,
+59956,
 59953
 );
 
@@ -25592,7 +25627,7 @@ insert into `price` values
 (
 39933,
 131000,
-120472
+120851
 );
 
 insert into `price` values 
@@ -25627,7 +25662,7 @@ insert into `price` values
 (
 39967,
 115000,
-123837
+122002
 );
 
 insert into `price` values 
@@ -25739,7 +25774,7 @@ insert into `price` values
 (
 43417,
 990500,
-682980
+726272
 );
 
 insert into `price` values 
@@ -25752,29 +25787,29 @@ null
 insert into `price` values 
 (
 45771,
-1999500,
-1999500
+500000,
+1985151
 );
 
 insert into `price` values 
 (
 43399,
 995500,
-1239596
+1205726
 );
 
 insert into `price` values 
 (
 41542,
-646000,
-1076388
+644500,
+1016504
 );
 
 insert into `price` values 
 (
 43396,
-1990000,
-545626
+1989500,
+749895
 );
 
 insert into `price` values 
@@ -25788,42 +25823,42 @@ insert into `price` values
 (
 41097,
 1997000,
-1030644
+1172900
 );
 
 insert into `price` values 
 (
 43537,
 1997000,
-1264069
+1366750
 );
 
 insert into `price` values 
 (
 45776,
-249000,
-575796
+1999500,
+755898
 );
 
 insert into `price` values 
 (
 44923,
 1997000,
-1655431
+1705461
 );
 
 insert into `price` values 
 (
 41531,
-1999500,
-693827
+1997000,
+901502
 );
 
 insert into `price` values 
 (
 41536,
-200000,
-115992
+180000,
+127170
 );
 
 insert into `price` values 
@@ -25836,8 +25871,8 @@ insert into `price` values
 insert into `price` values 
 (
 41092,
-599400,
-1392102
+370000,
+1274293
 );
 
 insert into `price` values 
@@ -25892,8 +25927,8 @@ null
 insert into `price` values 
 (
 41185,
-721462,
-683389
+758780,
+686909
 );
 
 insert into `price` values 
@@ -25970,7 +26005,7 @@ insert into `price` values
 (
 37785,
 961227,
-911147
+918852
 );
 
 insert into `price` values 
@@ -26011,8 +26046,8 @@ null
 insert into `price` values 
 (
 37766,
-489907,
-447049
+405320,
+438078
 );
 
 insert into `price` values 
@@ -26214,8 +26249,8 @@ null
 insert into `price` values 
 (
 43459,
-2315619,
-2216686
+2380693,
+2227195
 );
 
 insert into `price` values 
@@ -26291,8 +26326,8 @@ null
 insert into `price` values 
 (
 37648,
-635866,
-null
+89518,
+89518
 );
 
 insert into `price` values 
@@ -26326,8 +26361,8 @@ insert into `price` values
 insert into `price` values 
 (
 37781,
-1242472,
-1160001
+1280165,
+1167500
 );
 
 insert into `price` values 
@@ -26375,8 +26410,8 @@ null
 insert into `price` values 
 (
 41383,
-9248328,
-8978958
+9372613,
+9004568
 );
 
 insert into `price` values 
@@ -26390,7 +26425,7 @@ insert into `price` values
 (
 39978,
 130000,
-120964
+121298
 );
 
 insert into `price` values 
@@ -26404,7 +26439,7 @@ insert into `price` values
 (
 44440,
 350000,
-543939
+483333
 );
 
 insert into `price` values 
@@ -26558,7 +26593,7 @@ insert into `price` values
 (
 37364,
 1825699,
-1793698
+1796839
 );
 
 insert into `price` values 
@@ -26592,8 +26627,8 @@ insert into `price` values
 insert into `price` values 
 (
 44441,
-550000,
-743939
+500000,
+673960
 );
 
 insert into `price` values 
@@ -26607,7 +26642,7 @@ insert into `price` values
 (
 44308,
 5551103,
-5398606
+5413574
 );
 
 insert into `price` values 
@@ -26635,7 +26670,7 @@ insert into `price` values
 (
 39927,
 136500,
-127307
+128448
 );
 
 insert into `price` values 
@@ -26662,15 +26697,15 @@ insert into `price` values
 insert into `price` values 
 (
 24607,
-200000,
-241060
+258242,
+243279
 );
 
 insert into `price` values 
 (
 39980,
 130000,
-102974
+108572
 );
 
 insert into `price` values 
@@ -26711,8 +26746,8 @@ null
 insert into `price` values 
 (
 67482,
-997000,
-894153
+970000,
+908578
 );
 
 insert into `price` values 
@@ -26823,8 +26858,8 @@ null
 insert into `price` values 
 (
 37767,
-1104899,
-1099200
+1117102,
+1100008
 );
 
 insert into `price` values 
@@ -26859,7 +26894,7 @@ insert into `price` values
 (
 42340,
 395843,
-392473
+392785
 );
 
 insert into `price` values 
@@ -26998,8 +27033,8 @@ null
 insert into `price` values 
 (
 6381,
-10000,
-12641
+20000,
+13606
 );
 
 insert into `price` values 
@@ -27089,8 +27124,8 @@ null
 insert into `price` values 
 (
 37756,
-750000,
-2381665
+700000,
+2297261
 );
 
 insert into `price` values 
@@ -27180,8 +27215,8 @@ null
 insert into `price` values 
 (
 42749,
-250000,
-1016700
+150000,
+895612
 );
 
 insert into `price` values 
@@ -27202,7 +27237,7 @@ insert into `price` values
 (
 40282,
 1000000,
-1096908
+1074603
 );
 
 insert into `price` values 
@@ -27257,8 +27292,8 @@ null
 insert into `price` values 
 (
 44681,
-1000000,
-1066320
+1250000,
+1130647
 );
 
 insert into `price` values 
@@ -27278,8 +27313,8 @@ null
 insert into `price` values 
 (
 64493,
-1949013,
-1412968
+1948500,
+1490304
 );
 
 insert into `price` values 
@@ -27293,7 +27328,7 @@ insert into `price` values
 (
 40439,
 18848121,
-18517422
+18547317
 );
 
 insert into `price` values 
@@ -27369,8 +27404,8 @@ null
 insert into `price` values 
 (
 44740,
-1171258,
-1180671
+1179503,
+1179849
 );
 
 insert into `price` values 
@@ -27412,7 +27447,7 @@ insert into `price` values
 (
 39981,
 130000,
-102974
+108572
 );
 
 insert into `price` values 
@@ -27440,7 +27475,7 @@ insert into `price` values
 (
 37824,
 495000,
-474008
+473109
 );
 
 insert into `price` values 
@@ -27509,8 +27544,8 @@ null
 insert into `price` values 
 (
 15935,
-15000,
-15000
+20000,
+15740
 );
 
 insert into `price` values 
@@ -27565,15 +27600,15 @@ insert into `price` values
 insert into `price` values 
 (
 20961,
-85000,
-82872
+50000,
+75362
 );
 
 insert into `price` values 
 (
 9847,
-20000,
-83481
+75428,
+82690
 );
 
 insert into `price` values 
@@ -27642,8 +27677,8 @@ insert into `price` values
 insert into `price` values 
 (
 44667,
-999705,
-783854
+611881,
+799831
 );
 
 insert into `price` values 
@@ -27657,14 +27692,14 @@ insert into `price` values
 (
 37806,
 669499,
-827527
+791725
 );
 
 insert into `price` values 
 (
 44683,
-200000,
-1368546
+868701,
+1229335
 );
 
 insert into `price` values 
@@ -27691,22 +27726,22 @@ null
 insert into `price` values 
 (
 62048,
-59349505,
-53869949
+58706009,
+54627978
 );
 
 insert into `price` values 
 (
 37782,
 473688,
-450177
+453903
 );
 
 insert into `price` values 
 (
 44732,
-638995,
-676835
+663075,
+674590
 );
 
 insert into `price` values 
@@ -27719,8 +27754,8 @@ insert into `price` values
 insert into `price` values 
 (
 36425,
-110000,
-193284
+150000,
+181479
 );
 
 insert into `price` values 
@@ -27776,7 +27811,7 @@ insert into `price` values
 (
 41470,
 135000,
-118241
+121711
 );
 
 insert into `price` values 
@@ -27908,8 +27943,8 @@ insert into `price` values
 insert into `price` values 
 (
 63539,
-582500,
-952295
+581500,
+900861
 );
 
 insert into `price` values 
@@ -27950,8 +27985,8 @@ null
 insert into `price` values 
 (
 52293,
-1219500,
-947368
+1030000,
+967082
 );
 
 insert into `price` values 
@@ -27971,22 +28006,22 @@ null
 insert into `price` values 
 (
 52295,
-1259500,
-1011725
+990000,
+1021839
 );
 
 insert into `price` values 
 (
 52216,
-3003155,
-2787142
+3002633,
+2791409
 );
 
 insert into `price` values 
 (
 52300,
-1249500,
-913820
+1050000,
+933838
 );
 
 insert into `price` values 
@@ -28014,7 +28049,7 @@ insert into `price` values
 (
 3835,
 35600,
-32067
+32433
 );
 
 insert into `price` values 
@@ -28069,8 +28104,8 @@ null
 insert into `price` values 
 (
 44685,
-808051,
-789792
+809675,
+805088
 );
 
 insert into `price` values 
@@ -28132,8 +28167,8 @@ null
 insert into `price` values 
 (
 13058,
-843862,
-754895
+897779,
+763041
 );
 
 insert into `price` values 
@@ -28315,14 +28350,14 @@ insert into `price` values
 (
 45604,
 1999500,
-873605
+1032104
 );
 
 insert into `price` values 
 (
 40902,
-250000,
-1633597
+240000,
+1440497
 );
 
 insert into `price` values 
@@ -28377,8 +28412,8 @@ null
 insert into `price` values 
 (
 15373,
-100250,
-100250
+102558,
+101165
 );
 
 insert into `price` values 
@@ -28496,8 +28531,8 @@ null
 insert into `price` values 
 (
 44677,
-1350000,
-1251492
+623847,
+1085957
 );
 
 insert into `price` values 
@@ -28545,8 +28580,8 @@ null
 insert into `price` values 
 (
 6309,
-30000,
-38936
+34125,
+38757
 );
 
 insert into `price` values 
@@ -28580,8 +28615,8 @@ null
 insert into `price` values 
 (
 37758,
-520000,
-586885
+320000,
+549005
 );
 
 insert into `price` values 
@@ -28658,7 +28693,7 @@ insert into `price` values
 (
 52224,
 1999500,
-454528
+551798
 );
 
 insert into `price` values 
@@ -28784,7 +28819,7 @@ insert into `price` values
 (
 36069,
 120000,
-226546
+214515
 );
 
 insert into `price` values 
@@ -28840,28 +28875,28 @@ insert into `price` values
 (
 44676,
 150000,
-1438700
+1226356
 );
 
 insert into `price` values 
 (
 45789,
-1999500,
-1999500
+1550000,
+1962405
 );
 
 insert into `price` values 
 (
 41112,
-675363,
-664147
+681562,
+665324
 );
 
 insert into `price` values 
 (
 43340,
 1999500,
-1807944
+1836287
 );
 
 insert into `price` values 
@@ -28896,7 +28931,7 @@ insert into `price` values
 (
 37754,
 564501,
-554215
+555194
 );
 
 insert into `price` values 
@@ -28979,15 +29014,15 @@ null
 insert into `price` values 
 (
 44672,
-760647,
-661822
+680233,
+668325
 );
 
 insert into `price` values 
 (
 44674,
-70000,
-415471
+546686,
+410865
 );
 
 insert into `price` values 
@@ -29000,8 +29035,8 @@ null
 insert into `price` values 
 (
 35962,
-90000,
-null
+120000,
+120000
 );
 
 insert into `price` values 
@@ -29070,15 +29105,15 @@ null
 insert into `price` values 
 (
 43244,
-50000,
-null
+200000,
+200000
 );
 
 insert into `price` values 
 (
 7963,
 45600,
-85348
+81226
 );
 
 insert into `price` values 
@@ -29099,7 +29134,7 @@ insert into `price` values
 (
 44673,
 580596,
-560737
+562373
 );
 
 insert into `price` values 
@@ -29176,7 +29211,7 @@ insert into `price` values
 (
 44666,
 661692,
-580767
+588663
 );
 
 insert into `price` values 
@@ -29238,8 +29273,8 @@ null
 insert into `price` values 
 (
 13060,
-817433,
-817433
+150000,
+621806
 );
 
 insert into `price` values 
@@ -29350,8 +29385,8 @@ null
 insert into `price` values 
 (
 44697,
-713807,
-675068
+683100,
+677542
 );
 
 insert into `price` values 
@@ -29364,8 +29399,8 @@ null
 insert into `price` values 
 (
 39894,
-2822106,
-1962489
+2964044,
+2034115
 );
 
 insert into `price` values 
@@ -29406,8 +29441,8 @@ null
 insert into `price` values 
 (
 36191,
-72738,
-null
+109107,
+109107
 );
 
 insert into `price` values 
@@ -29441,8 +29476,8 @@ null
 insert into `price` values 
 (
 44675,
-452311,
-466371
+480126,
+476343
 );
 
 insert into `price` values 
@@ -29560,8 +29595,8 @@ null
 insert into `price` values 
 (
 44669,
-1190681,
-999435
+750000,
+1045661
 );
 
 insert into `price` values 
@@ -29777,8 +29812,8 @@ insert into `price` values
 insert into `price` values 
 (
 44691,
-1474473,
-926080
+750000,
+967879
 );
 
 insert into `price` values 
@@ -30114,14 +30149,14 @@ insert into `price` values
 (
 42909,
 1999500,
-886369
+1043073
 );
 
 insert into `price` values 
 (
 43369,
 1999500,
-2116293
+2098466
 );
 
 insert into `price` values 
@@ -30197,8 +30232,8 @@ null
 insert into `price` values 
 (
 44695,
-1128737,
-856251
+1125257,
+884888
 );
 
 insert into `price` values 
@@ -30295,8 +30330,8 @@ null
 insert into `price` values 
 (
 37790,
-1917074,
-1839516
+1827211,
+1845909
 );
 
 insert into `price` values 
@@ -30470,8 +30505,8 @@ null
 insert into `price` values 
 (
 13107,
-500000,
-382244
+370428,
+388555
 );
 
 insert into `price` values 
@@ -30498,8 +30533,8 @@ null
 insert into `price` values 
 (
 39897,
-1006070,
-1028757
+2268951,
+1048577
 );
 
 insert into `price` values 
@@ -30561,15 +30596,15 @@ null
 insert into `price` values 
 (
 44696,
-999319,
-758969
+667846,
+754338
 );
 
 insert into `price` values 
 (
 37804,
 767343,
-757260
+758296
 );
 
 insert into `price` values 
@@ -30758,7 +30793,7 @@ insert into `price` values
 (
 25117,
 238333,
-217036
+220436
 );
 
 insert into `price` values 
@@ -30771,8 +30806,8 @@ null
 insert into `price` values 
 (
 25158,
-120000,
-182596
+350000,
+207385
 );
 
 insert into `price` values 
@@ -30785,8 +30820,8 @@ null
 insert into `price` values 
 (
 13053,
-1072063,
-1080174
+992524,
+1067481
 );
 
 insert into `price` values 
@@ -30954,7 +30989,7 @@ insert into `price` values
 (
 42739,
 583000,
-1272431
+1176769
 );
 
 insert into `price` values 
@@ -31317,8 +31352,8 @@ null
 insert into `price` values 
 (
 2568,
-8500,
-null
+62,
+62
 );
 
 insert into `price` values 
@@ -31374,7 +31409,7 @@ insert into `price` values
 (
 43367,
 1999500,
-1483242
+1557359
 );
 
 insert into `price` values 
@@ -31409,7 +31444,7 @@ insert into `price` values
 (
 25162,
 120000,
-217866
+196365
 );
 
 insert into `price` values 
@@ -31423,7 +31458,7 @@ insert into `price` values
 (
 45781,
 1999500,
-920196
+1074383
 );
 
 insert into `price` values 
@@ -31506,8 +31541,8 @@ null
 insert into `price` values 
 (
 13015,
-2120487,
-2109868
+2184816,
+2111624
 );
 
 insert into `price` values 
@@ -31632,8 +31667,8 @@ null
 insert into `price` values 
 (
 36352,
-188840,
-null
+170000,
+170000
 );
 
 insert into `price` values 
@@ -31668,7 +31703,7 @@ insert into `price` values
 (
 36572,
 180000,
-242361
+232209
 );
 
 insert into `price` values 
@@ -31695,8 +31730,8 @@ null
 insert into `price` values 
 (
 25314,
-137485,
-null
+800000,
+800000
 );
 
 insert into `price` values 
@@ -31730,8 +31765,8 @@ null
 insert into `price` values 
 (
 36038,
-60000,
-60000
+165011,
+106672
 );
 
 insert into `price` values 
@@ -32066,8 +32101,8 @@ null
 insert into `price` values 
 (
 42454,
-1214500,
-1436265
+1212000,
+1405106
 );
 
 insert into `price` values 
@@ -32178,8 +32213,8 @@ insert into `price` values
 insert into `price` values 
 (
 36372,
-60000,
-null
+114552,
+114552
 );
 
 insert into `price` values 
@@ -32332,8 +32367,8 @@ null
 insert into `price` values 
 (
 52774,
-26999500,
-43060654
+26899500,
+40823819
 );
 
 insert into `price` values 
@@ -32486,8 +32521,8 @@ insert into `price` values
 insert into `price` values 
 (
 31165,
-1336744,
-1554102
+1181429,
+1531280
 );
 
 insert into `price` values 
@@ -32647,8 +32682,8 @@ null
 insert into `price` values 
 (
 20408,
-20000,
-26117
+5800,
+25520
 );
 
 insert into `price` values 
@@ -32683,7 +32718,7 @@ insert into `price` values
 (
 56549,
 5000000,
-7545586
+7178312
 );
 
 insert into `price` values 
@@ -32788,7 +32823,7 @@ insert into `price` values
 (
 43361,
 1497000,
-922845
+1002897
 );
 
 insert into `price` values 
@@ -32948,8 +32983,8 @@ null
 insert into `price` values 
 (
 2570,
-5000,
-null
+22,
+22
 );
 
 insert into `price` values 
@@ -33158,8 +33193,8 @@ null
 insert into `price` values 
 (
 36271,
-150000,
-null
+79000,
+79000
 );
 
 insert into `price` values 
@@ -33467,14 +33502,14 @@ insert into `price` values
 (
 43392,
 1997000,
-1763671
+1796046
 );
 
 insert into `price` values 
 (
 43390,
 1997000,
-1968884
+1972785
 );
 
 insert into `price` values 
@@ -33516,7 +33551,7 @@ insert into `price` values
 (
 43391,
 1997000,
-1955627
+1961368
 );
 
 insert into `price` values 
@@ -33558,7 +33593,7 @@ insert into `price` values
 (
 43394,
 1997000,
-1266396
+1368261
 );
 
 insert into `price` values 
@@ -33628,7 +33663,7 @@ insert into `price` values
 (
 43389,
 1997000,
-425887
+647064
 );
 
 insert into `price` values 
@@ -33684,14 +33719,14 @@ insert into `price` values
 (
 44955,
 647500,
-728853
+717564
 );
 
 insert into `price` values 
 (
 42735,
 250000,
-273712
+270404
 );
 
 insert into `price` values 
@@ -33767,8 +33802,8 @@ null
 insert into `price` values 
 (
 52320,
-3759999,
-null
+18890000,
+18890000
 );
 
 insert into `price` values 
@@ -33788,8 +33823,8 @@ null
 insert into `price` values 
 (
 42738,
-240000,
-998909
+140000,
+891332
 );
 
 insert into `price` values 
@@ -33824,7 +33859,7 @@ insert into `price` values
 (
 42751,
 363000,
-647397
+607746
 );
 
 insert into `price` values 
@@ -33858,8 +33893,8 @@ null
 insert into `price` values 
 (
 36037,
-351540,
-null
+291464,
+291464
 );
 
 insert into `price` values 
@@ -34145,8 +34180,8 @@ null
 insert into `price` values 
 (
 36246,
-389031,
-null
+90000,
+90000
 );
 
 insert into `price` values 
@@ -34180,8 +34215,8 @@ null
 insert into `price` values 
 (
 22280,
-500000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -34230,7 +34265,7 @@ insert into `price` values
 (
 43655,
 50000,
-59376
+56385
 );
 
 insert into `price` values 
@@ -34250,8 +34285,8 @@ insert into `price` values
 insert into `price` values 
 (
 22282,
-50000000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -34264,8 +34299,8 @@ insert into `price` values
 insert into `price` values 
 (
 22276,
-420000,
-420000
+2000000,
+907941
 );
 
 insert into `price` values 
@@ -34321,7 +34356,7 @@ insert into `price` values
 (
 31236,
 1038602,
-692748
+701849
 );
 
 insert into `price` values 
@@ -34334,8 +34369,8 @@ null
 insert into `price` values 
 (
 22281,
-50000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -34404,8 +34439,8 @@ null
 insert into `price` values 
 (
 13079,
-1089000,
-1110392
+1289033,
+1110779
 );
 
 insert into `price` values 
@@ -34432,8 +34467,8 @@ null
 insert into `price` values 
 (
 10176,
-53498,
-53498
+55101,
+53747
 );
 
 insert into `price` values 
@@ -34614,8 +34649,8 @@ null
 insert into `price` values 
 (
 43672,
-1899500,
-1636298
+1750000,
+1672103
 );
 
 insert into `price` values 
@@ -34642,8 +34677,8 @@ null
 insert into `price` values 
 (
 43542,
-1998999,
-941070
+1998498,
+1087819
 );
 
 insert into `price` values 
@@ -34740,8 +34775,8 @@ null
 insert into `price` values 
 (
 15265,
-172227,
-null
+100000,
+100000
 );
 
 insert into `price` values 
@@ -34755,14 +34790,14 @@ insert into `price` values
 (
 45603,
 583000,
-454432
+473849
 );
 
 insert into `price` values 
 (
 40906,
 1997000,
-1993007
+1993564
 );
 
 insert into `price` values 
@@ -34804,42 +34839,42 @@ insert into `price` values
 (
 40908,
 583000,
-1225095
+1135999
 );
 
 insert into `price` values 
 (
 43543,
-743750,
-1386668
+742999,
+1295059
 );
 
 insert into `price` values 
 (
 42402,
-1997000,
-681936
+1946575,
+859724
 );
 
 insert into `price` values 
 (
 43869,
-492500,
-1393858
+491500,
+1268693
 );
 
 insert into `price` values 
 (
 45737,
 1399500,
-826044
+906774
 );
 
 insert into `price` values 
 (
 36582,
-300000,
-null
+80000,
+80000
 );
 
 insert into `price` values 
@@ -34909,7 +34944,7 @@ insert into `price` values
 (
 14417,
 634996,
-642792
+641167
 );
 
 insert into `price` values 
@@ -35077,7 +35112,7 @@ insert into `price` values
 (
 7058,
 29250,
-28942
+28973
 );
 
 insert into `price` values 
@@ -35202,8 +35237,8 @@ insert into `price` values
 insert into `price` values 
 (
 11973,
-10000,
-null
+280000,
+280000
 );
 
 insert into `price` values 
@@ -35245,7 +35280,7 @@ insert into `price` values
 (
 6603,
 30000,
-166502
+163173
 );
 
 insert into `price` values 
@@ -35419,8 +35454,8 @@ insert into `price` values
 insert into `price` values 
 (
 43667,
-200000,
-217377
+270229,
+213124
 );
 
 insert into `price` values 
@@ -35538,8 +35573,8 @@ null
 insert into `price` values 
 (
 21542,
-200000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -35566,8 +35601,8 @@ insert into `price` values
 insert into `price` values 
 (
 42973,
-400000,
-822244
+360000,
+762369
 );
 
 insert into `price` values 
@@ -35707,7 +35742,7 @@ insert into `price` values
 (
 7429,
 96406,
-87206
+89125
 );
 
 insert into `price` values 
@@ -35763,7 +35798,7 @@ insert into `price` values
 (
 43379,
 1257000,
-1170178
+1182642
 );
 
 insert into `price` values 
@@ -35776,7 +35811,7 @@ null
 insert into `price` values 
 (
 7353,
-69179,
+69207,
 69179
 );
 
@@ -35839,8 +35874,15 @@ null
 insert into `price` values 
 (
 43381,
-1999500,
-1346970
+999500,
+1337041
+);
+
+insert into `price` values 
+(
+1214,
+35000,
+35000
 );
 
 insert into `price` values 
@@ -35903,7 +35945,7 @@ insert into `price` values
 (
 42912,
 1999500,
-608198
+816175
 );
 
 insert into `price` values 
@@ -35945,7 +35987,7 @@ insert into `price` values
 (
 25174,
 150000,
-251844
+220754
 );
 
 insert into `price` values 
@@ -36000,15 +36042,15 @@ null
 insert into `price` values 
 (
 14211,
-100000,
-100000
+50000,
+89000
 );
 
 insert into `price` values 
 (
 43666,
-411981,
-403785
+418160,
+404788
 );
 
 insert into `price` values 
@@ -36021,8 +36063,8 @@ insert into `price` values
 insert into `price` values 
 (
 9798,
-99999,
-94212
+119999,
+100261
 );
 
 insert into `price` values 
@@ -36057,7 +36099,7 @@ insert into `price` values
 (
 42914,
 1999500,
-1916198
+1928155
 );
 
 insert into `price` values 
@@ -36070,8 +36112,8 @@ null
 insert into `price` values 
 (
 25106,
-800000,
-null
+199587,
+199587
 );
 
 insert into `price` values 
@@ -36085,7 +36127,7 @@ insert into `price` values
 (
 1458,
 250000,
-null
+250000
 );
 
 insert into `price` values 
@@ -36168,8 +36210,8 @@ null
 insert into `price` values 
 (
 10211,
-170000,
-170000
+90000,
+130889
 );
 
 insert into `price` values 
@@ -36294,8 +36336,8 @@ null
 insert into `price` values 
 (
 31177,
-625300,
-745714
+627080,
+735808
 );
 
 insert into `price` values 
@@ -36385,8 +36427,8 @@ null
 insert into `price` values 
 (
 42897,
-200000,
-1035166
+1490000,
+967713
 );
 
 insert into `price` values 
@@ -36505,7 +36547,7 @@ insert into `price` values
 (
 45732,
 1999500,
-1425089
+1505953
 );
 
 insert into `price` values 
@@ -36519,14 +36561,14 @@ insert into `price` values
 (
 45625,
 1999500,
-1472408
+1555036
 );
 
 insert into `price` values 
 (
 43544,
-1998999,
-1675277
+1998498,
+1720151
 );
 
 insert into `price` values 
@@ -36568,14 +36610,14 @@ insert into `price` values
 (
 43535,
 1999500,
-1663362
+1710914
 );
 
 insert into `price` values 
 (
 43539,
 1997000,
-1971542
+1975091
 );
 
 insert into `price` values 
@@ -36588,8 +36630,8 @@ null
 insert into `price` values 
 (
 10188,
-40000,
-null
+29000,
+29842
 );
 
 insert into `price` values 
@@ -36652,14 +36694,14 @@ insert into `price` values
 (
 43547,
 1998999,
-1806492
+1833207
 );
 
 insert into `price` values 
 (
 45806,
-2506411,
-2085899
+2506911,
+2144294
 );
 
 insert into `price` values 
@@ -36673,7 +36715,7 @@ insert into `price` values
 (
 43546,
 1997000,
-1062269
+1197132
 );
 
 insert into `price` values 
@@ -36729,7 +36771,7 @@ insert into `price` values
 (
 45799,
 1899538,
-1135475
+1245166
 );
 
 insert into `price` values 
@@ -36819,8 +36861,8 @@ null
 insert into `price` values 
 (
 36144,
-1500000,
-null
+350000,
+350000
 );
 
 insert into `price` values 
@@ -36847,8 +36889,8 @@ null
 insert into `price` values 
 (
 11603,
-328158,
-257857
+100000,
+238090
 );
 
 insert into `price` values 
@@ -36938,8 +36980,8 @@ null
 insert into `price` values 
 (
 36384,
-148140,
-null
+500000,
+500000
 );
 
 insert into `price` values 
@@ -36987,8 +37029,8 @@ null
 insert into `price` values 
 (
 36040,
-150000,
-null
+172779,
+172779
 );
 
 insert into `price` values 
@@ -37001,15 +37043,15 @@ null
 insert into `price` values 
 (
 43554,
-198750,
-1312704
+198000,
+1158019
 );
 
 insert into `price` values 
 (
 14214,
-10000,
-10000
+20000,
+11482
 );
 
 insert into `price` values 
@@ -37092,15 +37134,15 @@ null
 insert into `price` values 
 (
 45804,
-1995000,
-1304233
+1992000,
+1400597
 );
 
 insert into `price` values 
 (
 45301,
 4730127,
-4554352
+4571609
 );
 
 insert into `price` values 
@@ -37169,8 +37211,8 @@ null
 insert into `price` values 
 (
 45813,
-570928,
-515673
+193649,
+494800
 );
 
 insert into `price` values 
@@ -37184,7 +37226,7 @@ insert into `price` values
 (
 6040,
 28900,
-34255
+33701
 );
 
 insert into `price` values 
@@ -37239,8 +37281,8 @@ null
 insert into `price` values 
 (
 45812,
-413793,
-400909
+427472,
+402230
 );
 
 insert into `price` values 
@@ -37253,15 +37295,15 @@ null
 insert into `price` values 
 (
 45761,
-1999500,
-1992442
+1990300,
+1993346
 );
 
 insert into `price` values 
 (
 45811,
 793935,
-790366
+790847
 );
 
 insert into `price` values 
@@ -37295,8 +37337,8 @@ null
 insert into `price` values 
 (
 45626,
-1790000,
-2105905
+1490000,
+2084326
 );
 
 insert into `price` values 
@@ -37372,8 +37414,8 @@ null
 insert into `price` values 
 (
 45998,
-11990000,
-11990000
+13990000,
+12382526
 );
 
 insert into `price` values 
@@ -37498,8 +37540,8 @@ null
 insert into `price` values 
 (
 42408,
-359500,
-616789
+1997000,
+753472
 );
 
 insert into `price` values 
@@ -37526,8 +37568,8 @@ null
 insert into `price` values 
 (
 43366,
-899500,
-1500992
+1999500,
+1539886
 );
 
 insert into `price` values 
@@ -37667,14 +37709,14 @@ insert into `price` values
 (
 19028,
 250000,
-212874
+218366
 );
 
 insert into `price` values 
 (
 6835,
 1000000,
-693749
+891112
 );
 
 insert into `price` values 
@@ -37701,8 +37743,8 @@ null
 insert into `price` values 
 (
 45861,
-7890000,
-5894052
+13990000,
+6937087
 );
 
 insert into `price` values 
@@ -37722,22 +37764,22 @@ null
 insert into `price` values 
 (
 43827,
-1996999,
-1809339
+1993999,
+1835000
 );
 
 insert into `price` values 
 (
 41095,
-119800,
-813968
+70000,
+705358
 );
 
 insert into `price` values 
 (
 43416,
 355500,
-1068416
+969495
 );
 
 insert into `price` values 
@@ -37806,15 +37848,15 @@ null
 insert into `price` values 
 (
 2314,
-678489,
-561078
+678940,
+572468
 );
 
 insert into `price` values 
 (
 13028,
 1843591,
-1824182
+1826338
 );
 
 insert into `price` values 
@@ -37884,7 +37926,7 @@ insert into `price` values
 (
 13123,
 93390,
-509911
+432972
 );
 
 insert into `price` values 
@@ -38010,7 +38052,7 @@ insert into `price` values
 (
 43412,
 1999500,
-1254683
+1363773
 );
 
 insert into `price` values 
@@ -38086,8 +38128,8 @@ null
 insert into `price` values 
 (
 41540,
-637932,
-838438
+635500,
+810226
 );
 
 insert into `price` values 
@@ -38101,7 +38143,7 @@ insert into `price` values
 (
 24810,
 120000,
-125686
+124705
 );
 
 insert into `price` values 
@@ -38338,8 +38380,8 @@ null
 insert into `price` values 
 (
 41103,
-749500,
-489584
+480000,
+524578
 );
 
 insert into `price` values 
@@ -38471,8 +38513,8 @@ insert into `price` values
 insert into `price` values 
 (
 46324,
-424474,
-495649
+751842,
+506443
 );
 
 insert into `price` values 
@@ -38576,8 +38618,8 @@ null
 insert into `price` values 
 (
 67275,
-25000000,
-24390743
+30000000,
+24036002
 );
 
 insert into `price` values 
@@ -38668,14 +38710,14 @@ insert into `price` values
 (
 43385,
 1999500,
-1499433
+1573801
 );
 
 insert into `price` values 
 (
 43388,
 1997000,
-1983927
+1985750
 );
 
 insert into `price` values 
@@ -38688,8 +38730,8 @@ null
 insert into `price` values 
 (
 58485,
-3750000,
-6508122
+4250000,
+6132517
 );
 
 insert into `price` values 
@@ -38878,7 +38920,7 @@ insert into `price` values
 (
 43371,
 1997000,
-1976689
+1979510
 );
 
 insert into `price` values 
@@ -38933,8 +38975,8 @@ insert into `price` values
 insert into `price` values 
 (
 43342,
-1950000,
-1406463
+1949500,
+1482925
 );
 
 insert into `price` values 
@@ -38982,8 +39024,8 @@ null
 insert into `price` values 
 (
 68356,
-557112,
-774049
+355710,
+745488
 );
 
 insert into `price` values 
@@ -39074,7 +39116,7 @@ insert into `price` values
 (
 43372,
 1997000,
-984812
+1125260
 );
 
 insert into `price` values 
@@ -39088,7 +39130,7 @@ insert into `price` values
 (
 56483,
 450000,
-302741
+344816
 );
 
 insert into `price` values 
@@ -39101,8 +39143,8 @@ insert into `price` values
 insert into `price` values 
 (
 68357,
-477954,
-516537
+329157,
+498044
 );
 
 insert into `price` values 
@@ -39144,7 +39186,7 @@ insert into `price` values
 (
 45755,
 1999500,
-1210772
+1328676
 );
 
 insert into `price` values 
@@ -39185,8 +39227,8 @@ null
 insert into `price` values 
 (
 42411,
-126000,
-412536
+120000,
+372441
 );
 
 insert into `price` values 
@@ -39199,29 +39241,29 @@ null
 insert into `price` values 
 (
 42396,
-1950000,
-1891238
+1949500,
+1899787
 );
 
 insert into `price` values 
 (
 42409,
 1999500,
-1940467
+1948659
 );
 
 insert into `price` values 
 (
 42400,
-1997000,
-612380
+1949013,
+801954
 );
 
 insert into `price` values 
 (
 43374,
 1997000,
-1997824
+1997709
 );
 
 insert into `price` values 
@@ -39360,8 +39402,8 @@ null
 insert into `price` values 
 (
 36165,
-100000,
-null
+350000,
+350000
 );
 
 insert into `price` values 
@@ -39381,8 +39423,8 @@ null
 insert into `price` values 
 (
 7517,
-125180,
-130827
+105180,
+127457
 );
 
 insert into `price` values 
@@ -39430,8 +39472,8 @@ insert into `price` values
 insert into `price` values 
 (
 40133,
-250000,
-250000
+550000,
+500000
 );
 
 insert into `price` values 
@@ -39451,8 +39493,8 @@ null
 insert into `price` values 
 (
 49110,
-1999998,
-2354029
+1990000,
+2293222
 );
 
 insert into `price` values 
@@ -39585,7 +39627,7 @@ insert into `price` values
 (
 40124,
 1000000,
-1290322
+1285714
 );
 
 insert into `price` values 
@@ -39689,8 +39731,8 @@ null
 insert into `price` values 
 (
 2235,
-550000,
-null
+55000,
+55000
 );
 
 insert into `price` values 
@@ -39718,14 +39760,14 @@ insert into `price` values
 (
 45797,
 997000,
-1240434
+1206658
 );
 
 insert into `price` values 
 (
 47556,
 250000,
-335970
+323809
 );
 
 insert into `price` values 
@@ -39739,7 +39781,7 @@ insert into `price` values
 (
 66918,
 1047000,
-1772864
+1670680
 );
 
 insert into `price` values 
@@ -39794,8 +39836,8 @@ null
 insert into `price` values 
 (
 49227,
-404524,
-642518
+657900,
+642822
 );
 
 insert into `price` values 
@@ -39816,7 +39858,7 @@ insert into `price` values
 (
 43661,
 541349,
-539382
+539601
 );
 
 insert into `price` values 
@@ -40110,7 +40152,7 @@ insert into `price` values
 (
 43339,
 1997000,
-1503250
+1575934
 );
 
 insert into `price` values 
@@ -40144,15 +40186,15 @@ null
 insert into `price` values 
 (
 42470,
-190000,
-62237
+160000,
+79931
 );
 
 insert into `price` values 
 (
 43415,
-1997000,
-1498851
+1990300,
+1572489
 );
 
 insert into `price` values 
@@ -40201,35 +40243,35 @@ insert into `price` values
 (
 43360,
 1999500,
-1444295
+1526866
 );
 
 insert into `price` values 
 (
 42904,
-1999500,
-561190
+1760300,
+757450
 );
 
 insert into `price` values 
 (
 43365,
 1999500,
-1898378
+1912823
 );
 
 insert into `price` values 
 (
 41096,
 1997000,
-678879
+862654
 );
 
 insert into `price` values 
 (
 43414,
-342000,
-766571
+240000,
+703286
 );
 
 insert into `price` values 
@@ -40242,8 +40284,8 @@ null
 insert into `price` values 
 (
 40896,
-169000,
-743684
+168750,
+659030
 );
 
 insert into `price` values 
@@ -40264,14 +40306,14 @@ insert into `price` values
 (
 45792,
 1999500,
-1940873
+1949128
 );
 
 insert into `price` values 
 (
 43386,
 1999500,
-1651735
+1699991
 );
 
 insert into `price` values 
@@ -40292,7 +40334,7 @@ insert into `price` values
 (
 42403,
 1997000,
-1997824
+1997709
 );
 
 insert into `price` values 
@@ -40313,7 +40355,7 @@ insert into `price` values
 (
 43368,
 1999500,
-1998783
+1998885
 );
 
 insert into `price` values 
@@ -40369,49 +40411,49 @@ insert into `price` values
 (
 41107,
 1997000,
-1472006
+1545206
 );
 
 insert into `price` values 
 (
 42745,
-482500,
-1598800
+150000,
+1424224
 );
 
 insert into `price` values 
 (
 40919,
-199500,
-690157
+1997000,
+838965
 );
 
 insert into `price` values 
 (
 45741,
-1506010,
-1727815
+1505509,
+1696993
 );
 
 insert into `price` values 
 (
 45753,
-1999500,
-1753735
+600000,
+1774745
 );
 
 insert into `price` values 
 (
 45760,
-1995000,
-1998209
+1992000,
+1997285
 );
 
 insert into `price` values 
 (
 43421,
-1999500,
-1725800
+1990200,
+1763689
 );
 
 insert into `price` values 
@@ -40431,43 +40473,43 @@ null
 insert into `price` values 
 (
 42463,
-1998999,
-1705885
+1998498,
+1746906
 );
 
 insert into `price` values 
 (
 43868,
 1997000,
-1479657
+1551784
 );
 
 insert into `price` values 
 (
 43534,
 1997000,
-726913
+904849
 );
 
 insert into `price` values 
 (
 42970,
-117000,
-366645
+60000,
+325804
 );
 
 insert into `price` values 
 (
 42956,
 1947000,
-903189
+1048025
 );
 
 insert into `price` values 
 (
 42742,
 582500,
-1452699
+1331955
 );
 
 insert into `price` values 
@@ -40487,15 +40529,15 @@ null
 insert into `price` values 
 (
 40924,
-1999500,
-1768003
+1750000,
+1780295
 );
 
 insert into `price` values 
 (
 40922,
 1999500,
-940930
+1090676
 );
 
 insert into `price` values 
@@ -40509,14 +40551,14 @@ insert into `price` values
 (
 42915,
 1999500,
-1785510
+1819551
 );
 
 insert into `price` values 
 (
 43825,
 1997000,
-654511
+844426
 );
 
 insert into `price` values 
@@ -40530,7 +40572,7 @@ insert into `price` values
 (
 42458,
 1997000,
-599832
+801413
 );
 
 insert into `price` values 
@@ -40544,7 +40586,7 @@ insert into `price` values
 (
 43373,
 1997000,
-1533696
+1598291
 );
 
 insert into `price` values 
@@ -40564,22 +40606,22 @@ null
 insert into `price` values 
 (
 40912,
-1992500,
-1382341
+1989500,
+1467004
 );
 
 insert into `price` values 
 (
 42898,
-1999500,
-1999229
+1750000,
+1981355
 );
 
 insert into `price` values 
 (
 43548,
-1997000,
-855818
+500000,
+971742
 );
 
 insert into `price` values 
@@ -40600,35 +40642,35 @@ insert into `price` values
 (
 42414,
 1997000,
-1997905
+1997779
 );
 
 insert into `price` values 
 (
 45766,
 1997000,
-1997769
+1997663
 );
 
 insert into `price` values 
 (
 44928,
-497500,
-943304
+323250,
+868539
 );
 
 insert into `price` values 
 (
 45743,
 1999500,
-1512954
+1584219
 );
 
 insert into `price` values 
 (
 42911,
-1499500,
-733502
+1480300,
+841151
 );
 
 insert into `price` values 
@@ -40641,29 +40683,29 @@ null
 insert into `price` values 
 (
 42455,
-1799550,
-1160782
+1753574,
+1244771
 );
 
 insert into `price` values 
 (
 42960,
-200000,
-463821
+120000,
+421809
 );
 
 insert into `price` values 
 (
 45790,
 1999500,
-1938124
+1946981
 );
 
 insert into `price` values 
 (
 40900,
 1999500,
-1912674
+1925519
 );
 
 insert into `price` values 
@@ -40677,7 +40719,7 @@ insert into `price` values
 (
 43400,
 1997000,
-1785800
+1815107
 );
 
 insert into `price` values 
@@ -40697,8 +40739,8 @@ null
 insert into `price` values 
 (
 42741,
-239000,
-999340
+220000,
+893382
 );
 
 insert into `price` values 
@@ -40711,8 +40753,8 @@ null
 insert into `price` values 
 (
 43431,
-70000,
-1564525
+225000,
+1508200
 );
 
 insert into `price` values 
@@ -40732,8 +40774,8 @@ null
 insert into `price` values 
 (
 42910,
-1999500,
-867951
+1990200,
+1025623
 );
 
 insert into `price` values 
@@ -40746,8 +40788,8 @@ null
 insert into `price` values 
 (
 43355,
-1999500,
-1556642
+1990200,
+1620764
 );
 
 insert into `price` values 
@@ -40760,8 +40802,8 @@ null
 insert into `price` values 
 (
 41537,
-499500,
-1139718
+300000,
+1045961
 );
 
 insert into `price` values 
@@ -40774,8 +40816,8 @@ null
 insert into `price` values 
 (
 42465,
-524750,
-567290
+300000,
+550245
 );
 
 insert into `price` values 
@@ -40795,8 +40837,8 @@ null
 insert into `price` values 
 (
 1986,
-87500,
-null
+70000,
+70000
 );
 
 insert into `price` values 
@@ -40816,15 +40858,15 @@ null
 insert into `price` values 
 (
 42467,
-150000,
-812221
+70000,
+718469
 );
 
 insert into `price` values 
 (
 42401,
 1997000,
-801814
+971716
 );
 
 insert into `price` values 
@@ -40844,8 +40886,8 @@ null
 insert into `price` values 
 (
 36025,
-110000,
-null
+90000,
+90000
 );
 
 insert into `price` values 
@@ -40865,36 +40907,36 @@ null
 insert into `price` values 
 (
 48720,
-949500,
-595990
+909013,
+647310
 );
 
 insert into `price` values 
 (
 45777,
-1998999,
-1981710
+1998498,
+1984065
 );
 
 insert into `price` values 
 (
 45794,
 1999500,
-1729121
+1767183
 );
 
 insert into `price` values 
 (
 42404,
 1997000,
-1998975
+1998714
 );
 
 insert into `price` values 
 (
 45769,
-1999500,
-1945944
+1990500,
+1953288
 );
 
 insert into `price` values 
@@ -40914,8 +40956,8 @@ null
 insert into `price` values 
 (
 42964,
-275975,
-357198
+260950,
+344205
 );
 
 insert into `price` values 
@@ -40942,8 +40984,8 @@ null
 insert into `price` values 
 (
 36265,
-97363,
-null
+98686,
+98686
 );
 
 insert into `price` values 
@@ -40956,15 +40998,15 @@ null
 insert into `price` values 
 (
 42397,
-479500,
-1433752
+600000,
+1439621
 );
 
 insert into `price` values 
 (
 13049,
 358354,
-351742
+352476
 );
 
 insert into `price` values 
@@ -40998,15 +41040,15 @@ null
 insert into `price` values 
 (
 42974,
-1999500,
-1550027
+1997000,
+1612973
 );
 
 insert into `price` values 
 (
 45739,
 1999500,
-1553525
+1615405
 );
 
 insert into `price` values 
@@ -41027,7 +41069,7 @@ insert into `price` values
 (
 45757,
 1999500,
-1731259
+1768477
 );
 
 insert into `price` values 
@@ -41040,15 +41082,15 @@ null
 insert into `price` values 
 (
 42410,
-250000,
-588671
+1997000,
+582984
 );
 
 insert into `price` values 
 (
 49908,
-5000000,
-2521644
+1005397,
+2329935
 );
 
 insert into `price` values 
@@ -41068,8 +41110,8 @@ insert into `price` values
 insert into `price` values 
 (
 42966,
-200000,
-808748
+180000,
+723947
 );
 
 insert into `price` values 
@@ -41082,8 +41124,8 @@ null
 insert into `price` values 
 (
 41552,
-1998999,
-1999084
+1998498,
+1999030
 );
 
 insert into `price` values 
@@ -41097,14 +41139,14 @@ insert into `price` values
 (
 50077,
 1997000,
-1318032
+1414085
 );
 
 insert into `price` values 
 (
 40920,
 582500,
-1198148
+1112315
 );
 
 insert into `price` values 
@@ -41124,15 +41166,15 @@ null
 insert into `price` values 
 (
 42900,
-319500,
-1216425
+1150000,
+1253582
 );
 
 insert into `price` values 
 (
 45800,
-1799500,
-1235499
+1709900,
+1314462
 );
 
 insert into `price` values 
@@ -41146,7 +41188,7 @@ insert into `price` values
 (
 45738,
 1999500,
-1514233
+1581565
 );
 
 insert into `price` values 
@@ -41195,7 +41237,7 @@ insert into `price` values
 (
 43102,
 130000,
-158303
+153819
 );
 
 insert into `price` values 
@@ -41208,22 +41250,22 @@ null
 insert into `price` values 
 (
 45744,
-1999500,
-1881556
+1910000,
+1891160
 );
 
 insert into `price` values 
 (
 43671,
 1999500,
-1263624
+1365732
 );
 
 insert into `price` values 
 (
 13030,
 39339,
-446160
+371014
 );
 
 insert into `price` values 
@@ -41286,14 +41328,14 @@ insert into `price` values
 (
 41518,
 1997000,
-1981287
+1983478
 );
 
 insert into `price` values 
 (
 36244,
-151500,
-null
+350000,
+350000
 );
 
 insert into `price` values 
@@ -41313,8 +41355,8 @@ null
 insert into `price` values 
 (
 51958,
-806365,
-920697
+579443,
+876421
 );
 
 insert into `price` values 
@@ -41383,8 +41425,8 @@ null
 insert into `price` values 
 (
 43413,
-1448600,
-820801
+1448100,
+909989
 );
 
 insert into `price` values 
@@ -41398,7 +41440,7 @@ insert into `price` values
 (
 15976,
 77270,
-89115
+87518
 );
 
 insert into `price` values 
@@ -41473,9 +41515,16 @@ null
 
 insert into `price` values 
 (
+29391,
+4990000,
+4990000
+);
+
+insert into `price` values 
+(
 50045,
 1997000,
-1997797
+1997687
 );
 
 insert into `price` values 
@@ -41664,7 +41713,7 @@ insert into `price` values
 (
 42905,
 250000,
-355358
+339849
 );
 
 insert into `price` values 
@@ -41706,14 +41755,14 @@ insert into `price` values
 (
 33445,
 12583,
-17057
+16042
 );
 
 insert into `price` values 
 (
 43268,
 144500,
-128404
+130840
 );
 
 insert into `price` values 
@@ -41734,14 +41783,14 @@ insert into `price` values
 (
 34767,
 59500,
-45093
+47599
 );
 
 insert into `price` values 
 (
 33448,
-9480,
-40813
+9263,
+36181
 );
 
 insert into `price` values 
@@ -41754,15 +41803,15 @@ null
 insert into `price` values 
 (
 42780,
-9900,
-5122
+6900,
+5349
 );
 
 insert into `price` values 
 (
 33470,
-22865,
-32509
+20120,
+31399
 );
 
 insert into `price` values 
@@ -41776,21 +41825,21 @@ insert into `price` values
 (
 40199,
 19999,
-23321
+22334
 );
 
 insert into `price` values 
 (
 43011,
-10000,
-17893
+9900,
+15980
 );
 
 insert into `price` values 
 (
 34052,
-22500,
-28255
+24610,
+27533
 );
 
 insert into `price` values 
@@ -41811,7 +41860,7 @@ insert into `price` values
 (
 41119,
 20000,
-19341
+19516
 );
 
 insert into `price` values 
@@ -41832,7 +41881,7 @@ insert into `price` values
 (
 23768,
 50000,
-42727
+45616
 );
 
 insert into `price` values 
@@ -41866,36 +41915,36 @@ null
 insert into `price` values 
 (
 43012,
-20000,
-15369
+16700,
+15808
 );
 
 insert into `price` values 
 (
 34736,
 30000,
-24055
+24969
 );
 
 insert into `price` values 
 (
 43013,
-1979,
-2604
+2907,
+2519
 );
 
 insert into `price` values 
 (
 11176,
-27671,
-14219
+20175,
+15292
 );
 
 insert into `price` values 
 (
 33447,
-20360,
-23156
+19890,
+22650
 );
 
 insert into `price` values 
@@ -41909,21 +41958,21 @@ insert into `price` values
 (
 41809,
 25000,
-23424
+23648
 );
 
 insert into `price` values 
 (
 41813,
-3300,
-11463
+2934,
+9129
 );
 
 insert into `price` values 
 (
 43007,
-18300,
-151447
+134009,
+137449
 );
 
 insert into `price` values 
@@ -41957,141 +42006,141 @@ insert into `price` values
 insert into `price` values 
 (
 39690,
-153847,
-315972
+76924,
+288581
 );
 
 insert into `price` values 
 (
 37702,
-22916,
-46799
+23859,
+43332
 );
 
 insert into `price` values 
 (
 37703,
-9327,
-10764
+8197,
+10344
 );
 
 insert into `price` values 
 (
 37705,
-9200,
-8141
+49900,
+11959
 );
 
 insert into `price` values 
 (
 37701,
-5670,
-4368
+4860,
+4466
 );
 
 insert into `price` values 
 (
 37700,
-1600,
-41925
+51429,
+39491
 );
 
 insert into `price` values 
 (
 41745,
-390000,
-530292
+3390000,
+524951
 );
 
 insert into `price` values 
 (
 36913,
-60000,
-50950
+45000,
+51861
 );
 
 insert into `price` values 
 (
 36916,
-144099,
-84985
+129750,
+92262
 );
 
 insert into `price` values 
 (
 36910,
-120000,
-145937
+148293,
+145853
 );
 
 insert into `price` values 
 (
 41163,
-246667,
-296968
+319500,
+298377
 );
 
 insert into `price` values 
 (
 37663,
-1277500,
-1480939
+1496710,
+1479952
 );
 
 insert into `price` values 
 (
 36860,
-360591,
-310007
+273351,
+312900
 );
 
 insert into `price` values 
 (
 35627,
-337167,
-99090
+104784,
+126417
 );
 
 insert into `price` values 
 (
 35622,
-63441,
-56309
+29000,
+53436
 );
 
 insert into `price` values 
 (
 35624,
-389000,
-176503
+113410,
+171301
 );
 
 insert into `price` values 
 (
 35623,
-389000,
-116232
+97521,
+149368
 );
 
 insert into `price` values 
 (
 42468,
 1497000,
-1018088
+1086168
 );
 
 insert into `price` values 
 (
 42466,
-400000,
-1152657
+350000,
+1031372
 );
 
 insert into `price` values 
 (
 22829,
-16000,
-17151
+12478,
+16980
 );
 
 insert into `price` values 
@@ -42139,8 +42188,8 @@ insert into `price` values
 insert into `price` values 
 (
 37093,
-15655,
-16090
+15264,
+15971
 );
 
 insert into `price` values 
@@ -42188,8 +42237,8 @@ insert into `price` values
 insert into `price` values 
 (
 41802,
-200000,
-58003
+250000,
+107781
 );
 
 insert into `price` values 
@@ -42202,15 +42251,15 @@ insert into `price` values
 insert into `price` values 
 (
 41801,
-100620,
-94041
+209108,
+120371
 );
 
 insert into `price` values 
 (
 36909,
-46500,
-58951
+123711,
+62159
 );
 
 insert into `price` values 
@@ -42223,8 +42272,8 @@ null
 insert into `price` values 
 (
 40110,
-250000000,
-354848486
+100000000,
+321315790
 );
 
 insert into `price` values 
@@ -42244,113 +42293,113 @@ insert into `price` values
 insert into `price` values 
 (
 42253,
-260823,
-181486
+170483,
+180169
 );
 
 insert into `price` values 
 (
 41510,
-170000,
-null
+48753,
+48753
 );
 
 insert into `price` values 
 (
 22445,
-19449,
-18070
+21956,
+18328
 );
 
 insert into `price` values 
 (
 22446,
-80125,
-126294
+127188,
+121824
 );
 
 insert into `price` values 
 (
 22450,
-19860,
-81695
+19699,
+73046
 );
 
 insert into `price` values 
 (
 34054,
-79500,
-79876
+49098,
+77855
 );
 
 insert into `price` values 
 (
 34055,
-339000,
-307390
+300000,
+307563
 );
 
 insert into `price` values 
 (
 34053,
 100000,
-26229
+37549
 );
 
 insert into `price` values 
 (
 10939,
-17910,
-21565
+66666,
+23666
 );
 
 insert into `price` values 
 (
 16204,
-178834,
-107740
+50000,
+107878
 );
 
 insert into `price` values 
 (
 22447,
-36110,
-78149
+35208,
+71888
 );
 
 insert into `price` values 
 (
 22448,
-9851,
-61099
+29175,
+56588
 );
 
 insert into `price` values 
 (
 22449,
-97922,
-140014
+116612,
+136738
 );
 
 insert into `price` values 
 (
 34056,
-128535,
-129957
+51000,
+122610
 );
 
 insert into `price` values 
 (
 34057,
-944500,
-641984
+905164,
+678986
 );
 
 insert into `price` values 
 (
 3404,
-76750,
-76750
+21429,
+49678
 );
 
 insert into `price` values 
@@ -42385,21 +42434,21 @@ insert into `price` values
 (
 36917,
 71500,
-20136
+27815
 );
 
 insert into `price` values 
 (
 36929,
-77000,
-37329
+80000,
+43064
 );
 
 insert into `price` values 
 (
 8827,
-62500,
-110310
+115448,
+109713
 );
 
 insert into `price` values 
@@ -42419,29 +42468,29 @@ insert into `price` values
 insert into `price` values 
 (
 21301,
-8500000,
-8500000
+2500000,
+5500001
 );
 
 insert into `price` values 
 (
 33567,
-4109,
-4109
+3699,
+3985
 );
 
 insert into `price` values 
 (
 33568,
-36500,
-45902
+19121,
+43588
 );
 
 insert into `price` values 
 (
 34722,
 2700,
-13721
+11037
 );
 
 insert into `price` values 
@@ -42454,36 +42503,36 @@ null
 insert into `price` values 
 (
 35625,
-45084,
-29619
+49564,
+31790
 );
 
 insert into `price` values 
 (
 36930,
-125000,
-124387
+120000,
+124385
 );
 
 insert into `price` values 
 (
 37094,
-15500,
-13364
+10000,
+13375
 );
 
 insert into `price` values 
 (
 37704,
-5273,
-3084
+4365,
+3286
 );
 
 insert into `price` values 
 (
 38425,
 100000,
-325834
+289848
 );
 
 insert into `price` values 
@@ -42497,7 +42546,7 @@ insert into `price` values
 (
 38558,
 169500,
-110266
+119296
 );
 
 insert into `price` values 
@@ -42525,7 +42574,7 @@ insert into `price` values
 (
 39899,
 500000,
-1733444
+1516658
 );
 
 insert into `price` values 
@@ -42538,8 +42587,8 @@ insert into `price` values
 insert into `price` values 
 (
 40211,
-27000,
-25542
+22000,
+25597
 );
 
 insert into `price` values 
@@ -42566,15 +42615,15 @@ insert into `price` values
 insert into `price` values 
 (
 43464,
-12200,
-8761
+11000,
+9161
 );
 
 insert into `price` values 
 (
 43467,
-8850,
-8108
+7800,
+8142
 );
 
 insert into `price` values 
@@ -42587,8 +42636,8 @@ insert into `price` values
 insert into `price` values 
 (
 44128,
-150000,
-408496
+250000,
+394723
 );
 
 insert into `price` values 
@@ -42608,15 +42657,15 @@ null
 insert into `price` values 
 (
 46377,
-140000,
-258608
+238355,
+256115
 );
 
 insert into `price` values 
 (
 46379,
 50000,
-26139
+30631
 );
 
 insert into `price` values 
@@ -42629,8 +42678,8 @@ null
 insert into `price` values 
 (
 17012,
-775000,
-481773
+250000,
+494022
 );
 
 insert into `price` values 
@@ -42671,8 +42720,8 @@ null
 insert into `price` values 
 (
 33081,
-77000,
-81995
+75240,
+81128
 );
 
 insert into `price` values 
@@ -42755,8 +42804,8 @@ null
 insert into `price` values 
 (
 3357,
-25000,
-18930
+20000,
+18959
 );
 
 insert into `price` values 
@@ -42769,8 +42818,8 @@ null
 insert into `price` values 
 (
 6889,
-17250,
-24277
+49800,
+26121
 );
 
 insert into `price` values 
@@ -42797,8 +42846,8 @@ null
 insert into `price` values 
 (
 10286,
-19500,
-21456
+19200,
+21163
 );
 
 insert into `price` values 
@@ -42811,15 +42860,15 @@ insert into `price` values
 insert into `price` values 
 (
 17058,
-359,
-867
+370,
+740
 );
 
 insert into `price` values 
 (
 21305,
-6990000,
-6990000
+15000000,
+12997499
 );
 
 insert into `price` values 
@@ -42832,57 +42881,57 @@ null
 insert into `price` values 
 (
 765,
-12420,
-8170
+20000,
+8604
 );
 
 insert into `price` values 
 (
 2447,
-9000,
-6556
+10000,
+6693
 );
 
 insert into `price` values 
 (
 2449,
-8000,
-7483
+4000,
+9988
 );
 
 insert into `price` values 
 (
 2835,
-1456,
-1362
+900,
+1350
 );
 
 insert into `price` values 
 (
 4306,
-23940,
-11209
+14752,
+11391
 );
 
 insert into `price` values 
 (
 4338,
-15667,
-7564
+16167,
+8167
 );
 
 insert into `price` values 
 (
 14047,
-3616,
-5401
+5500,
+5292
 );
 
 insert into `price` values 
 (
 21877,
-4684,
-4763
+4798,
+4741
 );
 
 insert into `price` values 
@@ -42931,7 +42980,7 @@ insert into `price` values
 (
 18562,
 13000000,
-7233855
+8057589
 );
 
 insert into `price` values 
@@ -42945,7 +42994,7 @@ insert into `price` values
 (
 19283,
 500000,
-489706
+491368
 );
 
 insert into `price` values 
@@ -43021,8 +43070,8 @@ null
 insert into `price` values 
 (
 19236,
-912102,
-916262
+912606,
+915772
 );
 
 insert into `price` values 
@@ -43050,7 +43099,7 @@ insert into `price` values
 (
 18335,
 252000,
-588568
+535521
 );
 
 insert into `price` values 
@@ -43063,8 +43112,8 @@ null
 insert into `price` values 
 (
 22739,
-75000000,
-30136245
+19999900,
+32850381
 );
 
 insert into `price` values 
@@ -43084,22 +43133,22 @@ insert into `price` values
 insert into `price` values 
 (
 17203,
-34463334,
-19079499
+33296667,
+21020520
 );
 
 insert into `price` values 
 (
 17011,
 100000,
-57176
+65400
 );
 
 insert into `price` values 
 (
 17010,
-125000,
-94521
+90000,
+94704
 );
 
 insert into `price` values 
@@ -43113,7 +43162,7 @@ insert into `price` values
 (
 21309,
 5000000,
-null
+5000000
 );
 
 insert into `price` values 
@@ -43182,15 +43231,15 @@ null
 insert into `price` values 
 (
 22528,
-785,
-4140
+760,
+3594
 );
 
 insert into `price` values 
 (
 22527,
-2922,
-61870
+4523,
+53179
 );
 
 insert into `price` values 
@@ -43203,15 +43252,15 @@ insert into `price` values
 insert into `price` values 
 (
 10285,
-8600,
-10105
+8385,
+9878
 );
 
 insert into `price` values 
 (
 14227,
-16400,
-13383
+90030,
+29297
 );
 
 insert into `price` values 
@@ -43225,14 +43274,14 @@ insert into `price` values
 (
 13446,
 39000,
-10989
+16370
 );
 
 insert into `price` values 
 (
 13444,
-13400,
-11738
+50000,
+12997
 );
 
 insert into `price` values 
@@ -43252,8 +43301,8 @@ null
 insert into `price` values 
 (
 23572,
-116999,
-27435
+113500,
+40077
 );
 
 insert into `price` values 
@@ -43280,8 +43329,8 @@ null
 insert into `price` values 
 (
 46378,
-50000,
-321191
+389000,
+322067
 );
 
 insert into `price` values 
@@ -43336,204 +43385,204 @@ null
 insert into `price` values 
 (
 2589,
-5738,
-2371
+3182,
+2636
 );
 
 insert into `price` values 
 (
 2592,
-8250,
-12313
+8677,
+11849
 );
 
 insert into `price` values 
 (
 14344,
-180000,
-277646
+431470,
+300294
 );
 
 insert into `price` values 
 (
 16203,
-434563,
-683628
+229211,
+643955
 );
 
 insert into `price` values 
 (
 22787,
-35000,
-32911
+43875,
+34196
 );
 
 insert into `price` values 
 (
 22790,
 45000,
-29052
+31299
 );
 
 insert into `price` values 
 (
 22791,
 75000,
-82866
+85938
 );
 
 insert into `price` values 
 (
 22792,
-25000,
-36704
+45000,
+36844
 );
 
 insert into `price` values 
 (
 22793,
 45000,
-40818
+41473
 );
 
 insert into `price` values 
 (
 22794,
-36667,
-55539
+29954,
+53556
 );
 
 insert into `price` values 
 (
 23424,
-50426,
-66408
+58328,
+65115
 );
 
 insert into `price` values 
 (
 23425,
-24834,
-52587
+50420,
+49505
 );
 
 insert into `price` values 
 (
 23426,
-279695,
-293714
+318648,
+293385
 );
 
 insert into `price` values 
 (
 23427,
-7975,
-14189
+7967,
+13245
 );
 
 insert into `price` values 
 (
 36901,
-32500,
-33322
+30623,
+34741
 );
 
 insert into `price` values 
 (
 36903,
-27500,
-27918
+12443,
+25019
 );
 
 insert into `price` values 
 (
 36904,
-50000,
-21277
+28843,
+24378
 );
 
 insert into `price` values 
 (
 36905,
-37500,
-68385
+41044,
+66512
 );
 
 insert into `price` values 
 (
 36906,
-19935,
-62807
+17253,
+69524
 );
 
 insert into `price` values 
 (
 36907,
-50000,
-26399
+45719,
+30433
 );
 
 insert into `price` values 
 (
 36908,
-20000,
-59980
+52812,
+65060
 );
 
 insert into `price` values 
 (
 36912,
-12963,
-22050
+35000,
+20716
 );
 
 insert into `price` values 
 (
 37921,
-20073,
-16619
+20000,
+17835
 );
 
 insert into `price` values 
 (
 41101,
 1794500,
-689428
+844247
 );
 
 insert into `price` values 
 (
 41104,
-1434500,
-1046471
+1332500,
+1093321
 );
 
 insert into `price` values 
 (
 41529,
 1997000,
-1593171
+1649474
 );
 
 insert into `price` values 
 (
 41530,
-200000,
-248227
+180000,
+241056
 );
 
 insert into `price` values 
 (
 41538,
 1987000,
-1945809
+1951552
 );
 
 insert into `price` values 
 (
 41547,
-200000,
-210553
+90000,
+206227
 );
 
 insert into `price` values 
@@ -43560,253 +43609,253 @@ null
 insert into `price` values 
 (
 42399,
-100000,
-723528
+1240000,
+705110
 );
 
 insert into `price` values 
 (
 42405,
-1999500,
-1839771
+1997000,
+1861601
 );
 
 insert into `price` values 
 (
 42412,
-69000,
-468558
+68500,
+413063
 );
 
 insert into `price` values 
 (
 42416,
-99500,
-624352
+80000,
+549164
 );
 
 insert into `price` values 
 (
 42417,
-1997000,
-1856586
+1999500,
+1876345
 );
 
 insert into `price` values 
 (
 42457,
 1997000,
-1997837
+1997719
 );
 
 insert into `price` values 
 (
 42460,
 1994500,
-828382
+990187
 );
 
 insert into `price` values 
 (
 42461,
-1997000,
-778424
+1988500,
+946898
 );
 
 insert into `price` values 
 (
 42462,
 1697000,
-1625623
+1635525
 );
 
 insert into `price` values 
 (
 42471,
-80000,
-937629
+70000,
+827141
 );
 
 insert into `price` values 
 (
 42472,
 1997000,
-1597031
+1652530
 );
 
 insert into `price` values 
 (
 42736,
 249000,
-319089
+309852
 );
 
 insert into `price` values 
 (
 42737,
-250000,
-622341
+243750,
+569991
 );
 
 insert into `price` values 
 (
 42744,
 1997000,
-661957
+853622
 );
 
 insert into `price` values 
 (
 42746,
 39600,
-83996
+77835
 );
 
 insert into `price` values 
 (
 42748,
 1997000,
-1997797
+1997687
 );
 
 insert into `price` values 
 (
 42753,
 582500,
-1462739
+1340013
 );
 
 insert into `price` values 
 (
 42899,
-1999500,
-1620069
+1990200,
+1672628
 );
 
 insert into `price` values 
 (
 42903,
-1999500,
-1426119
+1990200,
+1507139
 );
 
 insert into `price` values 
 (
 42906,
-1999500,
-742659
+150000,
+874064
 );
 
 insert into `price` values 
 (
 42908,
-599500,
-1380016
+500000,
+1269284
 );
 
 insert into `price` values 
 (
 42913,
-582500,
-946969
+580000,
+893562
 );
 
 insert into `price` values 
 (
 42917,
-583000,
-1128106
+580300,
+1052444
 );
 
 insert into `price` values 
 (
 42955,
-1997000,
-412025
+1990700,
+642936
 );
 
 insert into `price` values 
 (
 42958,
 1999500,
-598977
+812741
 );
 
 insert into `price` values 
 (
 42959,
-1949013,
-1970890
+1999500,
+1973486
 );
 
 insert into `price` values 
 (
 42962,
 1999500,
-1386213
+1471309
 );
 
 insert into `price` values 
 (
 42963,
-329500,
-1109747
+340000,
+1129681
 );
 
 insert into `price` values 
 (
 42965,
-1995992,
-1948321
+1995491,
+1954878
 );
 
 insert into `price` values 
 (
 43419,
 1997000,
-965270
+1116381
 );
 
 insert into `price` values 
 (
 43533,
 1999500,
-1169455
+1292268
 );
 
 insert into `price` values 
 (
 43552,
-369500,
-408410
+325000,
+400701
 );
 
 insert into `price` values 
 (
 45622,
-1254500,
-416378
+299500,
+448447
 );
 
 insert into `price` values 
 (
 45733,
 1999500,
-875657
+1032349
 );
 
 insert into `price` values 
 (
 45735,
 1999500,
-1429358
+1509620
 );
 
 insert into `price` values 
 (
 45736,
-1999500,
-2265496
+1998999,
+2228546
 );
 
 insert into `price` values 
@@ -43819,8 +43868,8 @@ insert into `price` values
 insert into `price` values 
 (
 45764,
-1999500,
-1999500
+1990150,
+1999410
 );
 
 insert into `price` values 
@@ -43841,49 +43890,49 @@ insert into `price` values
 (
 45795,
 1999500,
-1940195
+1948542
 );
 
 insert into `price` values 
 (
 118,
-7,
-531
+23,
+478
 );
 
 insert into `price` values 
 (
 858,
-1499,
-1639
+1500,
+1631
 );
 
 insert into `price` values 
 (
 929,
-19500,
-7155
+9750,
+7613
 );
 
 insert into `price` values 
 (
 1710,
 6000,
-11697
+10975
 );
 
 insert into `price` values 
 (
 2454,
-4000,
-2695
+3998,
+2945
 );
 
 insert into `price` values 
 (
 2455,
 528,
-825
+763
 );
 
 insert into `price` values 
@@ -43918,21 +43967,21 @@ insert into `price` values
 (
 3823,
 339000,
-171358
+183138
 );
 
 insert into `price` values 
 (
 3825,
 26500,
-29242
+28350
 );
 
 insert into `price` values 
 (
 3928,
-598,
-834
+621,
+805
 );
 
 insert into `price` values 
@@ -43952,8 +44001,8 @@ insert into `price` values
 insert into `price` values 
 (
 6149,
-429,
-7666
+3405,
+6518
 );
 
 insert into `price` values 
@@ -43967,7 +44016,7 @@ insert into `price` values
 (
 6662,
 239000,
-240164
+239902
 );
 
 insert into `price` values 
@@ -43980,8 +44029,8 @@ insert into `price` values
 insert into `price` values 
 (
 9030,
-239000,
-239000
+119000,
+196260
 );
 
 insert into `price` values 
@@ -44009,14 +44058,14 @@ insert into `price` values
 (
 9179,
 49400,
-16325
+28024
 );
 
 insert into `price` values 
 (
 9197,
-739000,
-739000
+689000,
+727635
 );
 
 insert into `price` values 
@@ -44036,8 +44085,8 @@ insert into `price` values
 insert into `price` values 
 (
 12190,
-500000,
-351515
+50000,
+311842
 );
 
 insert into `price` values 
@@ -44051,21 +44100,21 @@ insert into `price` values
 (
 13447,
 49583,
-52075
+51254
 );
 
 insert into `price` values 
 (
 18253,
-189000,
-150745
+119000,
+143595
 );
 
 insert into `price` values 
 (
 21841,
-393303,
-143233
+120000,
+156092
 );
 
 insert into `price` values 
@@ -44120,8 +44169,8 @@ insert into `price` values
 insert into `price` values 
 (
 22832,
-13643,
-14086
+13800,
+14259
 );
 
 insert into `price` values 
@@ -44141,15 +44190,15 @@ null
 insert into `price` values 
 (
 22854,
-739000,
-631518
+689000,
+643012
 );
 
 insert into `price` values 
 (
 22866,
-739000,
-739000
+689000,
+727739
 );
 
 insert into `price` values 
@@ -44169,8 +44218,8 @@ insert into `price` values
 insert into `price` values 
 (
 28104,
-274000,
-267985
+200000,
+258179
 );
 
 insert into `price` values 
@@ -44219,14 +44268,14 @@ insert into `price` values
 (
 38347,
 4890000,
-2967460
+3062571
 );
 
 insert into `price` values 
 (
 38399,
 3000000,
-3738624
+3669042
 );
 
 insert into `price` values 
@@ -44261,14 +44310,14 @@ insert into `price` values
 (
 40072,
 9750,
-9112
+9292
 );
 
 insert into `price` values 
 (
 40076,
-18333,
-29462
+219500,
+78968
 );
 
 insert into `price` values 
@@ -44281,8 +44330,8 @@ null
 insert into `price` values 
 (
 40079,
-160000,
-354303
+389000,
+346060
 );
 
 insert into `price` values 
@@ -44295,8 +44344,8 @@ null
 insert into `price` values 
 (
 40109,
-13500,
-13733
+11250,
+13001
 );
 
 insert into `price` values 
@@ -44316,15 +44365,15 @@ null
 insert into `price` values 
 (
 41599,
-2702735,
-2343391
+2300000,
+2357032
 );
 
 insert into `price` values 
 (
 41600,
-3950000,
-3972786
+4000000,
+3976504
 );
 
 insert into `price` values 
@@ -44352,49 +44401,49 @@ insert into `price` values
 (
 44330,
 77500,
-25225
+33065
 );
 
 insert into `price` values 
 (
 44331,
 50000,
-79858
+74673
 );
 
 insert into `price` values 
 (
 44332,
-17500,
-8025
+17200,
+10263
 );
 
 insert into `price` values 
 (
 44446,
-2000000,
-2045201
+1480000,
+1894877
 );
 
 insert into `price` values 
 (
 46376,
-192235,
-206253
+196681,
+204819
 );
 
 insert into `price` values 
 (
 40073,
-30000,
-48353
+25000,
+44146
 );
 
 insert into `price` values 
 (
 28103,
-6250,
-10673
+12492,
+11310
 );
 
 insert into `price` values 
@@ -44407,8 +44456,8 @@ null
 insert into `price` values 
 (
 4623,
-189000,
-150295
+119500,
+143297
 );
 
 insert into `price` values 
@@ -44442,57 +44491,57 @@ null
 insert into `price` values 
 (
 2459,
-79500,
-73730
+79481,
+74531
 );
 
 insert into `price` values 
 (
 2458,
 1286,
-1716
+1635
 );
 
 insert into `price` values 
 (
 13443,
-81750,
-82728
+10000,
+70592
 );
 
 insert into `price` values 
 (
 13454,
-12500,
-11859
+12150,
+11932
 );
 
 insert into `price` values 
 (
 9187,
 50252,
-133921
+114815
 );
 
 insert into `price` values 
 (
 13462,
 144500,
-134427
+136301
 );
 
 insert into `price` values 
 (
 32067,
-17500,
-14424
+13819,
+14257
 );
 
 insert into `price` values 
 (
 5997,
-958,
-640
+1678,
+737
 );
 
 insert into `price` values 
@@ -44505,8 +44554,8 @@ null
 insert into `price` values 
 (
 3385,
-500,
-1304
+2500,
+1553
 );
 
 insert into `price` values 
@@ -44547,8 +44596,8 @@ null
 insert into `price` values 
 (
 1477,
-4900,
-7242
+8750,
+7321
 );
 
 insert into `price` values 
@@ -44576,7 +44625,7 @@ insert into `price` values
 (
 1711,
 8100,
-13996
+12749
 );
 
 insert into `price` values 
@@ -44722,8 +44771,8 @@ null
 insert into `price` values 
 (
 4791,
-1193,
-null
+2000,
+2000
 );
 
 insert into `price` values 
@@ -44736,15 +44785,15 @@ insert into `price` values
 insert into `price` values 
 (
 6522,
-169500,
-160797
+160072,
+160183
 );
 
 insert into `price` values 
 (
 6657,
 169500,
-132336
+137417
 );
 
 insert into `price` values 
@@ -44771,8 +44820,8 @@ insert into `price` values
 insert into `price` values 
 (
 9260,
-12000,
-16269
+11700,
+15438
 );
 
 insert into `price` values 
@@ -44785,8 +44834,8 @@ null
 insert into `price` values 
 (
 13455,
-189000,
-150295
+119500,
+143297
 );
 
 insert into `price` values 
@@ -44834,8 +44883,8 @@ null
 insert into `price` values 
 (
 21217,
-16000,
-16000
+1600,
+14848
 );
 
 insert into `price` values 
@@ -44905,7 +44954,7 @@ insert into `price` values
 (
 29292,
 4617,
-4442
+4461
 );
 
 insert into `price` values 
@@ -44918,8 +44967,8 @@ null
 insert into `price` values 
 (
 30155,
-2850,
-2696
+2926,
+2698
 );
 
 insert into `price` values 
@@ -44960,29 +45009,29 @@ insert into `price` values
 insert into `price` values 
 (
 33459,
-8000,
-16422
+7000,
+15203
 );
 
 insert into `price` values 
 (
 33460,
-7460,
-5062
+5500,
+5208
 );
 
 insert into `price` values 
 (
 33462,
-8600,
-7650
+7000,
+7685
 );
 
 insert into `price` values 
 (
 34749,
-11477,
-null
+50000,
+50000
 );
 
 insert into `price` values 
@@ -45003,7 +45052,7 @@ insert into `price` values
 (
 34764,
 5000,
-13075
+12498
 );
 
 insert into `price` values 
@@ -45017,14 +45066,14 @@ insert into `price` values
 (
 37091,
 7943,
-7286
+7298
 );
 
 insert into `price` values 
 (
 37097,
-10395,
-8352
+7700,
+8244
 );
 
 insert into `price` values 
@@ -45051,15 +45100,15 @@ null
 insert into `price` values 
 (
 38374,
-850000,
-850000
+1504500,
+1081593
 );
 
 insert into `price` values 
 (
 38375,
 100000,
-101921
+103700
 );
 
 insert into `price` values 
@@ -45086,50 +45135,50 @@ insert into `price` values
 insert into `price` values 
 (
 38912,
-326754,
-219022
+326755,
+229796
 );
 
 insert into `price` values 
 (
 38928,
-186000,
-56750
+78907,
+64987
 );
 
 insert into `price` values 
 (
 38929,
 195000,
-25312
+51485
 );
 
 insert into `price` values 
 (
 38955,
-250000,
-66767
+50000,
+76786
 );
 
 insert into `price` values 
 (
 38962,
-1000000,
-412617
+100000,
+409439
 );
 
 insert into `price` values 
 (
 38975,
 370000,
-403928
+397510
 );
 
 insert into `price` values 
 (
 38989,
 350000,
-350892
+350765
 );
 
 insert into `price` values 
@@ -45177,15 +45226,15 @@ null
 insert into `price` values 
 (
 41611,
-988000,
-983923
+964025,
+981603
 );
 
 insert into `price` values 
 (
 41976,
 180000,
-229188
+218999
 );
 
 insert into `price` values 
@@ -45233,15 +45282,15 @@ insert into `price` values
 insert into `price` values 
 (
 43465,
-7030,
-5787
+6855,
+5891
 );
 
 insert into `price` values 
 (
 43466,
-9500,
-7215
+8500,
+7465
 );
 
 insert into `price` values 
@@ -45304,21 +45353,21 @@ insert into `price` values
 (
 55718,
 300000,
-332844
+326536
 );
 
 insert into `price` values 
 (
 2862,
 2000,
-1460
+1592
 );
 
 insert into `price` values 
 (
 2863,
 25000,
-23469
+23665
 );
 
 insert into `price` values 
@@ -45352,8 +45401,8 @@ insert into `price` values
 insert into `price` values 
 (
 4481,
-525,
-null
+12500,
+12500
 );
 
 insert into `price` values 
@@ -45380,8 +45429,8 @@ insert into `price` values
 insert into `price` values 
 (
 11325,
-120000,
-135162
+150000,
+138687
 );
 
 insert into `price` values 
@@ -45457,8 +45506,8 @@ insert into `price` values
 insert into `price` values 
 (
 38793,
-26150,
-13446
+20000,
+15020
 );
 
 insert into `price` values 
@@ -45471,8 +45520,8 @@ null
 insert into `price` values 
 (
 38838,
-1300000,
-2352196
+1200000,
+2184549
 );
 
 insert into `price` values 
@@ -45521,7 +45570,7 @@ insert into `price` values
 (
 38873,
 4500000,
-4501446
+4501239
 );
 
 insert into `price` values 
@@ -45562,15 +45611,15 @@ null
 insert into `price` values 
 (
 38914,
-150000,
-105854
+100000,
+104938
 );
 
 insert into `price` values 
 (
 38925,
-7880000,
-7865382
+7390000,
+7788886
 );
 
 insert into `price` values 
@@ -45583,8 +45632,8 @@ insert into `price` values
 insert into `price` values 
 (
 38933,
-250000,
-145781
+247500,
+163063
 );
 
 insert into `price` values 
@@ -45598,21 +45647,21 @@ insert into `price` values
 (
 38945,
 755000,
-302706
+389569
 );
 
 insert into `price` values 
 (
 38949,
-132000,
-31061
+129500,
+45519
 );
 
 insert into `price` values 
 (
 38951,
-100000,
-266458
+89999,
+236790
 );
 
 insert into `price` values 
@@ -45625,29 +45674,29 @@ insert into `price` values
 insert into `price` values 
 (
 38954,
-403866,
-382351
+1014695,
+481397
 );
 
 insert into `price` values 
 (
 38959,
-100000,
-145144
+180999,
+132797
 );
 
 insert into `price` values 
 (
 38960,
 220000,
-233664
+232547
 );
 
 insert into `price` values 
 (
 38961,
-135200,
-106750
+135201,
+148456
 );
 
 insert into `price` values 
@@ -45688,15 +45737,15 @@ insert into `price` values
 insert into `price` values 
 (
 38968,
-1500000,
-718166
+990000,
+738102
 );
 
 insert into `price` values 
 (
 38971,
 247924,
-195033
+203745
 );
 
 insert into `price` values 
@@ -45730,8 +45779,8 @@ null
 insert into `price` values 
 (
 38979,
-100000,
-117023
+206958,
+114045
 );
 
 insert into `price` values 
@@ -45772,8 +45821,8 @@ null
 insert into `price` values 
 (
 38990,
-992538,
-null
+1000000,
+1000000
 );
 
 insert into `price` values 
@@ -45786,8 +45835,8 @@ null
 insert into `price` values 
 (
 38992,
-799998,
-1023951
+1100000,
+1065671
 );
 
 insert into `price` values 
@@ -45800,8 +45849,8 @@ null
 insert into `price` values 
 (
 38995,
-1570250,
-1650399
+1799928,
+1657586
 );
 
 insert into `price` values 
@@ -45856,8 +45905,8 @@ null
 insert into `price` values 
 (
 43850,
-557750,
-583223
+542300,
+577913
 );
 
 insert into `price` values 
@@ -45884,8 +45933,8 @@ insert into `price` values
 insert into `price` values 
 (
 44453,
-400000,
-442052
+399199,
+436153
 );
 
 insert into `price` values 
@@ -45899,14 +45948,14 @@ insert into `price` values
 (
 44456,
 250000,
-232399
+237058
 );
 
 insert into `price` values 
 (
 44457,
-4999500,
-2081714
+776631,
+2082478
 );
 
 insert into `price` values 
@@ -45976,7 +46025,7 @@ insert into `price` values
 (
 45060,
 1870299,
-1457956
+1508502
 );
 
 insert into `price` values 
@@ -46003,162 +46052,162 @@ null
 insert into `price` values 
 (
 783,
-4000,
-8169
+77565,
+11329
 );
 
 insert into `price` values 
 (
 785,
-12647,
-13916
+13697,
+13819
 );
 
 insert into `price` values 
 (
 2290,
 2500,
-3300
+2907
 );
 
 insert into `price` values 
 (
 2318,
-37315,
-20765
+4800,
+20110
 );
 
 insert into `price` values 
 (
 2319,
-100000,
-55968
+9684,
+52660
 );
 
 insert into `price` values 
 (
 2450,
-25000,
-28016
+32669,
+27251
 );
 
 insert into `price` values 
 (
 2452,
-23078,
-19792
+22846,
+20237
 );
 
 insert into `price` values 
 (
 2453,
-13745,
-15663
+10867,
+15166
 );
 
 insert into `price` values 
 (
 2771,
-9100,
-12445
+18500,
+12130
 );
 
 insert into `price` values 
 (
 2772,
-30000,
-23016
+18978,
+23135
 );
 
 insert into `price` values 
 (
 2775,
-107778,
-113651
+108000,
+117637
 );
 
 insert into `price` values 
 (
 2776,
-26944,
-44380
+21543,
+41909
 );
 
 insert into `price` values 
 (
 2836,
-6000,
-3085
+25,
+3369
 );
 
 insert into `price` values 
 (
 2838,
-6000,
-1331953
+8636,
+1178998
 );
 
 insert into `price` values 
 (
 2840,
-10000,
-16096
+9891,
+15200
 );
 
 insert into `price` values 
 (
 2841,
-22500,
-26252
+21200,
+25247
 );
 
 insert into `price` values 
 (
 2842,
-162945,
-103409
+96778,
+105004
 );
 
 insert into `price` values 
 (
 58488,
-1878000,
-1168400
+900000,
+1151054
 );
 
 insert into `price` values 
 (
 2934,
-1000,
-1130
+950,
+1101
 );
 
 insert into `price` values 
 (
 2997,
-168713,
-73312
+150000,
+87942
 );
 
 insert into `price` values 
 (
 3355,
-45000,
-26772
+41438,
+28848
 );
 
 insert into `price` values 
 (
 3356,
-19762,
-14375
+14095,
+14631
 );
 
 insert into `price` values 
 (
 3358,
-22275,
-17589
+18763,
+17757
 );
 
 insert into `price` values 
@@ -46192,29 +46241,29 @@ insert into `price` values
 insert into `price` values 
 (
 3575,
-10984,
-22615
+50000,
+22698
 );
 
 insert into `price` values 
 (
 3576,
-19463,
-14293
+17377,
+14308
 );
 
 insert into `price` values 
 (
 3577,
-11493,
-16226
+11200,
+15545
 );
 
 insert into `price` values 
 (
 3818,
-24750,
-18750
+21780,
+19239
 );
 
 insert into `price` values 
@@ -46227,92 +46276,92 @@ insert into `price` values
 insert into `price` values 
 (
 3820,
-22188,
-24846
+10070,
+23375
 );
 
 insert into `price` values 
 (
 3821,
 164715,
-125461
+132638
 );
 
 insert into `price` values 
 (
 3858,
-18834,
-23586
+30000,
+23432
 );
 
 insert into `price` values 
 (
 3859,
-30000,
-56547
+69500,
+54611
 );
 
 insert into `price` values 
 (
 3860,
-24000,
-25404
+17500,
+24920
 );
 
 insert into `price` values 
 (
 4231,
-37500,
-46909
+79915,
+52131
 );
 
 insert into `price` values 
 (
 4232,
-41111,
-33583
+37155,
+34640
 );
 
 insert into `price` values 
 (
 4233,
-13466,
-null
+137192,
+137192
 );
 
 insert into `price` values 
 (
 4234,
-72956,
-51396
+35225,
+53716
 );
 
 insert into `price` values 
 (
 4235,
-539000,
-380703
+538000,
+414097
 );
 
 insert into `price` values 
 (
 4304,
-119410,
-42247
+75000,
+51578
 );
 
 insert into `price` values 
 (
 4305,
-107332,
-168777
+104813,
+159454
 );
 
 insert into `price` values 
 (
 4357,
-599,
-1576
+499,
+1382
 );
 
 insert into `price` values 
@@ -46325,22 +46374,22 @@ insert into `price` values
 insert into `price` values 
 (
 4363,
-9500,
-7975
+9400,
+8024
 );
 
 insert into `price` values 
 (
 4364,
 14313,
-13196
+13376
 );
 
 insert into `price` values 
 (
 4371,
-97500,
-72491
+19245,
+63677
 );
 
 insert into `price` values 
@@ -46389,7 +46438,7 @@ insert into `price` values
 (
 4625,
 35000,
-33007
+33321
 );
 
 insert into `price` values 
@@ -46409,8 +46458,8 @@ null
 insert into `price` values 
 (
 6037,
-42786,
-41416
+42389,
+41588
 );
 
 insert into `price` values 
@@ -46424,7 +46473,7 @@ insert into `price` values
 (
 6470,
 5001,
-4060
+4211
 );
 
 insert into `price` values 
@@ -46444,36 +46493,36 @@ null
 insert into `price` values 
 (
 7067,
-400000,
-413670
+570715,
+434596
 );
 
 insert into `price` values 
 (
 7068,
 20000,
-6328
+7039
 );
 
 insert into `price` values 
 (
 7069,
-9405,
-61474
+6467,
+53138
 );
 
 insert into `price` values 
 (
 7070,
-49400,
-56387
+195000,
+59875
 );
 
 insert into `price` values 
 (
 7075,
-39605,
-20642
+41096,
+22676
 );
 
 insert into `price` values 
@@ -46487,56 +46536,56 @@ insert into `price` values
 (
 7077,
 6923,
-6804
+6828
 );
 
 insert into `price` values 
 (
 7078,
-19404,
-24010
+24035,
+24735
 );
 
 insert into `price` values 
 (
 7079,
-300000,
-599342
+608182,
+593194
 );
 
 insert into `price` values 
 (
 7080,
 639000,
-496819
+523946
 );
 
 insert into `price` values 
 (
 7081,
-15000,
-28614
+15715,
+30786
 );
 
 insert into `price` values 
 (
 7082,
-500000,
-1666201
+1500000,
+1692096
 );
 
 insert into `price` values 
 (
 7911,
-42785,
-56490
+104202,
+62742
 );
 
 insert into `price` values 
 (
 7912,
-750,
-893
+3964,
+1519
 );
 
 insert into `price` values 
@@ -46550,7 +46599,7 @@ insert into `price` values
 (
 7972,
 2500,
-46153
+38482
 );
 
 insert into `price` values 
@@ -46563,8 +46612,8 @@ insert into `price` values
 insert into `price` values 
 (
 8153,
-461989,
-313145
+469500,
+325899
 );
 
 insert into `price` values 
@@ -46578,7 +46627,7 @@ insert into `price` values
 (
 8165,
 15578,
-15677
+15657
 );
 
 insert into `price` values 
@@ -46591,29 +46640,29 @@ null
 insert into `price` values 
 (
 8169,
-8700,
-7666
+74102,
+15709
 );
 
 insert into `price` values 
 (
 8170,
-71394,
-70521
+83192,
+73310
 );
 
 insert into `price` values 
 (
 8171,
-1458,
-4304
+53743,
+10958
 );
 
 insert into `price` values 
 (
 8172,
-34779,
-34779
+34000,
+34763
 );
 
 insert into `price` values 
@@ -46627,28 +46676,28 @@ insert into `price` values
 (
 8831,
 44967,
-44941
+44937
 );
 
 insert into `price` values 
 (
 8836,
-468922,
-370801
+175000,
+363213
 );
 
 insert into `price` values 
 (
 8838,
-22802,
-20472
+20000,
+20524
 );
 
 insert into `price` values 
 (
 8839,
-97754,
-87291
+66074,
+85636
 );
 
 insert into `price` values 
@@ -46661,134 +46710,134 @@ insert into `price` values
 insert into `price` values 
 (
 8846,
-23750,
-28931
+22500,
+28268
 );
 
 insert into `price` values 
 (
 10620,
-25161,
-28542
+40000,
+27906
 );
 
 insert into `price` values 
 (
 11370,
-37500,
-37500
+27500,
+35206
 );
 
 insert into `price` values 
 (
 12359,
-30000,
-32738
+33871,
+33498
 );
 
 insert into `price` values 
 (
 12360,
-468166,
-364777
+469500,
+378148
 );
 
 insert into `price` values 
 (
 12365,
-270,
-371
+500,
+374
 );
 
 insert into `price` values 
 (
 12644,
-10000,
-10527
+9131,
+10407
 );
 
 insert into `price` values 
 (
 12655,
-4000,
-11072
+3800,
+10043
 );
 
 insert into `price` values 
 (
 12803,
-380908,
-150108
+61000,
+164271
 );
 
 insert into `price` values 
 (
 12808,
-536755,
-291856
+100000,
+324560
 );
 
 insert into `price` values 
 (
 12810,
 469500,
-413827
+421461
 );
 
 insert into `price` values 
 (
 13463,
-35000,
-24949
+34125,
+26096
 );
 
 insert into `price` values 
 (
 13464,
-25000,
-19029
+34125,
+20559
 );
 
 insert into `price` values 
 (
 13465,
-35000,
-28002
+34855,
+29028
 );
 
 insert into `price` values 
 (
 13466,
-35000,
-33780
+25622,
+33838
 );
 
 insert into `price` values 
 (
 13467,
-29231,
-32192
+32500,
+32148
 );
 
 insert into `price` values 
 (
 13468,
 45000,
-54245
+54132
 );
 
 insert into `price` values 
 (
 14048,
-17633,
-18172
+14987,
+17586
 );
 
 insert into `price` values 
 (
 14256,
-6000,
-115476
+1500000,
+160242
 );
 
 insert into `price` values 
@@ -46829,43 +46878,43 @@ null
 insert into `price` values 
 (
 15412,
-6988,
-72071
+131598,
+81538
 );
 
 insert into `price` values 
 (
 15414,
-341250,
-532323
+1103497,
+598809
 );
 
 insert into `price` values 
 (
 15415,
-251250,
-218347
+243556,
+222939
 );
 
 insert into `price` values 
 (
 15416,
-62542,
-117693
+60407,
+109324
 );
 
 insert into `price` values 
 (
 15417,
-31274,
-33147
+37022,
+33636
 );
 
 insert into `price` values 
 (
 15419,
-5778,
-4284
+5931,
+4461
 );
 
 insert into `price` values 
@@ -46878,8 +46927,8 @@ insert into `price` values
 insert into `price` values 
 (
 19726,
-145384,
-147428
+149111,
+147421
 );
 
 insert into `price` values 
@@ -46900,7 +46949,7 @@ insert into `price` values
 (
 20498,
 21795,
-3893
+5015
 );
 
 insert into `price` values 
@@ -46934,190 +46983,190 @@ null
 insert into `price` values 
 (
 21845,
-1010000,
-1010000
+1003334,
+1008470
 );
 
 insert into `price` values 
 (
 21881,
-338910,
-227294
+361292,
+251264
 );
 
 insert into `price` values 
 (
 21884,
-730000,
-321077
+147500,
+354012
 );
 
 insert into `price` values 
 (
 21885,
-963334,
-804822
+1000000,
+824332
 );
 
 insert into `price` values 
 (
 21886,
-63375,
-98257
+46475,
+93208
 );
 
 insert into `price` values 
 (
 21887,
-37500,
-66835
+32477,
+62947
 );
 
 insert into `price` values 
 (
 22451,
-997500,
-1833971
+90000,
+1666206
 );
 
 insert into `price` values 
 (
 22452,
-500000,
-60425
+10000,
+60040
 );
 
 insert into `price` values 
 (
 22456,
-212833,
-184702
+252500,
+194171
 );
 
 insert into `price` values 
 (
 22457,
 633755,
-521135
+542483
 );
 
 insert into `price` values 
 (
 22572,
-96590,
-56696
+30000,
+61860
 );
 
 insert into `price` values 
 (
 22573,
-48750,
-8287
+4000,
+9699
 );
 
 insert into `price` values 
 (
 22574,
-80667,
-67337
+1200,
+67335
 );
 
 insert into `price` values 
 (
 22575,
-2800,
-2708
+2000,
+2642
 );
 
 insert into `price` values 
 (
 22576,
-6333,
-18174
+17011,
+18160
 );
 
 insert into `price` values 
 (
 22577,
-5000,
-5458
+30000,
+8736
 );
 
 insert into `price` values 
 (
 22578,
-25202,
-16830
+10000,
+18099
 );
 
 insert into `price` values 
 (
 22785,
-31500,
-20981
+20000,
+20968
 );
 
 insert into `price` values 
 (
 22786,
-35000,
-27481
+23748,
+28525
 );
 
 insert into `price` values 
 (
 22789,
-30000,
-36914
+44679,
+37418
 );
 
 insert into `price` values 
 (
 23445,
-99595,
-88334
+88063,
+88927
 );
 
 insert into `price` values 
 (
 23446,
-43721,
-80628
+39000,
+75268
 );
 
 insert into `price` values 
 (
 23447,
-29858,
-36256
+29485,
+35226
 );
 
 insert into `price` values 
 (
 23448,
-145000,
-171022
+100000,
+162448
 );
 
 insert into `price` values 
 (
 23449,
 964642,
-747612
+777869
 );
 
 insert into `price` values 
 (
 23571,
-2350000,
-2344110
+2280000,
+2346034
 );
 
 insert into `price` values 
 (
 23573,
-145763,
-143964
+99900,
+137926
 );
 
 insert into `price` values 
@@ -47130,15 +47179,15 @@ null
 insert into `price` values 
 (
 23793,
-778000,
-589451
+750000,
+630139
 );
 
 insert into `price` values 
 (
 24243,
-469194,
-179690
+30000,
+218770
 );
 
 insert into `price` values 
@@ -47151,43 +47200,43 @@ null
 insert into `price` values 
 (
 25649,
-9675,
-93994
+4758,
+82011
 );
 
 insert into `price` values 
 (
 25699,
-34991,
-27962
+18919,
+28601
 );
 
 insert into `price` values 
 (
 25700,
-539000,
-512386
+489767,
+509094
 );
 
 insert into `price` values 
 (
 25707,
-75000,
-86001
+22282,
+79292
 );
 
 insert into `price` values 
 (
 25708,
-93716,
-97702
+63780,
+93463
 );
 
 insert into `price` values 
 (
 31079,
-1889000,
-1285169
+1220000,
+1328307
 );
 
 insert into `price` values 
@@ -47201,7 +47250,7 @@ insert into `price` values
 (
 37101,
 22320,
-23038
+22913
 );
 
 insert into `price` values 
@@ -47236,7 +47285,7 @@ insert into `price` values
 (
 39469,
 29974,
-32438
+31986
 );
 
 insert into `price` values 
@@ -47263,22 +47312,22 @@ null
 insert into `price` values 
 (
 41511,
-1000000,
-1000000
+375000,
+907897
 );
 
 insert into `price` values 
 (
 41803,
 500,
-3603
+3478
 );
 
 insert into `price` values 
 (
 41805,
-155000,
-267679
+301819,
+273345
 );
 
 insert into `price` values 
@@ -47299,7 +47348,7 @@ insert into `price` values
 (
 43115,
 41892,
-42242
+42190
 );
 
 insert into `price` values 
@@ -47313,7 +47362,7 @@ insert into `price` values
 (
 43117,
 43000,
-46798
+46270
 );
 
 insert into `price` values 
@@ -47327,21 +47376,21 @@ insert into `price` values
 (
 43119,
 73000,
-71631
+71826
 );
 
 insert into `price` values 
 (
 43120,
 175500,
-136262
+147307
 );
 
 insert into `price` values 
 (
 43121,
 275000,
-209746
+215578
 );
 
 insert into `price` values 
@@ -47355,7 +47404,7 @@ insert into `price` values
 (
 43123,
 125000,
-226855
+210259
 );
 
 insert into `price` values 
@@ -47369,14 +47418,14 @@ insert into `price` values
 (
 43125,
 79500,
-81554
+81268
 );
 
 insert into `price` values 
 (
 43126,
 319500,
-204212
+215322
 );
 
 insert into `price` values 
@@ -47390,7 +47439,7 @@ insert into `price` values
 (
 44739,
 250000,
-212967
+214330
 );
 
 insert into `price` values 
@@ -47403,29 +47452,29 @@ null
 insert into `price` values 
 (
 774,
-15000,
-61499
+59012,
+61652
 );
 
 insert into `price` values 
 (
 818,
-14762,
-24421
+66404,
+26530
 );
 
 insert into `price` values 
 (
 1206,
-212000,
-193031
+58334,
+199958
 );
 
 insert into `price` values 
 (
 1210,
-25000,
-93785
+128542,
+95570
 );
 
 insert into `price` values 
@@ -47438,15 +47487,15 @@ null
 insert into `price` values 
 (
 1529,
-75000,
-55518
+187223,
+72959
 );
 
 insert into `price` values 
 (
 1705,
-27500,
-15091
+26643,
+16766
 );
 
 insert into `price` values 
@@ -47459,8 +47508,8 @@ null
 insert into `price` values 
 (
 2770,
-9682,
-16030
+17864,
+16238
 );
 
 insert into `price` values 
@@ -47488,21 +47537,21 @@ insert into `price` values
 (
 2996,
 24500,
-10639
+13094
 );
 
 insert into `price` values 
 (
 54506,
 20000000,
-25685186
+24873017
 );
 
 insert into `price` values 
 (
 3383,
 200,
-11884
+8529
 );
 
 insert into `price` values 
@@ -47516,7 +47565,7 @@ insert into `price` values
 (
 3609,
 6713,
-5476
+5711
 );
 
 insert into `price` values 
@@ -47550,8 +47599,8 @@ null
 insert into `price` values 
 (
 3864,
-20000,
-44252
+150000,
+66179
 );
 
 insert into `price` values 
@@ -47571,36 +47620,36 @@ insert into `price` values
 insert into `price` values 
 (
 4339,
-11899,
-14711
+12500,
+14540
 );
 
 insert into `price` values 
 (
 4346,
 49900,
-28561
+32381
 );
 
 insert into `price` values 
 (
 4401,
-2990000,
-2990000
+175000,
+1844917
 );
 
 insert into `price` values 
 (
 4409,
-10000,
-8434
+600000,
+355213
 );
 
 insert into `price` values 
 (
 4609,
-150000,
-142162
+149063,
+143178
 );
 
 insert into `price` values 
@@ -47634,15 +47683,15 @@ insert into `price` values
 insert into `price` values 
 (
 5498,
-7000,
-8446
+20000,
+12961
 );
 
 insert into `price` values 
 (
 5500,
-1406667,
-716487
+1578000,
+827324
 );
 
 insert into `price` values 
@@ -47655,8 +47704,8 @@ null
 insert into `price` values 
 (
 5635,
-14000,
-13454
+19900,
+13818
 );
 
 insert into `price` values 
@@ -47676,8 +47725,8 @@ null
 insert into `price` values 
 (
 5772,
-240000,
-267978
+234000,
+259617
 );
 
 insert into `price` values 
@@ -47732,8 +47781,8 @@ null
 insert into `price` values 
 (
 6271,
-1204280,
-1039514
+1002340,
+1030474
 );
 
 insert into `price` values 
@@ -47789,14 +47838,14 @@ insert into `price` values
 (
 6348,
 501376,
-502349
+502131
 );
 
 insert into `price` values 
 (
 6358,
-15000,
-12384
+19508,
+13511
 );
 
 insert into `price` values 
@@ -47809,8 +47858,8 @@ null
 insert into `price` values 
 (
 6371,
-270715,
-168715
+100000,
+170616
 );
 
 insert into `price` values 
@@ -47838,14 +47887,14 @@ insert into `price` values
 (
 6661,
 4890000,
-5597405
+5496861
 );
 
 insert into `price` values 
 (
 6716,
-229513,
-229513
+9500,
+119507
 );
 
 insert into `price` values 
@@ -47879,15 +47928,15 @@ null
 insert into `price` values 
 (
 7909,
-50000,
-27938
+150000,
+52003
 );
 
 insert into `price` values 
 (
 7910,
-75000,
-133930
+150000,
+130545
 );
 
 insert into `price` values 
@@ -47984,36 +48033,36 @@ insert into `price` values
 insert into `price` values 
 (
 8485,
-190000,
-160587
+40000,
+92564
 );
 
 insert into `price` values 
 (
 8486,
-200000,
-180377
+40000,
+139200
 );
 
 insert into `price` values 
 (
 8487,
-200000,
-180377
+40000,
+139200
 );
 
 insert into `price` values 
 (
 8488,
-180000,
-163395
+40000,
+127202
 );
 
 insert into `price` values 
 (
 8490,
-250000,
-209998
+80000,
+154282
 );
 
 insert into `price` values 
@@ -48033,36 +48082,36 @@ insert into `price` values
 insert into `price` values 
 (
 8495,
-60000,
-74789
+42500,
+71884
 );
 
 insert into `price` values 
 (
 8496,
-69999,
-69999
+42500,
+52162
 );
 
 insert into `price` values 
 (
 8497,
-30000000,
-30000000
+97550,
+21122712
 );
 
 insert into `price` values 
 (
 8500,
-90000,
-95800
+65000,
+87959
 );
 
 insert into `price` values 
 (
 8501,
-90000,
-104688
+65000,
+96481
 );
 
 insert into `price` values 
@@ -48075,8 +48124,8 @@ insert into `price` values
 insert into `price` values 
 (
 9262,
-6435,
-5449
+6484,
+5612
 );
 
 insert into `price` values 
@@ -48097,14 +48146,14 @@ insert into `price` values
 (
 9304,
 569800,
-429867
+522096
 );
 
 insert into `price` values 
 (
 9305,
 589800,
-443199
+539824
 );
 
 insert into `price` values 
@@ -48152,8 +48201,8 @@ insert into `price` values
 insert into `price` values 
 (
 10392,
-750000,
-267071
+70000,
+254358
 );
 
 insert into `price` values 
@@ -48187,36 +48236,36 @@ insert into `price` values
 insert into `price` values 
 (
 10938,
-11200,
-11895
+9900,
+11640
 );
 
 insert into `price` values 
 (
 10940,
-1998,
-1981
+2000,
+2098
 );
 
 insert into `price` values 
 (
 10978,
-7595,
-12924
+6546,
+12060
 );
 
 insert into `price` values 
 (
 10998,
-9519,
-7655
+9343,
+7900
 );
 
 insert into `price` values 
 (
 11023,
 156000,
-218188
+207048
 );
 
 insert into `price` values 
@@ -48243,106 +48292,106 @@ null
 insert into `price` values 
 (
 11082,
-36608,
-33810
+47000,
+34278
 );
 
 insert into `price` values 
 (
 11083,
 5000,
-5593
+5509
 );
 
 insert into `price` values 
 (
 11084,
 916,
-3622
+3247
 );
 
 insert into `price` values 
 (
 11128,
-487500,
-467918
+1243750,
+573140
 );
 
 insert into `price` values 
 (
 11134,
-12537,
-29934
+11435,
+27299
 );
 
 insert into `price` values 
 (
 11135,
-7143,
-35022
+166666,
+40064
 );
 
 insert into `price` values 
 (
 11137,
-19528,
-18806
+97143,
+24186
 );
 
 insert into `price` values 
 (
 11138,
-2423,
-3272
+2374,
+3146
 );
 
 insert into `price` values 
 (
 11139,
-1950,
-3343
+9279,
+3829
 );
 
 insert into `price` values 
 (
 11144,
-730000,
-728679
+1000000,
+828958
 );
 
 insert into `price` values 
 (
 11164,
-327500,
-327500
+3000000,
+582024
 );
 
 insert into `price` values 
 (
 11174,
-153956,
-157577
+150000,
+156788
 );
 
 insert into `price` values 
 (
 11175,
-309999,
-277994
+300000,
+280270
 );
 
 insert into `price` values 
 (
 11177,
-121977,
-118558
+125470,
+121986
 );
 
 insert into `price` values 
 (
 11178,
-280000,
-316672
+401317,
+327545
 );
 
 insert into `price` values 
@@ -48355,15 +48404,15 @@ insert into `price` values
 insert into `price` values 
 (
 11382,
-29001112,
-37779345
+33065000,
+37096429
 );
 
 insert into `price` values 
 (
 11610,
-500000,
-null
+140000,
+140000
 );
 
 insert into `price` values 
@@ -48376,8 +48425,8 @@ insert into `price` values
 insert into `price` values 
 (
 11732,
-317647,
-280424
+326056,
+283716
 );
 
 insert into `price` values 
@@ -48390,15 +48439,15 @@ insert into `price` values
 insert into `price` values 
 (
 11734,
-822225,
-706355
+767342,
+717536
 );
 
 insert into `price` values 
 (
 11736,
 1000000,
-474999
+543479
 );
 
 insert into `price` values 
@@ -48411,36 +48460,36 @@ insert into `price` values
 insert into `price` values 
 (
 11754,
-10000,
-13510
+22500,
+13478
 );
 
 insert into `price` values 
 (
 11825,
-560000,
-557771
+500000,
+551918
 );
 
 insert into `price` values 
 (
 11826,
-1240000,
-1548095
+2250000,
+1658458
 );
 
 insert into `price` values 
 (
 12228,
-149500,
-82857
+90000,
+85889
 );
 
 insert into `price` values 
 (
 12231,
-250000,
-null
+50000,
+50000
 );
 
 insert into `price` values 
@@ -48454,42 +48503,42 @@ insert into `price` values
 (
 12233,
 569800,
-254470
+329428
 );
 
 insert into `price` values 
 (
 12239,
 518400,
-612400
+597340
 );
 
 insert into `price` values 
 (
 12361,
-73500,
-64291
+100000,
+68259
 );
 
 insert into `price` values 
 (
 12363,
-6000,
-68696
+439000,
+127948
 );
 
 insert into `price` values 
 (
 12364,
-100000,
-95122
+327223,
+138602
 );
 
 insert into `price` values 
 (
 12682,
-146000,
-106005
+100000,
+111116
 );
 
 insert into `price` values 
@@ -48530,15 +48579,15 @@ insert into `price` values
 insert into `price` values 
 (
 12799,
-49999,
-62953
+212105,
+100158
 );
 
 insert into `price` values 
 (
 12800,
-261089,
-253606
+150000,
+259527
 );
 
 insert into `price` values 
@@ -48551,8 +48600,8 @@ insert into `price` values
 insert into `price` values 
 (
 12811,
-799090,
-818486
+50000,
+807662
 );
 
 insert into `price` values 
@@ -48565,8 +48614,8 @@ null
 insert into `price` values 
 (
 12833,
-186096,
-169325
+200000,
+175375
 );
 
 insert into `price` values 
@@ -48586,8 +48635,8 @@ null
 insert into `price` values 
 (
 13494,
-18000,
-18000
+120000,
+97687
 );
 
 insert into `price` values 
@@ -48600,8 +48649,8 @@ insert into `price` values
 insert into `price` values 
 (
 13757,
-319500,
-286281
+269500,
+283057
 );
 
 insert into `price` values 
@@ -48629,14 +48678,14 @@ insert into `price` values
 (
 13947,
 150000,
-168239
+166023
 );
 
 insert into `price` values 
 (
 14343,
-57895,
-20952
+15000,
+22771
 );
 
 insert into `price` values 
@@ -48663,8 +48712,8 @@ null
 insert into `price` values 
 (
 14499,
-709158,
-744453
+500000,
+718722
 );
 
 insert into `price` values 
@@ -48677,8 +48726,8 @@ null
 insert into `price` values 
 (
 14526,
-90000,
-90000
+180000,
+115413
 );
 
 insert into `price` values 
@@ -48699,7 +48748,7 @@ insert into `price` values
 (
 15737,
 100218,
-211809
+194411
 );
 
 insert into `price` values 
@@ -48761,15 +48810,15 @@ insert into `price` values
 insert into `price` values 
 (
 15992,
-2342,
-2205
+1795,
+2175
 );
 
 insert into `price` values 
 (
 15996,
-2250000,
-2097832
+1900000,
+2080562
 );
 
 insert into `price` values 
@@ -48783,7 +48832,7 @@ insert into `price` values
 (
 16048,
 44564,
-48465
+47711
 );
 
 insert into `price` values 
@@ -48796,15 +48845,15 @@ null
 insert into `price` values 
 (
 16202,
-371819,
-305030
+200000,
+307670
 );
 
 insert into `price` values 
 (
 16206,
-1100000,
-1313000
+3390000,
+2023549
 );
 
 insert into `price` values 
@@ -48831,22 +48880,22 @@ null
 insert into `price` values 
 (
 16248,
-399750,
-647786
+88771,
+575790
 );
 
 insert into `price` values 
 (
 16251,
-250000,
-488659
+150000,
+449426
 );
 
 insert into `price` values 
 (
 16255,
-2731793,
-2199057
+3054680,
+2360607
 );
 
 insert into `price` values 
@@ -48915,15 +48964,15 @@ null
 insert into `price` values 
 (
 18945,
-1000,
-8192
+10100,
+8220
 );
 
 insert into `price` values 
 (
 19230,
-1159506,
-1192570
+1385136,
+1192152
 );
 
 insert into `price` values 
@@ -48958,14 +49007,14 @@ insert into `price` values
 (
 20520,
 4226,
-7060
+6330
 );
 
 insert into `price` values 
 (
 20725,
-19500,
-1670770
+31375,
+1429681
 );
 
 insert into `price` values 
@@ -48979,7 +49028,7 @@ insert into `price` values
 (
 20856,
 50938,
-48168
+48256
 );
 
 insert into `price` values 
@@ -48999,15 +49048,15 @@ insert into `price` values
 insert into `price` values 
 (
 21219,
-9900,
-23224
+9507,
+21302
 );
 
 insert into `price` values 
 (
 21277,
-6500000,
-5954041
+4000000,
+5576212
 );
 
 insert into `price` values 
@@ -49020,15 +49069,15 @@ null
 insert into `price` values 
 (
 21840,
-26511,
-30819
+32776,
+31083
 );
 
 insert into `price` values 
 (
 21882,
 32499,
-52606
+50058
 );
 
 insert into `price` values 
@@ -49041,8 +49090,8 @@ null
 insert into `price` values 
 (
 21929,
-34000,
-44992
+24713,
+42683
 );
 
 insert into `price` values 
@@ -49077,14 +49126,14 @@ insert into `price` values
 (
 21957,
 100000,
-109251
+108737
 );
 
 insert into `price` values 
 (
 22307,
-562877,
-730163
+502876,
+687866
 );
 
 insert into `price` values 
@@ -49125,64 +49174,64 @@ null
 insert into `price` values 
 (
 23077,
-150000,
-39510
+389000,
+84889
 );
 
 insert into `price` values 
 (
 23079,
-100000,
-51951
+363637,
+96172
 );
 
 insert into `price` values 
 (
 23107,
-112317,
-155831
+789000,
+237093
 );
 
 insert into `price` values 
 (
 23117,
-91573,
-64381
+82256,
+66289
 );
 
 insert into `price` values 
 (
 23437,
-30000,
-40830
+40590,
+40801
 );
 
 insert into `price` values 
 (
 23438,
 49000,
-72703
+69138
 );
 
 insert into `price` values 
 (
 23439,
-69998,
-86215
+188100,
+97126
 );
 
 insert into `price` values 
 (
 23440,
 92625,
-124952
+119998
 );
 
 insert into `price` values 
 (
 23441,
-43450,
-60563
+42900,
+58091
 );
 
 insert into `price` values 
@@ -49216,15 +49265,15 @@ null
 insert into `price` values 
 (
 24245,
-10781,
-null
+61000,
+61000
 );
 
 insert into `price` values 
 (
 24246,
 81151,
-52108
+58826
 );
 
 insert into `price` values 
@@ -49237,22 +49286,22 @@ insert into `price` values
 insert into `price` values 
 (
 24478,
-21000,
-38406
+31486,
+40578
 );
 
 insert into `price` values 
 (
 24479,
-1356917,
-927521
+1348584,
+1020073
 );
 
 insert into `price` values 
 (
 25719,
-19800,
-59884
+5069,
+58799
 );
 
 insert into `price` values 
@@ -49265,15 +49314,15 @@ insert into `price` values
 insert into `price` values 
 (
 25843,
-1400000,
-1422807
+2500000,
+1789760
 );
 
 insert into `price` values 
 (
 25845,
-750000,
-1241121
+3390000,
+1194633
 );
 
 insert into `price` values 
@@ -49286,8 +49335,8 @@ null
 insert into `price` values 
 (
 25849,
-10003745,
-8089134
+9998013,
+8553457
 );
 
 insert into `price` values 
@@ -49315,7 +49364,7 @@ insert into `price` values
 (
 27688,
 128876,
-129372
+129303
 );
 
 insert into `price` values 
@@ -49328,8 +49377,8 @@ insert into `price` values
 insert into `price` values 
 (
 29425,
-9900,
-7380
+5844,
+7446
 );
 
 insert into `price` values 
@@ -49349,50 +49398,50 @@ null
 insert into `price` values 
 (
 29902,
-280000,
-null
+300000,
+300000
 );
 
 insert into `price` values 
 (
 29903,
-600000,
-372771
+77500,
+308704
 );
 
 insert into `price` values 
 (
 29904,
-70000,
-70000
+77500,
+75227
 );
 
 insert into `price` values 
 (
 29953,
-200000,
-3375964
+1993856,
+3329430
 );
 
 insert into `price` values 
 (
 29956,
-200000,
-2986225
+2994954,
+2955702
 );
 
 insert into `price` values 
 (
 29957,
-200000,
-1934931
+2998802,
+2057734
 );
 
 insert into `price` values 
 (
 30183,
-390000,
-161474
+389000,
+197794
 );
 
 insert into `price` values 
@@ -49441,7 +49490,7 @@ insert into `price` values
 (
 31893,
 550000,
-597059
+583802
 );
 
 insert into `price` values 
@@ -49475,15 +49524,15 @@ null
 insert into `price` values 
 (
 32231,
-150000,
-106962
+145170,
+112503
 );
 
 insert into `price` values 
 (
 32428,
 110000,
-272223
+257875
 );
 
 insert into `price` values 
@@ -49510,36 +49559,36 @@ insert into `price` values
 insert into `price` values 
 (
 36784,
-400000,
-779032
+440000,
+729667
 );
 
 insert into `price` values 
 (
 36918,
-50000,
-270582
+49800,
+257597
 );
 
 insert into `price` values 
 (
 36919,
-400000,
-1314578
+1509000,
+1355706
 );
 
 insert into `price` values 
 (
 36920,
-74000,
-38873
+84000,
+44170
 );
 
 insert into `price` values 
 (
 36921,
 125000,
-97968
+101889
 );
 
 insert into `price` values 
@@ -49552,15 +49601,15 @@ insert into `price` values
 insert into `price` values 
 (
 36923,
-58500,
-51893
+79500,
+53992
 );
 
 insert into `price` values 
 (
 36924,
-121875,
-123927
+121500,
+123744
 );
 
 insert into `price` values 
@@ -49573,22 +49622,22 @@ insert into `price` values
 insert into `price` values 
 (
 36926,
-94000,
-72794
+100000,
+73648
 );
 
 insert into `price` values 
 (
 36927,
 48750,
-124249
+118154
 );
 
 insert into `price` values 
 (
 36928,
 990000,
-854377
+882438
 );
 
 insert into `price` values 
@@ -49601,8 +49650,8 @@ insert into `price` values
 insert into `price` values 
 (
 36932,
-74000,
-39372
+80000,
+43738
 );
 
 insert into `price` values 
@@ -49622,15 +49671,15 @@ null
 insert into `price` values 
 (
 37098,
-6000,
-5965
+5000,
+5909
 );
 
 insert into `price` values 
 (
 37140,
-10000,
-16422
+100000,
+54413
 );
 
 insert into `price` values 
@@ -49643,8 +49692,8 @@ insert into `price` values
 insert into `price` values 
 (
 37159,
-100000,
-92563
+95500,
+93860
 );
 
 insert into `price` values 
@@ -49658,28 +49707,28 @@ insert into `price` values
 (
 37915,
 506800,
-292719
+407689
 );
 
 insert into `price` values 
 (
 38682,
-7388,
-7841
+7211,
+7873
 );
 
 insert into `price` values 
 (
 39896,
 451500,
-1341904
+1269709
 );
 
 insert into `price` values 
 (
 39898,
-1249999,
-1191057
+1000000,
+1167145
 );
 
 insert into `price` values 
@@ -49776,15 +49825,15 @@ insert into `price` values
 insert into `price` values 
 (
 44144,
-100000,
-82020
+95000,
+86233
 );
 
 insert into `price` values 
 (
 44146,
-750000,
-750000
+555000,
+676876
 );
 
 insert into `price` values 
@@ -49798,14 +49847,14 @@ insert into `price` values
 (
 44154,
 150000,
-27686
+89916
 );
 
 insert into `price` values 
 (
 44155,
-100000,
-88445
+95000,
+90922
 );
 
 insert into `price` values 
@@ -49930,8 +49979,8 @@ insert into `price` values
 insert into `price` values 
 (
 44279,
-400000,
-400000
+250000,
+344354
 );
 
 insert into `price` values 
@@ -50007,8 +50056,8 @@ insert into `price` values
 insert into `price` values 
 (
 44822,
-880000,
-812222
+770000,
+810582
 );
 
 insert into `price` values 
@@ -50029,7 +50078,7 @@ insert into `price` values
 (
 44970,
 30000000,
-27012968
+27319555
 );
 
 insert into `price` values 
@@ -50043,14 +50092,14 @@ insert into `price` values
 (
 44984,
 29680200,
-30747753
+30582199
 );
 
 insert into `price` values 
 (
 45087,
 510940,
-510940
+520475
 );
 
 insert into `price` values 
@@ -50070,22 +50119,22 @@ null
 insert into `price` values 
 (
 45912,
-13595426,
-17775605
+10005426,
+17009558
 );
 
 insert into `price` values 
 (
 46398,
-750000,
-750000
+770000,
+766428
 );
 
 insert into `price` values 
 (
 48112,
 2997500,
-2554278
+2604864
 );
 
 insert into `price` values 
@@ -50099,21 +50148,21 @@ insert into `price` values
 (
 48122,
 19995000,
-17188300
+17544951
 );
 
 insert into `price` values 
 (
 48124,
-1950316,
-1264928
+1144250,
+1257521
 );
 
 insert into `price` values 
 (
 3369,
 100000,
-43136
+55722
 );
 
 insert into `price` values 
@@ -50126,22 +50175,22 @@ insert into `price` values
 insert into `price` values 
 (
 15409,
-55000,
-374003
+449762,
+375071
 );
 
 insert into `price` values 
 (
 21151,
-10000,
-10000
+13876,
+13439
 );
 
 insert into `price` values 
 (
 22539,
-553421,
-579738
+453421,
+560827
 );
 
 insert into `price` values 
@@ -50154,15 +50203,15 @@ insert into `price` values
 insert into `price` values 
 (
 2555,
-2442501,
-2456855
+34125000,
+13012521
 );
 
 insert into `price` values 
 (
 13422,
-214600,
-91303
+29940,
+87829
 );
 
 insert into `price` values 
@@ -50197,7 +50246,7 @@ insert into `price` values
 (
 7091,
 219000,
-219287
+219265
 );
 
 insert into `price` values 
@@ -50238,8 +50287,8 @@ null
 insert into `price` values 
 (
 8489,
-5003000,
-3652742
+1500000,
+3545106
 );
 
 insert into `price` values 
@@ -50266,15 +50315,15 @@ null
 insert into `price` values 
 (
 29958,
-320000,
-302771
+300000,
+302618
 );
 
 insert into `price` values 
 (
 48120,
-880000,
-1506277
+770000,
+1481735
 );
 
 insert into `price` values 
@@ -50316,7 +50365,7 @@ insert into `price` values
 (
 28501,
 1921,
-1839
+1858
 );
 
 insert into `price` values 
@@ -50329,8 +50378,8 @@ null
 insert into `price` values 
 (
 41808,
-8900,
-6629
+20000,
+7699
 );
 
 insert into `price` values 
@@ -50448,15 +50497,15 @@ null
 insert into `price` values 
 (
 29548,
-39000,
-null
+57250,
+57250
 );
 
 insert into `price` values 
 (
 32249,
-145000,
-131539
+141375,
+132921
 );
 
 insert into `price` values 
@@ -50470,14 +50519,14 @@ insert into `price` values
 (
 39774,
 25000,
-23331
+23650
 );
 
 insert into `price` values 
 (
 3182,
-637575,
-515250
+622050,
+535365
 );
 
 insert into `price` values 
@@ -50505,7 +50554,7 @@ insert into `price` values
 (
 2407,
 15000,
-19169
+18776
 );
 
 insert into `price` values 
@@ -50567,8 +50616,8 @@ null
 insert into `price` values 
 (
 7993,
-400000,
-247018
+399000,
+298594
 );
 
 insert into `price` values 
@@ -50588,8 +50637,8 @@ insert into `price` values
 insert into `price` values 
 (
 12683,
-148812,
-135665
+149610,
+138806
 );
 
 insert into `price` values 
@@ -50609,8 +50658,8 @@ null
 insert into `price` values 
 (
 13926,
-100000,
-205109
+262007,
+210279
 );
 
 insert into `price` values 
@@ -50630,15 +50679,15 @@ null
 insert into `price` values 
 (
 33461,
-980,
-2718
+970,
+2476
 );
 
 insert into `price` values 
 (
 38766,
 19800,
-19981
+19948
 );
 
 insert into `price` values 
@@ -50687,7 +50736,7 @@ insert into `price` values
 (
 2889,
 195229,
-118053
+138776
 );
 
 insert into `price` values 
@@ -50721,8 +50770,8 @@ null
 insert into `price` values 
 (
 4292,
-454999,
-585397
+758068,
+613482
 );
 
 insert into `price` values 
@@ -50749,8 +50798,8 @@ insert into `price` values
 insert into `price` values 
 (
 7971,
-1303572,
-769917
+380000,
+742327
 );
 
 insert into `price` values 
@@ -50763,8 +50812,8 @@ insert into `price` values
 insert into `price` values 
 (
 23112,
-150000,
-299686
+874455,
+384878
 );
 
 insert into `price` values 
@@ -50791,15 +50840,15 @@ null
 insert into `price` values 
 (
 48118,
-2997500,
-2811794
+1932500,
+2681925
 );
 
 insert into `price` values 
 (
 48126,
-50000000,
-75666669
+100000000,
+77008548
 );
 
 insert into `price` values 
@@ -50890,14 +50939,14 @@ insert into `price` values
 (
 38371,
 3390000,
-2772360
+2851081
 );
 
 insert into `price` values 
 (
 3827,
-2243,
-2891
+3000,
+2896
 );
 
 insert into `price` values 
@@ -50910,8 +50959,8 @@ null
 insert into `price` values 
 (
 10561,
-30000,
-68036
+80000,
+70473
 );
 
 insert into `price` values 
@@ -50925,21 +50974,21 @@ insert into `price` values
 (
 23783,
 101933,
-97184
+98589
 );
 
 insert into `price` values 
 (
 38787,
-2000,
-1989
+10000,
+4150
 );
 
 insert into `price` values 
 (
 22522,
-60000,
-null
+10000,
+10000
 );
 
 insert into `price` values 
@@ -50987,15 +51036,15 @@ null
 insert into `price` values 
 (
 37145,
-20000,
-null
+135000,
+135000
 );
 
 insert into `price` values 
 (
 19268,
-750000,
-774975
+500000,
+751558
 );
 
 insert into `price` values 
@@ -51015,8 +51064,8 @@ null
 insert into `price` values 
 (
 44165,
-150000,
-77442
+100000,
+96250
 );
 
 insert into `price` values 
@@ -51029,22 +51078,22 @@ insert into `price` values
 insert into `price` values 
 (
 6338,
-100000,
-86707
+150000,
+93710
 );
 
 insert into `price` values 
 (
 37160,
-50000,
-225000
+100000,
+150001
 );
 
 insert into `price` values 
 (
 21072,
-13637,
-13637
+1885,
+11622
 );
 
 insert into `price` values 
@@ -51057,8 +51106,8 @@ null
 insert into `price` values 
 (
 37147,
-100000,
-87191
+95000,
+89702
 );
 
 insert into `price` values 
@@ -51085,8 +51134,8 @@ null
 insert into `price` values 
 (
 24401,
-1383,
-null
+13084,
+13084
 );
 
 insert into `price` values 
@@ -51121,7 +51170,7 @@ insert into `price` values
 (
 4375,
 1345,
-4990
+4355
 );
 
 insert into `price` values 
@@ -51169,8 +51218,8 @@ null
 insert into `price` values 
 (
 22824,
-35000,
-8257
+15871,
+10862
 );
 
 insert into `price` values 
@@ -51183,8 +51232,8 @@ null
 insert into `price` values 
 (
 38805,
-20099,
-null
+50000,
+50000
 );
 
 insert into `price` values 
@@ -51198,7 +51247,7 @@ insert into `price` values
 (
 38817,
 60000,
-37994
+40985
 );
 
 insert into `price` values 
@@ -51211,8 +51260,8 @@ insert into `price` values
 insert into `price` values 
 (
 38861,
-162500,
-163724
+50000,
+129776
 );
 
 insert into `price` values 
@@ -51261,14 +51310,14 @@ insert into `price` values
 (
 12229,
 150000,
-170422
+166959
 );
 
 insert into `price` values 
 (
 20855,
-300000,
-null
+100000,
+100000
 );
 
 insert into `price` values 
@@ -51296,7 +51345,7 @@ insert into `price` values
 (
 13948,
 150000,
-129604
+132817
 );
 
 insert into `price` values 
@@ -51338,7 +51387,7 @@ insert into `price` values
 (
 3683,
 194513,
-141457
+154280
 );
 
 insert into `price` values 
@@ -51365,8 +51414,8 @@ null
 insert into `price` values 
 (
 7967,
-90000,
-96000
+60000,
+94286
 );
 
 insert into `price` values 
@@ -51436,7 +51485,7 @@ insert into `price` values
 (
 5774,
 211656,
-247191
+239202
 );
 
 insert into `price` values 
@@ -51456,8 +51505,8 @@ null
 insert into `price` values 
 (
 23436,
-79999,
-107703
+210000,
+120166
 );
 
 insert into `price` values 
@@ -51477,15 +51526,15 @@ null
 insert into `price` values 
 (
 21842,
-24000,
-42668
+333334,
+182991
 );
 
 insert into `price` values 
 (
 10393,
-500000,
-733750
+90000,
+600800
 );
 
 insert into `price` values 
@@ -51499,7 +51548,7 @@ insert into `price` values
 (
 11371,
 939000,
-712265
+746171
 );
 
 insert into `price` values 
@@ -51576,14 +51625,14 @@ insert into `price` values
 (
 39666,
 12000,
-19723
+18314
 );
 
 insert into `price` values 
 (
 4424,
 596,
-702
+673
 );
 
 insert into `price` values 
@@ -51596,22 +51645,22 @@ null
 insert into `price` values 
 (
 25844,
-558000,
-698724
+3390000,
+1531741
 );
 
 insert into `price` values 
 (
 4407,
-1000000,
-null
+2390000,
+2390000
 );
 
 insert into `price` values 
 (
 38897,
-150000,
-193026
+75000,
+169652
 );
 
 insert into `price` values 
@@ -51625,7 +51674,7 @@ insert into `price` values
 (
 7191,
 120000,
-56318
+69646
 );
 
 insert into `price` values 
@@ -51673,15 +51722,15 @@ null
 insert into `price` values 
 (
 20744,
-590000,
-482113
+890000,
+558210
 );
 
 insert into `price` values 
 (
 27501,
 19500,
-14182
+14366
 );
 
 insert into `price` values 
@@ -51750,22 +51799,22 @@ insert into `price` values
 insert into `price` values 
 (
 38938,
-300000,
-236675
+100000,
+201175
 );
 
 insert into `price` values 
 (
 42500,
 200000,
-264350
+246855
 );
 
 insert into `price` values 
 (
 3389,
 36667,
-25514
+26211
 );
 
 insert into `price` values 
@@ -51813,8 +51862,8 @@ null
 insert into `price` values 
 (
 18653,
-260000,
-194758
+1000000,
+471184
 );
 
 insert into `price` values 
@@ -51841,8 +51890,8 @@ null
 insert into `price` values 
 (
 13893,
-29900,
-27618
+12500,
+21516
 );
 
 insert into `price` values 
@@ -51869,8 +51918,8 @@ null
 insert into `price` values 
 (
 44282,
-400000,
-400000
+250000,
+344354
 );
 
 insert into `price` values 
@@ -51891,7 +51940,7 @@ insert into `price` values
 (
 16254,
 203950,
-517519
+465258
 );
 
 insert into `price` values 
@@ -51946,8 +51995,8 @@ null
 insert into `price` values 
 (
 31909,
-250000,
-null
+900000,
+900000
 );
 
 insert into `price` values 
@@ -52087,7 +52136,7 @@ insert into `price` values
 (
 38860,
 250000,
-237410
+239581
 );
 
 insert into `price` values 
@@ -52135,8 +52184,8 @@ null
 insert into `price` values 
 (
 8949,
-15076,
-128676
+119500,
+123334
 );
 
 insert into `price` values 
@@ -52163,8 +52212,8 @@ null
 insert into `price` values 
 (
 7450,
-351500,
-351500
+201500,
+304131
 );
 
 insert into `price` values 
@@ -52220,7 +52269,7 @@ insert into `price` values
 (
 21945,
 11990000,
-1957788
+4304033
 );
 
 insert into `price` values 
@@ -52234,7 +52283,7 @@ insert into `price` values
 (
 32230,
 150000,
-179651
+173920
 );
 
 insert into `price` values 
@@ -52261,8 +52310,8 @@ null
 insert into `price` values 
 (
 10325,
-760000,
-1107778
+2709618,
+1333035
 );
 
 insert into `price` values 
@@ -52282,8 +52331,8 @@ insert into `price` values
 insert into `price` values 
 (
 41146,
-150000,
-null
+3250000,
+3250000
 );
 
 insert into `price` values 
@@ -52331,8 +52380,8 @@ null
 insert into `price` values 
 (
 23775,
-500000,
-null
+2500000,
+2500000
 );
 
 insert into `price` values 
@@ -52352,15 +52401,15 @@ null
 insert into `price` values 
 (
 6391,
-19900,
-19900
+660450,
+210941
 );
 
 insert into `price` values 
 (
 24270,
-4890000,
-3171167
+2500000,
+3241726
 );
 
 insert into `price` values 
@@ -52380,15 +52429,15 @@ null
 insert into `price` values 
 (
 6375,
-1144402,
-986300
+1365491,
+1085159
 );
 
 insert into `price` values 
 (
 20746,
-220000,
-220000
+90000,
+150666
 );
 
 insert into `price` values 
@@ -52415,8 +52464,8 @@ null
 insert into `price` values 
 (
 4366,
-2500,
-null
+10000,
+10000
 );
 
 insert into `price` values 
@@ -52485,8 +52534,8 @@ insert into `price` values
 insert into `price` values 
 (
 4236,
-569500,
-578396
+635000,
+578104
 );
 
 insert into `price` values 
@@ -52507,14 +52556,14 @@ insert into `price` values
 (
 2701,
 146458,
-109735
+131471
 );
 
 insert into `price` values 
 (
 18046,
-56500,
-34732
+30000,
+39663
 );
 
 insert into `price` values 
@@ -52548,8 +52597,8 @@ null
 insert into `price` values 
 (
 9061,
-239000,
-214981
+219500,
+215949
 );
 
 insert into `price` values 
@@ -52647,14 +52696,14 @@ insert into `price` values
 (
 44974,
 24940000,
-26718059
+26462793
 );
 
 insert into `price` values 
 (
 6663,
 75101,
-118944
+115490
 );
 
 insert into `price` values 
@@ -52681,8 +52730,8 @@ null
 insert into `price` values 
 (
 38974,
-2009370,
-669941
+458916,
+713757
 );
 
 insert into `price` values 
@@ -52702,8 +52751,8 @@ insert into `price` values
 insert into `price` values 
 (
 23787,
-1625001,
-1625001
+1505001,
+1604231
 );
 
 insert into `price` values 
@@ -52730,8 +52779,8 @@ insert into `price` values
 insert into `price` values 
 (
 22861,
-739000,
-739000
+689000,
+727635
 );
 
 insert into `price` values 
@@ -52758,8 +52807,8 @@ insert into `price` values
 insert into `price` values 
 (
 32902,
-3150,
-2832
+8025,
+3361
 );
 
 insert into `price` values 
@@ -52773,7 +52822,7 @@ insert into `price` values
 (
 38867,
 457877,
-445649
+447359
 );
 
 insert into `price` values 
@@ -52807,7 +52856,7 @@ null
 insert into `price` values 
 (
 7286,
-1670,
+1622,
 1670
 );
 
@@ -52822,28 +52871,28 @@ insert into `price` values
 (
 3824,
 595000,
-480141
+490185
 );
 
 insert into `price` values 
 (
 6359,
-187942,
-241277
+186858,
+233081
 );
 
 insert into `price` values 
 (
 6370,
-101667,
-127059
+176334,
+132768
 );
 
 insert into `price` values 
 (
 1015,
 11200,
-7148
+9366
 );
 
 insert into `price` values 
@@ -52877,8 +52926,8 @@ null
 insert into `price` values 
 (
 723,
-29250,
-21987
+30151,
+23623
 );
 
 insert into `price` values 
@@ -52899,7 +52948,7 @@ insert into `price` values
 (
 2672,
 17500,
-11320
+12587
 );
 
 insert into `price` values 
@@ -52919,15 +52968,15 @@ null
 insert into `price` values 
 (
 7974,
-2500,
-3046
+2375,
+2959
 );
 
 insert into `price` values 
 (
 41812,
-3900,
-4948
+3000,
+4692
 );
 
 insert into `price` values 
@@ -52947,8 +52996,8 @@ null
 insert into `price` values 
 (
 27671,
-2500,
-3224
+3670,
+3232
 );
 
 insert into `price` values 
@@ -52969,7 +53018,7 @@ insert into `price` values
 (
 27678,
 5745,
-5459
+5497
 );
 
 insert into `price` values 
@@ -52983,13 +53032,13 @@ insert into `price` values
 (
 27422,
 4596,
-4466
+4495
 );
 
 insert into `price` values 
 (
 31670,
-3250,
+3320,
 3297
 );
 
@@ -52997,14 +53046,14 @@ insert into `price` values
 (
 31671,
 2900,
-4545
+4408
 );
 
 insert into `price` values 
 (
 24477,
-5543,
-4918
+4984,
+4930
 );
 
 insert into `price` values 
@@ -53018,7 +53067,7 @@ insert into `price` values
 (
 27438,
 5966,
-5825
+5854
 );
 
 insert into `price` values 
@@ -53038,22 +53087,22 @@ insert into `price` values
 insert into `price` values 
 (
 27429,
-12400,
-12076
+10000,
+11803
 );
 
 insert into `price` values 
 (
 27425,
-4100,
-4482
+4099,
+4426
 );
 
 insert into `price` values 
 (
 27681,
 4263,
-4861
+4694
 );
 
 insert into `price` values 
@@ -53067,14 +53116,14 @@ insert into `price` values
 (
 27676,
 1216,
-14439
+10459
 );
 
 insert into `price` values 
 (
 27674,
-22500,
-22500
+21938,
+22494
 );
 
 insert into `price` values 
@@ -53088,7 +53137,7 @@ insert into `price` values
 (
 23676,
 2581,
-2140
+2228
 );
 
 insert into `price` values 
@@ -53101,22 +53150,22 @@ null
 insert into `price` values 
 (
 22644,
-1090,
+1083,
 1021
 );
 
 insert into `price` values 
 (
 21153,
-20277,
-20175
+20984,
+20289
 );
 
 insert into `price` values 
 (
 21071,
-1667,
-2097
+20075,
+7975
 );
 
 insert into `price` values 
@@ -53130,7 +53179,7 @@ insert into `price` values
 (
 3667,
 10000,
-4398
+4808
 );
 
 insert into `price` values 
@@ -53143,15 +53192,15 @@ insert into `price` values
 insert into `price` values 
 (
 12208,
-12900,
-3180
+11981,
+3944
 );
 
 insert into `price` values 
 (
 12205,
-15000,
-15686
+14950,
+15510
 );
 
 insert into `price` values 
@@ -53171,8 +53220,8 @@ null
 insert into `price` values 
 (
 13888,
-15000,
-12065
+10000,
+11387
 );
 
 insert into `price` values 
@@ -53192,8 +53241,8 @@ null
 insert into `price` values 
 (
 13756,
-17400,
-16507
+7900,
+15352
 );
 
 insert into `price` values 
@@ -53206,8 +53255,8 @@ null
 insert into `price` values 
 (
 13758,
-12400,
-13107
+12500,
+13095
 );
 
 insert into `price` values 
@@ -53227,15 +53276,15 @@ null
 insert into `price` values 
 (
 12207,
-7400,
-8185
+7300,
+8054
 );
 
 insert into `price` values 
 (
 12206,
-10000,
-9296
+12500,
+9620
 );
 
 insert into `price` values 
@@ -53249,28 +53298,28 @@ insert into `price` values
 (
 12037,
 3900,
-1993
+2772
 );
 
 insert into `price` values 
 (
 12202,
-1475,
-8626
+26434,
+8734
 );
 
 insert into `price` values 
 (
 12203,
 14400,
-5076
+6484
 );
 
 insert into `price` values 
 (
 12184,
-13900,
-11472
+7500,
+12027
 );
 
 insert into `price` values 
@@ -53304,8 +53353,8 @@ insert into `price` values
 insert into `price` values 
 (
 6308,
-500,
-703
+206,
+561
 );
 
 insert into `price` values 
@@ -53318,21 +53367,21 @@ null
 insert into `price` values 
 (
 6289,
-473,
-526
+577,
+533
 );
 
 insert into `price` values 
 (
 6303,
-2139,
-2318
+2050,
+2270
 );
 
 insert into `price` values 
 (
 6291,
-590,
+575,
 529
 );
 
@@ -53346,15 +53395,15 @@ null
 insert into `price` values 
 (
 5503,
-8100,
-14089
+8000,
+13468
 );
 
 insert into `price` values 
 (
 5504,
 5592,
-5078
+5143
 );
 
 insert into `price` values 
@@ -53403,7 +53452,7 @@ insert into `price` values
 (
 3712,
 20174,
-10927
+15115
 );
 
 insert into `price` values 
@@ -53416,43 +53465,43 @@ null
 insert into `price` values 
 (
 3730,
-5800,
-5800
+13329,
+6394
 );
 
 insert into `price` values 
 (
 2251,
 436,
-2123
+1619
 );
 
 insert into `price` values 
 (
 3685,
-10001,
-2964
+9751,
+4601
 );
 
 insert into `price` values 
 (
 1468,
-3750,
-2712
+5000,
+3250
 );
 
 insert into `price` values 
 (
 2924,
 2900,
-8152
+8025
 );
 
 insert into `price` values 
 (
 769,
 12188,
-10104
+10489
 );
 
 insert into `price` values 
@@ -53486,15 +53535,15 @@ null
 insert into `price` values 
 (
 10559,
-169500,
-106703
+193835,
+120230
 );
 
 insert into `price` values 
 (
 32229,
-225225,
-226243
+228690,
+226617
 );
 
 insert into `price` values 
@@ -53675,8 +53724,8 @@ null
 insert into `price` values 
 (
 17056,
-2256,
-1426
+953,
+1448
 );
 
 insert into `price` values 
@@ -53697,14 +53746,14 @@ insert into `price` values
 (
 12809,
 25157,
-26100
+25933
 );
 
 insert into `price` values 
 (
 12607,
-1990000,
-867645
+769076,
+845243
 );
 
 insert into `price` values 
@@ -53787,8 +53836,8 @@ null
 insert into `price` values 
 (
 3857,
-6552,
-7796
+6500,
+7600
 );
 
 insert into `price` values 
@@ -53822,8 +53871,8 @@ null
 insert into `price` values 
 (
 23786,
-2096805,
-2208292
+2501870,
+2294153
 );
 
 insert into `price` values 
@@ -53857,8 +53906,8 @@ null
 insert into `price` values 
 (
 13512,
-739000,
-739000
+689000,
+727635
 );
 
 insert into `price` values 
@@ -53878,8 +53927,8 @@ null
 insert into `price` values 
 (
 10546,
-70000,
-null
+2390000,
+2390000
 );
 
 insert into `price` values 
@@ -53900,7 +53949,7 @@ insert into `price` values
 (
 5633,
 4500,
-8809
+7405
 );
 
 insert into `price` values 
@@ -53976,8 +54025,8 @@ null
 insert into `price` values 
 (
 3382,
-20,
-650
+50,
+534
 );
 
 insert into `price` values 
@@ -54074,8 +54123,8 @@ null
 insert into `price` values 
 (
 4406,
-31100,
-31100
+1190000,
+1003080
 );
 
 insert into `price` values 
@@ -54138,7 +54187,7 @@ insert into `price` values
 (
 5787,
 154999,
-39332
+47403
 );
 
 insert into `price` values 
@@ -54165,8 +54214,8 @@ insert into `price` values
 insert into `price` values 
 (
 6052,
-19800,
-15804
+10000,
+16078
 );
 
 insert into `price` values 
@@ -54263,8 +54312,8 @@ null
 insert into `price` values 
 (
 8390,
-150000,
-150000
+150756,
+150302
 );
 
 insert into `price` values 
@@ -54508,8 +54557,8 @@ null
 insert into `price` values 
 (
 16110,
-255599,
-218656
+150000,
+190246
 );
 
 insert into `price` values 
@@ -54522,8 +54571,8 @@ insert into `price` values
 insert into `price` values 
 (
 16247,
-500000,
-500000
+120000,
+344102
 );
 
 insert into `price` values 
@@ -54571,8 +54620,8 @@ null
 insert into `price` values 
 (
 18487,
-2001488,
-1134773
+1250000,
+1155790
 );
 
 insert into `price` values 
@@ -54690,8 +54739,8 @@ null
 insert into `price` values 
 (
 21947,
-100000,
-4856000
+11990000,
+7936590
 );
 
 insert into `price` values 
@@ -54704,8 +54753,8 @@ null
 insert into `price` values 
 (
 22825,
-30000,
-12845
+13819,
+13077
 );
 
 insert into `price` values 
@@ -54803,7 +54852,7 @@ insert into `price` values
 (
 27691,
 143488,
-143587
+143567
 );
 
 insert into `price` values 
@@ -54817,7 +54866,7 @@ insert into `price` values
 (
 27693,
 160804,
-253780
+242160
 );
 
 insert into `price` values 
@@ -54845,7 +54894,7 @@ insert into `price` values
 (
 27697,
 151523,
-152401
+152278
 );
 
 insert into `price` values 
@@ -54879,8 +54928,8 @@ null
 insert into `price` values 
 (
 27858,
-4200,
-4323
+4437,
+4352
 );
 
 insert into `price` values 
@@ -54893,8 +54942,8 @@ insert into `price` values
 insert into `price` values 
 (
 29426,
-16975,
-16975
+63933,
+28336
 );
 
 insert into `price` values 
@@ -55026,8 +55075,8 @@ null
 insert into `price` values 
 (
 34748,
-18600,
-null
+28013,
+28013
 );
 
 insert into `price` values 
@@ -55068,8 +55117,8 @@ insert into `price` values
 insert into `price` values 
 (
 38328,
-240000,
-249495
+249000,
+247949
 );
 
 insert into `price` values 
@@ -55090,7 +55139,7 @@ insert into `price` values
 (
 38825,
 139500,
-68996
+80293
 );
 
 insert into `price` values 
@@ -55111,14 +55160,14 @@ insert into `price` values
 (
 38839,
 88000,
-92465
+91794
 );
 
 insert into `price` values 
 (
 38845,
-170000,
-189638
+150000,
+183349
 );
 
 insert into `price` values 
@@ -55131,15 +55180,15 @@ null
 insert into `price` values 
 (
 38852,
-110000,
-77836
+75591,
+77541
 );
 
 insert into `price` values 
 (
 38856,
-150000,
-192186
+100000,
+156730
 );
 
 insert into `price` values 
@@ -55152,8 +55201,8 @@ null
 insert into `price` values 
 (
 38865,
-20000000,
-null
+10000000,
+10000000
 );
 
 insert into `price` values 
@@ -55174,7 +55223,7 @@ insert into `price` values
 (
 55520,
 816003,
-409232
+487576
 );
 
 insert into `price` values 
@@ -55215,8 +55264,8 @@ insert into `price` values
 insert into `price` values 
 (
 44145,
-800000,
-800000
+550000,
+706253
 );
 
 insert into `price` values 
@@ -55237,7 +55286,7 @@ insert into `price` values
 (
 44939,
 339000,
-466029
+447048
 );
 
 insert into `price` values 
@@ -55488,8 +55537,8 @@ insert into `price` values
 insert into `price` values 
 (
 10822,
-30151200,
-30151200
+50000000,
+42067010
 );
 
 insert into `price` values 
@@ -55614,8 +55663,8 @@ null
 insert into `price` values 
 (
 14476,
-670312,
-596898
+813950,
+649696
 );
 
 insert into `price` values 
@@ -55692,7 +55741,7 @@ insert into `price` values
 (
 18260,
 21990000,
-30038782
+28921966
 );
 
 insert into `price` values 
@@ -55768,8 +55817,8 @@ insert into `price` values
 insert into `price` values 
 (
 21721,
-17771,
-27273
+34437,
+28354
 );
 
 insert into `price` values 
@@ -55895,7 +55944,7 @@ insert into `price` values
 (
 24165,
 13990000,
-4848702
+7349622
 );
 
 insert into `price` values 
@@ -55999,8 +56048,8 @@ insert into `price` values
 insert into `price` values 
 (
 27686,
-60000,
-null
+3005800,
+3005800
 );
 
 insert into `price` values 
@@ -56042,7 +56091,7 @@ insert into `price` values
 (
 30308,
 8000000,
-8000368
+8000322
 );
 
 insert into `price` values 
@@ -56126,7 +56175,7 @@ insert into `price` values
 (
 38771,
 13738,
-10140
+12409
 );
 
 insert into `price` values 
@@ -56139,8 +56188,8 @@ insert into `price` values
 insert into `price` values 
 (
 38794,
-5000,
-69286
+30000,
+55000
 );
 
 insert into `price` values 
@@ -56154,14 +56203,14 @@ insert into `price` values
 (
 38808,
 96500,
-31152
+43457
 );
 
 insert into `price` values 
 (
 38818,
-182500,
-171464
+177500,
+172716
 );
 
 insert into `price` values 
@@ -56350,7 +56399,7 @@ insert into `price` values
 (
 4600,
 8943,
-8509
+8574
 );
 
 insert into `price` values 
@@ -56489,8 +56538,8 @@ null
 insert into `price` values 
 (
 13511,
-739000,
-583683
+689000,
+603333
 );
 
 insert into `price` values 
@@ -56503,8 +56552,8 @@ null
 insert into `price` values 
 (
 13929,
-1970,
-2876
+4470,
+3116
 );
 
 insert into `price` values 
@@ -56573,8 +56622,8 @@ null
 insert into `price` values 
 (
 22850,
-8436,
-null
+21745,
+21745
 );
 
 insert into `price` values 
@@ -56707,7 +56756,7 @@ insert into `price` values
 (
 29536,
 4890000,
-4898199
+4897407
 );
 
 insert into `price` values 
@@ -56811,8 +56860,8 @@ insert into `price` values
 insert into `price` values 
 (
 38796,
-110000,
-null
+50000,
+50000
 );
 
 insert into `price` values 
@@ -56825,8 +56874,8 @@ insert into `price` values
 insert into `price` values 
 (
 38799,
-30000,
-null
+100000,
+100000
 );
 
 insert into `price` values 
@@ -56861,7 +56910,7 @@ insert into `price` values
 (
 38816,
 71500,
-70627
+70760
 );
 
 insert into `price` values 
@@ -56882,7 +56931,7 @@ insert into `price` values
 (
 38841,
 199106,
-192736
+193528
 );
 
 insert into `price` values 
@@ -57175,8 +57224,8 @@ insert into `price` values
 insert into `price` values 
 (
 10548,
-1000000,
-null
+2390000,
+2390000
 );
 
 insert into `price` values 
@@ -57218,7 +57267,7 @@ insert into `price` values
 (
 12238,
 5006,
-2586
+3152
 );
 
 insert into `price` values 
@@ -57533,21 +57582,21 @@ insert into `price` values
 (
 22220,
 630000000,
-497894737
+577708333
 );
 
 insert into `price` values 
 (
 22222,
 380000000,
-170769230
+260000000
 );
 
 insert into `price` values 
 (
 22388,
 380000000,
-176995455
+271949194
 );
 
 insert into `price` values 
@@ -57798,8 +57847,8 @@ null
 insert into `price` values 
 (
 33208,
-739000,
-739000
+689000,
+727635
 );
 
 insert into `price` values 
@@ -57876,7 +57925,7 @@ insert into `price` values
 (
 38806,
 20000,
-42670
+39193
 );
 
 insert into `price` values 
@@ -57995,7 +58044,7 @@ insert into `price` values
 (
 43854,
 10000,
-19412
+13999
 );
 
 insert into `price` values 
@@ -58016,7 +58065,7 @@ insert into `price` values
 (
 46820,
 29500000,
-29542564
+29531028
 );
 
 insert into `price` values 
@@ -58085,8 +58134,8 @@ null
 insert into `price` values 
 (
 13506,
-739000,
-739000
+689000,
+727635
 );
 
 insert into `price` values 
@@ -58127,8 +58176,8 @@ null
 insert into `price` values 
 (
 23764,
-800000,
-null
+3890000,
+3890000
 );
 
 insert into `price` values 
@@ -58205,7 +58254,7 @@ insert into `price` values
 (
 38842,
 180000,
-164054
+167356
 );
 
 insert into `price` values 
@@ -58352,7 +58401,7 @@ insert into `price` values
 (
 30306,
 8000000,
-6689981
+7102725
 );
 
 insert into `price` values 
@@ -58428,8 +58477,8 @@ null
 insert into `price` values 
 (
 4278,
-195198,
-212820
+257598,
+220374
 );
 
 insert into `price` values 
@@ -58442,8 +58491,8 @@ null
 insert into `price` values 
 (
 8494,
-150000000,
-147846154
+160000000,
+152925372
 );
 
 insert into `price` values 
@@ -58513,7 +58562,7 @@ insert into `price` values
 (
 3531,
 3000,
-1810
+1907
 );
 
 insert into `price` values 
@@ -58547,8 +58596,8 @@ insert into `price` values
 insert into `price` values 
 (
 11407,
-1500,
-1883
+1542,
+1825
 );
 
 insert into `price` values 
@@ -58561,8 +58610,8 @@ null
 insert into `price` values 
 (
 6451,
-5715,
-3303
+4000,
+3351
 );
 
 insert into `price` values 
@@ -58673,8 +58722,8 @@ null
 insert into `price` values 
 (
 2801,
-13682713,
-13615292
+13847092,
+13625066
 );
 
 insert into `price` values 
@@ -58750,8 +58799,8 @@ null
 insert into `price` values 
 (
 21371,
-10000000,
-10479730
+1500000,
+9415253
 );
 
 insert into `price` values 
@@ -58771,8 +58820,8 @@ null
 insert into `price` values 
 (
 58262,
-4300,
-30618
+250000,
+47088
 );
 
 insert into `price` values 
@@ -58799,15 +58848,15 @@ null
 insert into `price` values 
 (
 22828,
-339000,
-339000
+239000,
+316273
 );
 
 insert into `price` values 
 (
 17708,
-10000,
-8519
+1500,
+8292
 );
 
 insert into `price` values 
@@ -58974,8 +59023,8 @@ null
 insert into `price` values 
 (
 22837,
-339000,
-562255
+239000,
+489449
 );
 
 insert into `price` values 
@@ -59115,7 +59164,7 @@ insert into `price` values
 (
 44148,
 1600000,
-3373914
+2384617
 );
 
 insert into `price` values 
@@ -59226,8 +59275,8 @@ null
 insert into `price` values 
 (
 5833,
-12000,
-14123
+12855,
+13823
 );
 
 insert into `price` values 
@@ -59254,8 +59303,8 @@ null
 insert into `price` values 
 (
 17057,
-75,
-1942
+10021,
+3348
 );
 
 insert into `price` values 
@@ -59479,7 +59528,7 @@ insert into `price` values
 (
 1725,
 150000,
-65555
+87703
 );
 
 insert into `price` values 
@@ -59520,7 +59569,7 @@ null
 insert into `price` values 
 (
 2304,
-1950,
+3272,
 3296
 );
 
@@ -59591,7 +59640,7 @@ insert into `price` values
 (
 5117,
 5000,
-4923
+4934
 );
 
 insert into `price` values 
@@ -59632,7 +59681,7 @@ insert into `price` values
 insert into `price` values 
 (
 8959,
-5250,
+5317,
 5342
 );
 
@@ -59661,7 +59710,7 @@ insert into `price` values
 (
 11404,
 3200,
-3827
+3800
 );
 
 insert into `price` values 
@@ -59793,8 +59842,8 @@ null
 insert into `price` values 
 (
 19933,
-12000,
-9237
+8511,
+9145
 );
 
 insert into `price` values 
@@ -59828,8 +59877,8 @@ null
 insert into `price` values 
 (
 22795,
-2030,
-14839
+29800,
+17423
 );
 
 insert into `price` values 
@@ -59891,8 +59940,8 @@ null
 insert into `price` values 
 (
 34068,
-394500,
-418066
+250000,
+388899
 );
 
 insert into `price` values 
@@ -59947,8 +59996,8 @@ null
 insert into `price` values 
 (
 43572,
-450,
-1400
+1400,
+1382
 );
 
 insert into `price` values 
@@ -60018,14 +60067,14 @@ insert into `price` values
 (
 46004,
 500000,
-480413
+484227
 );
 
 insert into `price` values 
 (
 46849,
 1259500,
-1279642
+1275895
 );
 
 insert into `price` values 
@@ -60081,7 +60130,7 @@ insert into `price` values
 (
 4582,
 3050,
-2925
+2954
 );
 
 insert into `price` values 
@@ -60116,7 +60165,7 @@ insert into `price` values
 (
 13890,
 12500,
-13740
+13638
 );
 
 insert into `price` values 
@@ -60159,6 +60208,13 @@ insert into `price` values
 19818,
 5000000,
 null
+);
+
+insert into `price` values 
+(
+20531,
+2250,
+2250
 );
 
 insert into `price` values 
@@ -60206,8 +60262,8 @@ insert into `price` values
 insert into `price` values 
 (
 22788,
-319500,
-328191
+368661,
+334763
 );
 
 insert into `price` values 
@@ -60227,8 +60283,8 @@ insert into `price` values
 insert into `price` values 
 (
 32470,
-35445,
-null
+11126,
+11126
 );
 
 insert into `price` values 
@@ -60248,8 +60304,8 @@ null
 insert into `price` values 
 (
 32897,
-49900,
-28375
+99995,
+41737
 );
 
 insert into `price` values 
@@ -60290,8 +60346,8 @@ insert into `price` values
 insert into `price` values 
 (
 804,
-36041,
-36041
+160000,
+100234
 );
 
 insert into `price` values 
@@ -60403,7 +60459,7 @@ insert into `price` values
 (
 6450,
 3000,
-1870
+1992
 );
 
 insert into `price` values 
@@ -60458,8 +60514,8 @@ null
 insert into `price` values 
 (
 8545,
-2308,
-2308
+1500,
+2243
 );
 
 insert into `price` values 
@@ -60472,8 +60528,8 @@ null
 insert into `price` values 
 (
 10050,
-50000,
-40085
+15000,
+36704
 );
 
 insert into `price` values 
@@ -60507,8 +60563,8 @@ null
 insert into `price` values 
 (
 12431,
-5479,
-9125
+13479,
+9783
 );
 
 insert into `price` values 
@@ -60662,7 +60718,7 @@ insert into `price` values
 (
 32464,
 20000,
-28864
+27648
 );
 
 insert into `price` values 
@@ -60690,7 +60746,7 @@ insert into `price` values
 (
 39567,
 13786,
-16356
+15754
 );
 
 insert into `price` values 
@@ -60759,8 +60815,8 @@ null
 insert into `price` values 
 (
 18258,
-7701403,
-7328047
+7828191,
+7366252
 );
 
 insert into `price` values 
@@ -60802,7 +60858,7 @@ insert into `price` values
 (
 1470,
 30000,
-20938
+23041
 );
 
 insert into `price` values 
@@ -60822,8 +60878,8 @@ insert into `price` values
 insert into `price` values 
 (
 5575,
-40000,
-39524
+20000,
+36401
 );
 
 insert into `price` values 
@@ -61249,8 +61305,8 @@ null
 insert into `price` values 
 (
 12432,
-8055,
-10414
+15327,
+11154
 );
 
 insert into `price` values 
@@ -61305,8 +61361,8 @@ null
 insert into `price` values 
 (
 14529,
-1000,
-1958
+1385,
+1661
 );
 
 insert into `price` values 
@@ -61452,8 +61508,8 @@ null
 insert into `price` values 
 (
 36743,
-42005,
-42300
+42430,
+42319
 );
 
 insert into `price` values 
@@ -62796,8 +62852,8 @@ null
 insert into `price` values 
 (
 13908,
-170000,
-170000
+60000,
+115001
 );
 
 insert into `price` values 
@@ -63194,6 +63250,13 @@ null
 
 insert into `price` values 
 (
+29377,
+4990000,
+4990000
+);
+
+insert into `price` values 
+(
 44574,
 50000,
 null
@@ -63531,8 +63594,8 @@ null
 insert into `price` values 
 (
 13907,
-150000,
-150000
+50000,
+99999
 );
 
 insert into `price` values 
@@ -63664,8 +63727,8 @@ null
 insert into `price` values 
 (
 13912,
-270,
-null
+100000,
+100000
 );
 
 insert into `price` values 
@@ -63869,6 +63932,13 @@ insert into `price` values
 19978,
 50000,
 null
+);
+
+insert into `price` values 
+(
+29380,
+4990000,
+4990000
 );
 
 insert into `price` values 
@@ -64483,8 +64553,8 @@ null
 insert into `price` values 
 (
 33865,
-45273,
-48444
+75199,
+50744
 );
 
 insert into `price` values 
@@ -64505,84 +64575,84 @@ insert into `price` values
 (
 67483,
 230000,
-655609
+598864
 );
 
 insert into `price` values 
 (
 67484,
-249000,
-996045
+250000,
+895674
 );
 
 insert into `price` values 
 (
 67485,
-220000,
-557354
+180000,
+507242
 );
 
 insert into `price` values 
 (
 67486,
 1999500,
-1949855
+1958325
 );
 
 insert into `price` values 
 (
 67487,
-749500,
-972281
+360000,
+931370
 );
 
 insert into `price` values 
 (
 52185,
-39178,
-30711
+29000,
+30517
 );
 
 insert into `price` values 
 (
 52987,
-38000,
-56385
+75000,
+56985
 );
 
 insert into `price` values 
 (
 62779,
-10530,
-12705
+4880,
+11589
 );
 
 insert into `price` values 
 (
 52186,
-45500,
-55484
+37339,
+53190
 );
 
 insert into `price` values 
 (
 52988,
-22825,
-21732
+21680,
+21703
 );
 
 insert into `price` values 
 (
 54849,
-58500,
-62870
+49700,
+61491
 );
 
 insert into `price` values 
 (
 62780,
 7567,
-20087
+18913
 );
 
 insert into `price` values 
@@ -64595,15 +64665,15 @@ insert into `price` values
 insert into `price` values 
 (
 52719,
-531800,
-703356
+643500,
+697539
 );
 
 insert into `price` values 
 (
 53063,
-45287,
-44214
+47787,
+44543
 );
 
 insert into `price` values 
@@ -64616,148 +64686,148 @@ insert into `price` values
 insert into `price` values 
 (
 62791,
-32533,
-17918
+22121,
+18087
 );
 
 insert into `price` values 
 (
 52190,
-1312425,
-1477314
+2054286,
+1493534
 );
 
 insert into `price` values 
 (
 52721,
-1239744,
-1335737
+1138045,
+1335310
 );
 
 insert into `price` values 
 (
 53064,
-121885,
-158454
+112500,
+154007
 );
 
 insert into `price` values 
 (
 60838,
-399500,
-192714
+256500,
+216429
 );
 
 insert into `price` values 
 (
 52191,
-159434,
-184785
+134499,
+179182
 );
 
 insert into `price` values 
 (
 52326,
-244488,
-238298
+238210,
+238855
 );
 
 insert into `price` values 
 (
 53010,
-22160,
-26850
+35232,
+26828
 );
 
 insert into `price` values 
 (
 58278,
 250000,
-138933
+157444
 );
 
 insert into `price` values 
 (
 51950,
-249500,
-170449
+186945,
+175621
 );
 
 insert into `price` values 
 (
 52327,
-63495,
-101633
+71568,
+97984
 );
 
 insert into `price` values 
 (
 53038,
-29731,
-28330
+19100,
+27459
 );
 
 insert into `price` values 
 (
 58480,
-4862550,
-5561641
+4778182,
+5469657
 );
 
 insert into `price` values 
 (
 52177,
-199950,
-336618
+189167,
+320559
 );
 
 insert into `price` values 
 (
 52328,
-299724,
-281667
+349862,
+286013
 );
 
 insert into `price` values 
 (
 53039,
-868381,
-1095342
+884007,
+1068995
 );
 
 insert into `price` values 
 (
 52194,
-252000,
-334752
+198999,
+317599
 );
 
 insert into `price` values 
 (
 52985,
-42500,
-40160
+18300,
+38108
 );
 
 insert into `price` values 
 (
 61978,
-269500,
-245430
+150000,
+243124
 );
 
 insert into `price` values 
 (
 52195,
-90000,
-180602
+57243,
+166201
 );
 
 insert into `price` values 
 (
 52986,
-59000,
-68655
+57500,
+67702
 );
 
 insert into `price` values 
@@ -64771,42 +64841,42 @@ insert into `price` values
 (
 52196,
 1925000,
-1477634
+1515333
 );
 
 insert into `price` values 
 (
 53062,
-20000,
-7120
+6463,
+7346
 );
 
 insert into `price` values 
 (
 61980,
-374256,
-580999
+373704,
+547641
 );
 
 insert into `price` values 
 (
 52303,
-2799400,
-1584449
+2799900,
+1692962
 );
 
 insert into `price` values 
 (
 52325,
-71477,
-63411
+72521,
+65821
 );
 
 insert into `price` values 
 (
 53070,
-169500,
-185465
+150000,
+182407
 );
 
 insert into `price` values 
@@ -64819,71 +64889,71 @@ insert into `price` values
 insert into `price` values 
 (
 52329,
-103557,
-103926
+82359,
+101457
 );
 
 insert into `price` values 
 (
 53071,
-16000,
-17472
+68864,
+23079
 );
 
 insert into `price` values 
 (
 52555,
-45258,
-58369
+43362,
+56449
 );
 
 insert into `price` values 
 (
 53072,
-200208,
-207073
+162500,
+204635
 );
 
 insert into `price` values 
 (
 52718,
-302400,
-244859
+292050,
+249043
 );
 
 insert into `price` values 
 (
 52193,
-289667,
-371477
+230667,
+353923
 );
 
 insert into `price` values 
 (
 58085,
-1349012,
-1469020
+1216641,
+1439679
 );
 
 insert into `price` values 
 (
 65365,
-162250,
-215132
+243750,
+221223
 );
 
 insert into `price` values 
 (
 52722,
-1398200,
-1298752
+1245800,
+1286555
 );
 
 insert into `price` values 
 (
 58086,
-2349363,
-1780575
+1255000,
+1816134
 );
 
 insert into `price` values 
@@ -64896,239 +64966,239 @@ null
 insert into `price` values 
 (
 52976,
-51012,
-73442
+46015,
+69752
 );
 
 insert into `price` values 
 (
 58087,
-1220000,
-1436024
+2022657,
+1459005
 );
 
 insert into `price` values 
 (
 52977,
-7501,
-12290
+6751,
+11541
 );
 
 insert into `price` values 
 (
 58088,
-1139993,
-1114386
+998077,
+1112530
 );
 
 insert into `price` values 
 (
 52979,
-123000,
-146038
+86038,
+140029
 );
 
 insert into `price` values 
 (
 61981,
-1407093,
-884151
+1252500,
+974134
 );
 
 insert into `price` values 
 (
 52980,
-2999999,
-3480495
+3300000,
+3438223
 );
 
 insert into `price` values 
 (
 62778,
-584,
-986
+449,
+915
 );
 
 insert into `price` values 
 (
 62781,
-21429,
-20302
+22500,
+20810
 );
 
 insert into `price` values 
 (
 52983,
-22696,
-29362
+19334,
+28045
 );
 
 insert into `price` values 
 (
 62782,
-22255,
-16508
+16475,
+16921
 );
 
 insert into `price` values 
 (
 52984,
-27500,
-29889
+26648,
+29256
 );
 
 insert into `price` values 
 (
 62783,
 15600,
-15439
+15447
 );
 
 insert into `price` values 
 (
 53065,
-84625,
-75639
+75000,
+76934
 );
 
 insert into `price` values 
 (
 53066,
-40063,
-34378
+24485,
+33469
 );
 
 insert into `price` values 
 (
 53067,
-20864,
-11863
+19813,
+12128
 );
 
 insert into `price` values 
 (
 53068,
-169500,
-155952
+150000,
+157552
 );
 
 insert into `price` values 
 (
 53643,
-100000,
-333945
+165000,
+309273
 );
 
 insert into `price` values 
 (
 56516,
-264706,
-326692
+266667,
+316043
 );
 
 insert into `price` values 
 (
 56850,
-539000,
-325621
+245000,
+318572
 );
 
 insert into `price` values 
 (
 58142,
-80000,
-162817
+70000,
+151138
 );
 
 insert into `price` values 
 (
 58265,
 250000,
-173317
+186174
 );
 
 insert into `price` values 
 (
 52178,
-29000,
-63131
+999500,
+73412
 );
 
 insert into `price` values 
 (
 52179,
-373561,
-161612
+56596,
+148737
 );
 
 insert into `price` values 
 (
 52180,
-355282,
-507307
+290000,
+478616
 );
 
 insert into `price` values 
 (
 52181,
-499900,
-126482
+108708,
+131579
 );
 
 insert into `price` values 
 (
 52182,
-106213,
-172002
+90467,
+161262
 );
 
 insert into `price` values 
 (
 52183,
-82546,
-74331
+94374,
+78089
 );
 
 insert into `price` values 
 (
 52192,
-208416,
-289075
+178283,
+276652
 );
 
 insert into `price` values 
 (
 58274,
 250000,
-134113
+146910
 );
 
 insert into `price` values 
 (
 62784,
-48469,
-50433
+42523,
+49788
 );
 
 insert into `price` values 
 (
 62785,
-110000,
-215280
+376195,
+218563
 );
 
 insert into `price` values 
 (
 65358,
-5000000,
-4875001
+4390000,
+4716105
 );
 
 insert into `price` values 
 (
 52314,
 1854261,
-1571286
+1609748
 );
 
 insert into `price` values 
@@ -65162,8 +65232,8 @@ insert into `price` values
 insert into `price` values 
 (
 66990,
-5655527,
-5322620
+5798400,
+5357051
 );
 
 insert into `price` values 
@@ -65190,15 +65260,15 @@ null
 insert into `price` values 
 (
 55575,
-337917,
-452815
+356293,
+438739
 );
 
 insert into `price` values 
 (
 66971,
-4509780,
-3005251
+2700000,
+3267641
 );
 
 insert into `price` values 
@@ -65281,15 +65351,15 @@ insert into `price` values
 insert into `price` values 
 (
 54505,
-21030000,
-23284296
+21000000,
+22963011
 );
 
 insert into `price` values 
 (
 52785,
 24999500,
-24339729
+24433982
 );
 
 insert into `price` values 
@@ -65309,8 +65379,8 @@ null
 insert into `price` values 
 (
 55530,
-290000,
-319117
+592935,
+384971
 );
 
 insert into `price` values 
@@ -65337,8 +65407,8 @@ null
 insert into `price` values 
 (
 55490,
-350000,
-null
+250000,
+244376
 );
 
 insert into `price` values 
@@ -65373,21 +65443,21 @@ insert into `price` values
 (
 55066,
 143098868,
-141901372
+142149426
 );
 
 insert into `price` values 
 (
 62649,
-318500,
-196535
+499500,
+214385
 );
 
 insert into `price` values 
 (
 66958,
-4337718,
-4332210
+3000000,
+3920436
 );
 
 insert into `price` values 
@@ -65407,15 +65477,15 @@ null
 insert into `price` values 
 (
 67245,
-3482500,
-2989770
+3238952,
+3025780
 );
 
 insert into `price` values 
 (
 67244,
-4253740,
-3223395
+3700000,
+3297256
 );
 
 insert into `price` values 
@@ -65449,22 +65519,22 @@ null
 insert into `price` values 
 (
 52243,
-236610,
-265716
+217800,
+260238
 );
 
 insert into `price` values 
 (
 52203,
-448999,
-336671
+539500,
+376815
 );
 
 insert into `price` values 
 (
 52223,
-250317,
-226735
+247813,
+230017
 );
 
 insert into `price` values 
@@ -65477,22 +65547,22 @@ null
 insert into `price` values 
 (
 52247,
-149700,
-240595
+137424,
+226631
 );
 
 insert into `price` values 
 (
 52297,
-1149500,
-1061922
+1029500,
+1063030
 );
 
 insert into `price` values 
 (
 52215,
-1999500,
-737536
+1998300,
+913415
 );
 
 insert into `price` values 
@@ -65506,7 +65576,7 @@ insert into `price` values
 (
 59463,
 100001912,
-131334048
+122597202
 );
 
 insert into `price` values 
@@ -65519,8 +65589,8 @@ null
 insert into `price` values 
 (
 52246,
-139278,
-164962
+119739,
+159229
 );
 
 insert into `price` values 
@@ -65555,21 +65625,21 @@ insert into `price` values
 (
 55402,
 403373,
-393636
+395033
 );
 
 insert into `price` values 
 (
 52776,
-49999500,
-46010230
+12220000,
+43490791
 );
 
 insert into `price` values 
 (
 55675,
-500000,
-427882
+400000,
+420419
 );
 
 insert into `price` values 
@@ -65582,8 +65652,8 @@ null
 insert into `price` values 
 (
 55517,
-400000,
-525458
+220000,
+449093
 );
 
 insert into `price` values 
@@ -65597,7 +65667,7 @@ insert into `price` values
 (
 55373,
 440000,
-402499
+412092
 );
 
 insert into `price` values 
@@ -65610,22 +65680,22 @@ insert into `price` values
 insert into `price` values 
 (
 52316,
-2100000,
-2311000
+2035000,
+2267642
 );
 
 insert into `price` values 
 (
 55421,
-200000,
-434749
+389908,
+395919
 );
 
 insert into `price` values 
 (
 56513,
-7728627,
-6200126
+7819270,
+6329118
 );
 
 insert into `price` values 
@@ -65653,14 +65723,14 @@ insert into `price` values
 (
 62652,
 7400,
-8327
+8191
 );
 
 insert into `price` values 
 (
 52982,
-125000,
-129367
+68250,
+124116
 );
 
 insert into `price` values 
@@ -65743,8 +65813,8 @@ insert into `price` values
 insert into `price` values 
 (
 67234,
-2787500,
-2795932
+2799225,
+2796981
 );
 
 insert into `price` values 
@@ -65800,7 +65870,7 @@ insert into `price` values
 (
 58260,
 250000,
-174376
+186387
 );
 
 insert into `price` values 
@@ -65834,8 +65904,8 @@ null
 insert into `price` values 
 (
 58268,
-250000,
-41342
+171368,
+68743
 );
 
 insert into `price` values 
@@ -65863,7 +65933,7 @@ insert into `price` values
 (
 67404,
 39000,
-13231
+13687
 );
 
 insert into `price` values 
@@ -65911,8 +65981,8 @@ null
 insert into `price` values 
 (
 57191,
-121667,
-155053
+111111,
+149534
 );
 
 insert into `price` values 
@@ -66023,8 +66093,8 @@ null
 insert into `price` values 
 (
 67050,
-9339108,
-8725822
+9650799,
+8786145
 );
 
 insert into `price` values 
@@ -66044,8 +66114,8 @@ null
 insert into `price` values 
 (
 58256,
-238800,
-51736
+238799,
+77694
 );
 
 insert into `price` values 
@@ -66065,8 +66135,8 @@ null
 insert into `price` values 
 (
 63388,
-216160,
-301503
+214500,
+288670
 );
 
 insert into `price` values 
@@ -66080,7 +66150,7 @@ insert into `price` values
 (
 59230,
 248800,
-124586
+141820
 );
 
 insert into `price` values 
@@ -66100,15 +66170,15 @@ null
 insert into `price` values 
 (
 58258,
-244800,
-186027
+247500,
+192242
 );
 
 insert into `price` values 
 (
 62655,
-35900,
-null
+150000,
+150000
 );
 
 insert into `price` values 
@@ -66128,15 +66198,15 @@ null
 insert into `price` values 
 (
 58264,
-3000,
-161035
+250000,
+162676
 );
 
 insert into `price` values 
 (
 62663,
 169500,
-156759
+158489
 );
 
 insert into `price` values 
@@ -66150,7 +66220,7 @@ insert into `price` values
 (
 53069,
 10413,
-4105
+5049
 );
 
 insert into `price` values 
@@ -66247,8 +66317,8 @@ insert into `price` values
 insert into `price` values 
 (
 67410,
-99999909,
-64387048
+9999909,
+51356797
 );
 
 insert into `price` values 
@@ -66317,15 +66387,15 @@ insert into `price` values
 insert into `price` values 
 (
 67243,
-4014907,
-3868130
+3851099,
+3915085
 );
 
 insert into `price` values 
 (
 58266,
 250000,
-180662
+190569
 );
 
 insert into `price` values 
@@ -66373,8 +66443,8 @@ null
 insert into `price` values 
 (
 68039,
-1998999,
-1998530
+1998498,
+1998554
 );
 
 insert into `price` values 
@@ -66465,7 +66535,7 @@ insert into `price` values
 (
 55549,
 651885,
-558577
+597234
 );
 
 insert into `price` values 
@@ -66499,8 +66569,8 @@ insert into `price` values
 insert into `price` values 
 (
 67120,
-6207246,
-6619790
+5997246,
+6543362
 );
 
 insert into `price` values 
@@ -66513,15 +66583,15 @@ insert into `price` values
 insert into `price` values 
 (
 52720,
-409480,
-540601
+553563,
+558078
 );
 
 insert into `price` values 
 (
 63122,
-1882,
-1834
+2129,
+2931
 );
 
 insert into `price` values 
@@ -66555,8 +66625,8 @@ null
 insert into `price` values 
 (
 67027,
-6321954,
-6483713
+6549551,
+6472139
 );
 
 insert into `price` values 
@@ -66576,22 +66646,22 @@ null
 insert into `price` values 
 (
 66957,
-1500000,
-null
+1256868,
+1256868
 );
 
 insert into `price` values 
 (
 66959,
-3482233,
-3091166
+3439465,
+3098422
 );
 
 insert into `price` values 
 (
 66970,
-3002500,
-3298535
+2927438,
+3246603
 );
 
 insert into `price` values 
@@ -66639,8 +66709,8 @@ insert into `price` values
 insert into `price` values 
 (
 66979,
-2500000,
-null
+500000,
+500000
 );
 
 insert into `price` values 
@@ -66660,8 +66730,8 @@ null
 insert into `price` values 
 (
 67102,
-2620000,
-2541651
+750000,
+2373156
 );
 
 insert into `price` values 
@@ -66723,8 +66793,8 @@ null
 insert into `price` values 
 (
 67115,
-930000,
-1517009
+1150000,
+1442934
 );
 
 insert into `price` values 
@@ -66738,7 +66808,7 @@ insert into `price` values
 (
 68198,
 6667,
-5423
+5563
 );
 
 insert into `price` values 
@@ -66751,8 +66821,8 @@ null
 insert into `price` values 
 (
 67121,
-4692773,
-4692773
+4385943,
+4586233
 );
 
 insert into `price` values 
@@ -66786,15 +66856,15 @@ insert into `price` values
 insert into `price` values 
 (
 67116,
-3482500,
-3838849
+3010000,
+3738763
 );
 
 insert into `price` values 
 (
 66916,
 7959728,
-7826820
+7839866
 );
 
 insert into `price` values 
@@ -66828,8 +66898,8 @@ null
 insert into `price` values 
 (
 67122,
-2000000,
-3687116
+2500000,
+3499970
 );
 
 insert into `price` values 
@@ -66856,8 +66926,8 @@ null
 insert into `price` values 
 (
 67045,
-3200000,
-3335211
+3250000,
+3315054
 );
 
 insert into `price` values 
@@ -66871,14 +66941,14 @@ insert into `price` values
 (
 67127,
 5065108,
-4929559
+4945388
 );
 
 insert into `price` values 
 (
 58275,
 250000,
-138935
+151199
 );
 
 insert into `price` values 
@@ -66912,8 +66982,8 @@ null
 insert into `price` values 
 (
 66984,
-2388223,
-2307833
+2386842,
+2315708
 );
 
 insert into `price` values 
@@ -66940,8 +67010,8 @@ insert into `price` values
 insert into `price` values 
 (
 67061,
-4400000,
-4157707
+6000000,
+4618280
 );
 
 insert into `price` values 
@@ -66968,8 +67038,8 @@ insert into `price` values
 insert into `price` values 
 (
 66974,
-7404234,
-6646542
+7458891,
+6774830
 );
 
 insert into `price` values 
@@ -66996,8 +67066,8 @@ null
 insert into `price` values 
 (
 67071,
-9900000,
-11862350
+8000000,
+11247044
 );
 
 insert into `price` values 
@@ -67011,14 +67081,14 @@ insert into `price` values
 (
 58269,
 250000,
-214506
+218501
 );
 
 insert into `price` values 
 (
 66991,
-1000000,
-null
+9417997,
+9417997
 );
 
 insert into `price` values 
@@ -67031,8 +67101,8 @@ null
 insert into `price` values 
 (
 55881,
-4312102,
-3515114
+4276239,
+3444547
 );
 
 insert into `price` values 
@@ -67045,8 +67115,8 @@ insert into `price` values
 insert into `price` values 
 (
 66968,
-5000000,
-4697727
+3499999,
+4072826
 );
 
 insert into `price` values 
@@ -67136,8 +67206,8 @@ null
 insert into `price` values 
 (
 67119,
-3588644,
-3144245
+3823942,
+3017533
 );
 
 insert into `price` values 
@@ -67185,8 +67255,8 @@ null
 insert into `price` values 
 (
 66942,
-4462727,
-4509291
+4856589,
+4532028
 );
 
 insert into `price` values 
@@ -67262,8 +67332,8 @@ null
 insert into `price` values 
 (
 52312,
-2323246,
-2020070
+2320000,
+2063860
 );
 
 insert into `price` values 
@@ -67291,7 +67361,7 @@ insert into `price` values
 (
 62519,
 13850,
-12478
+12635
 );
 
 insert into `price` values 
@@ -67325,15 +67395,15 @@ null
 insert into `price` values 
 (
 52114,
-95500,
-176711
+76500,
+154138
 );
 
 insert into `price` values 
 (
 52161,
 200000,
-231817
+222579
 );
 
 insert into `price` values 
@@ -67346,8 +67416,8 @@ null
 insert into `price` values 
 (
 56477,
-1148334,
-557333
+1000000,
+654611
 );
 
 insert into `price` values 
@@ -67360,15 +67430,15 @@ insert into `price` values
 insert into `price` values 
 (
 52081,
-280000,
-341459
+270000,
+324576
 );
 
 insert into `price` values 
 (
 52115,
-150000,
-155935
+100000,
+145914
 );
 
 insert into `price` values 
@@ -67395,8 +67465,8 @@ insert into `price` values
 insert into `price` values 
 (
 52105,
-250000,
-256716
+50000,
+220236
 );
 
 insert into `price` values 
@@ -67409,22 +67479,22 @@ null
 insert into `price` values 
 (
 52743,
-299500,
-299905
+298067,
+299725
 );
 
 insert into `price` values 
 (
 54445,
-11990000,
-9797358
+5000000,
+9477163
 );
 
 insert into `price` values 
 (
 55031,
 1247500,
-1105182
+1137391
 );
 
 insert into `price` values 
@@ -67437,22 +67507,22 @@ insert into `price` values
 insert into `price` values 
 (
 56519,
-5000000,
-4460741
+7000000,
+4820443
 );
 
 insert into `price` values 
 (
 58148,
-123749,
-125396
+500000,
+194238
 );
 
 insert into `price` values 
 (
 63128,
-1450000,
-1152122
+585000,
+1100680
 );
 
 insert into `price` values 
@@ -67465,15 +67535,15 @@ null
 insert into `price` values 
 (
 52082,
-310000,
-341234
+350000,
+341733
 );
 
 insert into `price` values 
 (
 52121,
-254000,
-60777
+18000,
+70725
 );
 
 insert into `price` values 
@@ -67486,29 +67556,29 @@ insert into `price` values
 insert into `price` values 
 (
 52747,
-13842967,
-8070038
+4995858,
+7308813
 );
 
 insert into `price` values 
 (
 55038,
 1000000,
-1735365
+1615305
 );
 
 insert into `price` values 
 (
 55823,
-1243935,
-1495828
+1250000,
+1474632
 );
 
 insert into `price` values 
 (
 58091,
-126750,
-112654
+123075,
+114522
 );
 
 insert into `price` values 
@@ -67528,22 +67598,22 @@ null
 insert into `price` values 
 (
 52084,
-290000,
-353426
+340000,
+348556
 );
 
 insert into `price` values 
 (
 52122,
-37500,
-null
+240000,
+240000
 );
 
 insert into `price` values 
 (
 52089,
-50000,
-148996
+100000,
+151745
 );
 
 insert into `price` values 
@@ -67556,15 +67626,15 @@ insert into `price` values
 insert into `price` values 
 (
 52175,
-250000,
-null
+390000,
+390000
 );
 
 insert into `price` values 
 (
 52757,
-1440000,
-1740897
+4999500,
+2129984
 );
 
 insert into `price` values 
@@ -67585,14 +67655,14 @@ insert into `price` values
 (
 57193,
 60000,
-131765
+118259
 );
 
 insert into `price` values 
 (
 59596,
 110000,
-154166
+150533
 );
 
 insert into `price` values 
@@ -67605,8 +67675,8 @@ null
 insert into `price` values 
 (
 67438,
-2056938,
-1615594
+1912190,
+1675649
 );
 
 insert into `price` values 
@@ -67619,8 +67689,8 @@ null
 insert into `price` values 
 (
 52129,
-130000,
-130000
+230000,
+170742
 );
 
 insert into `price` values 
@@ -67633,8 +67703,8 @@ insert into `price` values
 insert into `price` values 
 (
 52756,
-2899500,
-4478189
+2898999,
+4258027
 );
 
 insert into `price` values 
@@ -67675,8 +67745,8 @@ null
 insert into `price` values 
 (
 58146,
-220000,
-180534
+120000,
+174211
 );
 
 insert into `price` values 
@@ -67697,21 +67767,21 @@ insert into `price` values
 (
 52140,
 240000,
-179836
+192297
 );
 
 insert into `price` values 
 (
 52493,
-1500000,
-1554016
+12000000,
+2932269
 );
 
 insert into `price` values 
 (
 52761,
-7999500,
-11130125
+14999500,
+11030662
 );
 
 insert into `price` values 
@@ -67738,15 +67808,15 @@ null
 insert into `price` values 
 (
 56109,
-1779463,
-1902678
+1779916,
+1893044
 );
 
 insert into `price` values 
 (
 58090,
-160000,
-169373
+80000,
+145333
 );
 
 insert into `price` values 
@@ -67766,15 +67836,15 @@ null
 insert into `price` values 
 (
 52086,
-110000,
-53245
+80000,
+59165
 );
 
 insert into `price` values 
 (
 52120,
-130000,
-null
+180000,
+180000
 );
 
 insert into `price` values 
@@ -67787,15 +67857,15 @@ null
 insert into `price` values 
 (
 52748,
-9999500,
-9606646
+9998999,
+9661099
 );
 
 insert into `price` values 
 (
 52767,
-1990000,
-3499216
+1440000,
+3242900
 );
 
 insert into `price` values 
@@ -67830,14 +67900,14 @@ insert into `price` values
 (
 56517,
 2445000,
-2328904
+2346453
 );
 
 insert into `price` values 
 (
 58084,
-85000,
-37111
+75000,
+39397
 );
 
 insert into `price` values 
@@ -67857,15 +67927,15 @@ null
 insert into `price` values 
 (
 52750,
-3999500,
-3582594
+989500,
+3407493
 );
 
 insert into `price` values 
 (
 52770,
-1889271,
-1828573
+2009383,
+1761901
 );
 
 insert into `price` values 
@@ -67914,7 +67984,7 @@ insert into `price` values
 (
 52094,
 105000,
-151422
+144858
 );
 
 insert into `price` values 
@@ -67941,8 +68011,8 @@ null
 insert into `price` values 
 (
 52758,
-998800,
-2079941
+200000,
+1913020
 );
 
 insert into `price` values 
@@ -67990,8 +68060,8 @@ null
 insert into `price` values 
 (
 52108,
-42500,
-42500
+33500,
+41462
 );
 
 insert into `price` values 
@@ -68004,22 +68074,22 @@ null
 insert into `price` values 
 (
 52168,
-500000,
-259787
+160000,
+259084
 );
 
 insert into `price` values 
 (
 52746,
-2193879,
-1454673
+771721,
+1458248
 );
 
 insert into `price` values 
 (
 52771,
-5989500,
-3135030
+5799500,
+3534786
 );
 
 insert into `price` values 
@@ -68039,29 +68109,29 @@ insert into `price` values
 insert into `price` values 
 (
 55054,
-1750000,
-2567401
+1499934,
+2441504
 );
 
 insert into `price` values 
 (
 55854,
-1300000,
-2841733
+3000000,
+2866084
 );
 
 insert into `price` values 
 (
 52087,
-120000,
-160610
+22500,
+145034
 );
 
 insert into `price` values 
 (
 52111,
-150000,
-356409
+180000,
+296610
 );
 
 insert into `price` values 
@@ -68074,22 +68144,22 @@ null
 insert into `price` values 
 (
 52206,
-1285566,
-1376619
+1309614,
+1367871
 );
 
 insert into `price` values 
 (
 52755,
-2000000,
-2156932
+5404685,
+2821826
 );
 
 insert into `price` values 
 (
 54446,
 13990000,
-11031140
+11372547
 );
 
 insert into `price` values 
@@ -68130,8 +68200,8 @@ null
 insert into `price` values 
 (
 52117,
-120000,
-132694
+180000,
+153262
 );
 
 insert into `price` values 
@@ -68144,8 +68214,8 @@ null
 insert into `price` values 
 (
 52762,
-500000,
-1055516
+170000,
+964943
 );
 
 insert into `price` values 
@@ -68172,15 +68242,15 @@ insert into `price` values
 insert into `price` values 
 (
 55790,
-1000000,
-1000000
+2000000,
+1093023
 );
 
 insert into `price` values 
 (
 56529,
 3600015,
-3601750
+3601480
 );
 
 insert into `price` values 
@@ -68207,8 +68277,8 @@ null
 insert into `price` values 
 (
 52751,
-2974437,
-2373821
+200000,
+2406113
 );
 
 insert into `price` values 
@@ -68243,7 +68313,7 @@ insert into `price` values
 (
 56518,
 2500000,
-1626992
+1801593
 );
 
 insert into `price` values 
@@ -68263,22 +68333,22 @@ null
 insert into `price` values 
 (
 52173,
-160000,
-null
+540000,
+540000
 );
 
 insert into `price` values 
 (
 52754,
-3000000,
-5187793
+5799500,
+5161078
 );
 
 insert into `price` values 
 (
 54471,
 448107,
-427116
+430206
 );
 
 insert into `price` values 
@@ -68298,8 +68368,8 @@ insert into `price` values
 insert into `price` values 
 (
 55822,
-2720000,
-1906827
+3993616,
+2230134
 );
 
 insert into `price` values 
@@ -68333,15 +68403,15 @@ insert into `price` values
 insert into `price` values 
 (
 52766,
-499497,
-1227493
+200000,
+1119225
 );
 
 insert into `price` values 
 (
 54485,
-750000,
-null
+4250000,
+4250000
 );
 
 insert into `price` values 
@@ -68368,8 +68438,8 @@ null
 insert into `price` values 
 (
 57192,
-95000,
-109341
+80000,
+105423
 );
 
 insert into `price` values 
@@ -68389,15 +68459,15 @@ null
 insert into `price` values 
 (
 52843,
-1275199,
-1071219
+3000,
+1036760
 );
 
 insert into `price` values 
 (
 54503,
-14990000,
-22908835
+12000000,
+22074547
 );
 
 insert into `price` values 
@@ -68410,8 +68480,8 @@ null
 insert into `price` values 
 (
 55855,
-1000000,
-1588761
+999999,
+1556234
 );
 
 insert into `price` values 
@@ -68424,8 +68494,8 @@ null
 insert into `price` values 
 (
 58263,
-17742,
-null
+103875,
+103875
 );
 
 insert into `price` values 
@@ -68438,8 +68508,8 @@ null
 insert into `price` values 
 (
 52126,
-50000,
-140353
+100000,
+144488
 );
 
 insert into `price` values 
@@ -68452,15 +68522,15 @@ null
 insert into `price` values 
 (
 52745,
-1395900,
-1632535
+1395566,
+1599662
 );
 
 insert into `price` values 
 (
 54449,
-1713457,
-1500065
+3999500,
+1540259
 );
 
 insert into `price` values 
@@ -68495,14 +68565,14 @@ insert into `price` values
 (
 59228,
 250000,
-138936
+151200
 );
 
 insert into `price` values 
 (
 52093,
 110000,
-190682
+174545
 );
 
 insert into `price` values 
@@ -68515,8 +68585,8 @@ null
 insert into `price` values 
 (
 52760,
-8749500,
-8490764
+5200000,
+8279629
 );
 
 insert into `price` values 
@@ -68550,15 +68620,15 @@ null
 insert into `price` values 
 (
 58094,
-148498,
-172114
+279167,
+192987
 );
 
 insert into `price` values 
 (
 59595,
-225988,
-192624
+278796,
+197250
 );
 
 insert into `price` values 
@@ -68571,22 +68641,22 @@ null
 insert into `price` values 
 (
 52242,
-139779,
-213887
+140280,
+203061
 );
 
 insert into `price` values 
 (
 52769,
 2504013,
-4228512
+3989229
 );
 
 insert into `price` values 
 (
 54504,
-19490000,
-19510571
+20475000,
+19681064
 );
 
 insert into `price` values 
@@ -68599,8 +68669,8 @@ null
 insert into `price` values 
 (
 56502,
-1499999,
-2211324
+1290000,
+2085322
 );
 
 insert into `price` values 
@@ -68614,14 +68684,14 @@ insert into `price` values
 (
 59232,
 400000,
-137352
+215874
 );
 
 insert into `price` values 
 (
 52098,
-200000,
-410871
+154591,
+368811
 );
 
 insert into `price` values 
@@ -68634,8 +68704,8 @@ insert into `price` values
 insert into `price` values 
 (
 54447,
-3999500,
-916090
+894763,
+1105309
 );
 
 insert into `price` values 
@@ -68662,22 +68732,22 @@ null
 insert into `price` values 
 (
 58145,
-146250,
-157710
+144787,
+152187
 );
 
 insert into `price` values 
 (
 59599,
-2300000,
-4243987
+2475000,
+4132149
 );
 
 insert into `price` values 
 (
 61990,
-4816894,
-4964066
+4950000,
+4956307
 );
 
 insert into `price` values 
@@ -68690,15 +68760,15 @@ null
 insert into `price` values 
 (
 52152,
-750000,
-750000
+20000,
+437142
 );
 
 insert into `price` values 
 (
 52749,
-1346689,
-2108152
+200000,
+1953168
 );
 
 insert into `price` values 
@@ -68719,7 +68789,7 @@ insert into `price` values
 (
 56219,
 1500000,
-2947944
+2624942
 );
 
 insert into `price` values 
@@ -68739,15 +68809,15 @@ null
 insert into `price` values 
 (
 60841,
-50252,
-50252
+7201702,
+1838115
 );
 
 insert into `price` values 
 (
 62006,
 4000000,
-10625001
+10360001
 );
 
 insert into `price` values 
@@ -68795,22 +68865,22 @@ insert into `price` values
 insert into `price` values 
 (
 60218,
-1300000,
-2047003
+1999500,
+1983863
 );
 
 insert into `price` values 
 (
 61993,
-8000000,
-8492804
+7500000,
+8382486
 );
 
 insert into `price` values 
 (
 62017,
-9600000,
-10383397
+9008750,
+10212384
 );
 
 insert into `price` values 
@@ -68837,15 +68907,15 @@ insert into `price` values
 insert into `price` values 
 (
 55789,
-2184453,
-2045699
+2240464,
+2084955
 );
 
 insert into `price` values 
 (
 56550,
-8750000,
-5515030
+5650000,
+5785302
 );
 
 insert into `price` values 
@@ -68865,8 +68935,8 @@ null
 insert into `price` values 
 (
 62007,
-9007528,
-5007892
+5001250,
+5441962
 );
 
 insert into `price` values 
@@ -68886,8 +68956,8 @@ null
 insert into `price` values 
 (
 52207,
-1509513,
-1446845
+2008855,
+1447895
 );
 
 insert into `price` values 
@@ -68914,22 +68984,22 @@ null
 insert into `price` values 
 (
 58143,
-62500,
-70826
+50000,
+69438
 );
 
 insert into `price` values 
 (
 60223,
-88970,
-90384
+104500,
+90343
 );
 
 insert into `price` values 
 (
 61996,
 8670000,
-3960221
+5098420
 );
 
 insert into `price` values 
@@ -68999,7 +69069,7 @@ insert into `price` values
 (
 62010,
 5600000,
-8659811
+8603667
 );
 
 insert into `price` values 
@@ -69019,15 +69089,15 @@ null
 insert into `price` values 
 (
 52128,
-90000,
-112810
+170000,
+123346
 );
 
 insert into `price` values 
 (
 52687,
-999500,
-1387233
+799500,
+1316769
 );
 
 insert into `price` values 
@@ -69047,29 +69117,29 @@ null
 insert into `price` values 
 (
 56551,
-5850000,
-7356566
+8500000,
+7146269
 );
 
 insert into `price` values 
 (
 59594,
-6326100,
-2146686
+6159050,
+2811715
 );
 
 insert into `price` values 
 (
 61992,
 4000000,
-4329043
+4279304
 );
 
 insert into `price` values 
 (
 62016,
-5510000,
-7585310
+14590000,
+8442105
 );
 
 insert into `price` values 
@@ -69096,8 +69166,8 @@ null
 insert into `price` values 
 (
 52752,
-999500,
-1834054
+3499500,
+1727578
 );
 
 insert into `price` values 
@@ -69111,21 +69181,21 @@ insert into `price` values
 (
 56110,
 4003329,
-3460848
+3636789
 );
 
 insert into `price` values 
 (
 58093,
-120000,
-77448
+50000,
+80761
 );
 
 insert into `price` values 
 (
 62004,
 10989000,
-9536324
+9659956
 );
 
 insert into `price` values 
@@ -69159,15 +69229,15 @@ null
 insert into `price` values 
 (
 52764,
-2550000,
-4055870
+3512826,
+4024477
 );
 
 insert into `price` values 
 (
 55032,
 2000000,
-2660042
+2642673
 );
 
 insert into `price` values 
@@ -69187,8 +69257,8 @@ insert into `price` values
 insert into `price` values 
 (
 61988,
-4000000,
-8482894
+13630500,
+10425386
 );
 
 insert into `price` values 
@@ -69236,8 +69306,8 @@ null
 insert into `price` values 
 (
 52773,
-7999500,
-7753224
+7979500,
+7785279
 );
 
 insert into `price` values 
@@ -69257,22 +69327,22 @@ null
 insert into `price` values 
 (
 59598,
-997500,
-2328292
+600000,
+2163337
 );
 
 insert into `price` values 
 (
 61999,
 2750000,
-2329870
+2301506
 );
 
 insert into `price` values 
 (
 62242,
 3492500,
-3415207
+3433208
 );
 
 insert into `price` values 
@@ -69293,14 +69363,14 @@ insert into `price` values
 (
 52151,
 257000,
-194847
+207720
 );
 
 insert into `price` values 
 (
 54443,
-3398784,
-3343247
+9999500,
+3368555
 );
 
 insert into `price` values 
@@ -69313,8 +69383,8 @@ null
 insert into `price` values 
 (
 58089,
-83750,
-270209
+109500,
+250962
 );
 
 insert into `price` values 
@@ -69355,8 +69425,8 @@ null
 insert into `price` values 
 (
 62659,
-80000,
-44468
+48800,
+46258
 );
 
 insert into `price` values 
@@ -69376,22 +69446,22 @@ null
 insert into `price` values 
 (
 58489,
-233334,
-226528
+252525,
+227021
 );
 
 insert into `price` values 
 (
 61991,
-3050000,
-9546773
+13650000,
+11155880
 );
 
 insert into `price` values 
 (
 62236,
 5132485,
-4936530
+4958305
 );
 
 insert into `price` values 
@@ -69418,8 +69488,8 @@ null
 insert into `price` values 
 (
 62671,
-149999,
-217692
+189999,
+211596
 );
 
 insert into `price` values 
@@ -69558,8 +69628,8 @@ insert into `price` values
 insert into `price` values 
 (
 58092,
-124400,
-154074
+100000,
+149800
 );
 
 insert into `price` values 
@@ -69614,8 +69684,8 @@ insert into `price` values
 insert into `price` values 
 (
 52744,
-1988469,
-1727793
+1988400,
+1764469
 );
 
 insert into `price` values 
@@ -69670,8 +69740,8 @@ null
 insert into `price` values 
 (
 66920,
-3250000,
-3233097
+3100000,
+3201611
 );
 
 insert into `price` values 
@@ -69684,22 +69754,22 @@ null
 insert into `price` values 
 (
 52085,
-310000,
-326922
+320000,
+324865
 );
 
 insert into `price` values 
 (
 52759,
-759015,
-273253
+450000,
+317956
 );
 
 insert into `price` values 
 (
 55246,
-3469472,
-2773064
+3387613,
+2781971
 );
 
 insert into `price` values 
@@ -69713,7 +69783,7 @@ insert into `price` values
 (
 62011,
 3560000,
-4514401
+4412870
 );
 
 insert into `price` values 
@@ -69727,7 +69797,7 @@ insert into `price` values
 (
 62662,
 4875,
-5972
+5818
 );
 
 insert into `price` values 
@@ -69740,29 +69810,36 @@ null
 insert into `price` values 
 (
 67123,
-3000000,
-3383334
+2500000,
+3239727
 );
 
 insert into `price` values 
 (
 52095,
-40000,
-40000
+100000,
+49333
 );
 
 insert into `price` values 
 (
 52768,
-7266743,
-5463501
+7999500,
+5827436
 );
 
 insert into `price` values 
 (
 56503,
-4389998,
-3459046
+4389997,
+3612441
+);
+
+insert into `price` values 
+(
+62558,
+60000,
+60000
 );
 
 insert into `price` values 
@@ -69783,7 +69860,7 @@ insert into `price` values
 (
 66904,
 4640967,
-4493693
+4495311
 );
 
 insert into `price` values 
@@ -69859,8 +69936,8 @@ null
 insert into `price` values 
 (
 67124,
-6487250,
-6671980
+6422377,
+6645728
 );
 
 insert into `price` values 
@@ -69873,8 +69950,8 @@ null
 insert into `price` values 
 (
 54488,
-3000000,
-5700000
+2500000,
+4523076
 );
 
 insert into `price` values 
@@ -69887,8 +69964,8 @@ insert into `price` values
 insert into `price` values 
 (
 61994,
-4000000,
-3798837
+6000000,
+3853662
 );
 
 insert into `price` values 
@@ -69915,8 +69992,8 @@ null
 insert into `price` values 
 (
 67069,
-1350000,
-null
+4000000,
+4000000
 );
 
 insert into `price` values 
@@ -69950,15 +70027,15 @@ null
 insert into `price` values 
 (
 57099,
-155000,
-210290
+130000,
+184484
 );
 
 insert into `price` values 
 (
 61998,
-2000000,
-2881547
+1947500,
+2720880
 );
 
 insert into `price` values 
@@ -69979,7 +70056,7 @@ insert into `price` values
 (
 67125,
 3388401,
-3157630
+3178030
 );
 
 insert into `price` values 
@@ -70014,7 +70091,7 @@ insert into `price` values
 (
 58259,
 250000,
-120857
+144119
 );
 
 insert into `price` values 
@@ -70049,7 +70126,7 @@ insert into `price` values
 (
 67051,
 8242175,
-7836093
+7527290
 );
 
 insert into `price` values 
@@ -70076,29 +70153,29 @@ null
 insert into `price` values 
 (
 59597,
-6500200,
-8340347
+6400000,
+8208774
 );
 
 insert into `price` values 
 (
 62234,
-5149191,
-5032901
+5286194,
+5045608
 );
 
 insert into `price` values 
 (
 62575,
-50252,
-50252
+60000,
+53764
 );
 
 insert into `price` values 
 (
 62670,
-55000,
-50433
+160000,
+55302
 );
 
 insert into `price` values 
@@ -70111,15 +70188,15 @@ null
 insert into `price` values 
 (
 67126,
-4143414,
-4111526
+4164845,
+4119802
 );
 
 insert into `price` values 
 (
 67152,
-2000000,
-3149383
+1709060,
+2969343
 );
 
 insert into `price` values 
@@ -70168,7 +70245,7 @@ insert into `price` values
 (
 66992,
 4231000,
-4047374
+4063517
 );
 
 insert into `price` values 
@@ -70181,15 +70258,15 @@ insert into `price` values
 insert into `price` values 
 (
 52142,
-150000,
-150000
+20000,
+107611
 );
 
 insert into `price` values 
 (
 52164,
 50000,
-219421
+181037
 );
 
 insert into `price` values 
@@ -70237,8 +70314,8 @@ null
 insert into `price` values 
 (
 68049,
-119999,
-136286
+99900,
+128237
 );
 
 insert into `price` values 
@@ -70273,14 +70350,14 @@ insert into `price` values
 (
 62676,
 1401,
-56035
+48453
 );
 
 insert into `price` values 
 (
 66969,
-12507857,
-12272298
+11687628,
+12201981
 );
 
 insert into `price` values 
@@ -70293,15 +70370,15 @@ insert into `price` values
 insert into `price` values 
 (
 67282,
-28000000,
-17990372
+22000000,
+18718156
 );
 
 insert into `price` values 
 (
 52753,
-99834,
-483137
+200000,
+460929
 );
 
 insert into `price` values 
@@ -70322,7 +70399,7 @@ insert into `price` values
 (
 59227,
 250000,
-138942
+151205
 );
 
 insert into `price` values 
@@ -70356,8 +70433,8 @@ insert into `price` values
 insert into `price` values 
 (
 67237,
-2790000,
-2576577
+3494484,
+2606796
 );
 
 insert into `price` values 
@@ -70371,7 +70448,7 @@ insert into `price` values
 (
 59231,
 400000,
-137352
+215874
 );
 
 insert into `price` values 
@@ -70391,8 +70468,8 @@ insert into `price` values
 insert into `price` values 
 (
 60217,
-1500000,
-620929
+1497500,
+782859
 );
 
 insert into `price` values 
@@ -70406,7 +70483,7 @@ insert into `price` values
 (
 62669,
 150000,
-167843
+165355
 );
 
 insert into `price` values 
@@ -70419,15 +70496,15 @@ insert into `price` values
 insert into `price` values 
 (
 67142,
-6752196,
-14519712
+20681100,
+14799617
 );
 
 insert into `price` values 
 (
 67749,
-639000,
-706819
+638000,
+695694
 );
 
 insert into `price` values 
@@ -70454,8 +70531,8 @@ null
 insert into `price` values 
 (
 62233,
-1089000,
-1135864
+1014750,
+1121954
 );
 
 insert into `price` values 
@@ -70468,8 +70545,8 @@ insert into `price` values
 insert into `price` values 
 (
 67136,
-30000000,
-null
+93638871,
+93638871
 );
 
 insert into `price` values 
@@ -70496,8 +70573,8 @@ insert into `price` values
 insert into `price` values 
 (
 62661,
-29999,
-45792
+20000,
+43202
 );
 
 insert into `price` values 
@@ -70510,15 +70587,15 @@ null
 insert into `price` values 
 (
 62003,
-2500000,
-4072225
+4797500,
+3991293
 );
 
 insert into `price` values 
 (
 66932,
-4192241,
-4004142
+4214950,
+4018347
 );
 
 insert into `price` values 
@@ -70531,8 +70608,8 @@ insert into `price` values
 insert into `price` values 
 (
 68134,
-7593156,
-11022489
+6597168,
+10433436
 );
 
 insert into `price` values 
@@ -70552,15 +70629,15 @@ insert into `price` values
 insert into `price` values 
 (
 62598,
-150000,
-null
+60000,
+60000
 );
 
 insert into `price` values 
 (
 66940,
 12000303,
-11570220
+11648661
 );
 
 insert into `price` values 
@@ -70573,8 +70650,8 @@ null
 insert into `price` values 
 (
 62008,
-6908790,
-5907367
+19480500,
+9258759
 );
 
 insert into `price` values 
@@ -70594,8 +70671,8 @@ null
 insert into `price` values 
 (
 55437,
-1600000,
-807454
+502500,
+853202
 );
 
 insert into `price` values 
@@ -70608,29 +70685,29 @@ null
 insert into `price` values 
 (
 62667,
-50000,
-87686
+39500,
+80061
 );
 
 insert into `price` values 
 (
 67059,
-7501779,
-6046588
+7501557,
+6727142
 );
 
 insert into `price` values 
 (
 67238,
-8400000,
-10679188
+9000000,
+10443061
 );
 
 insert into `price` values 
 (
 56220,
-2985000,
-3557823
+2930771,
+3476016
 );
 
 insert into `price` values 
@@ -70691,16 +70768,23 @@ null
 
 insert into `price` values 
 (
+62574,
+60000,
+60000
+);
+
+insert into `price` values 
+(
 66985,
-7705322,
-8312204
+5992492,
+8113260
 );
 
 insert into `price` values 
 (
 57194,
-70000,
-119084
+65000,
+112152
 );
 
 insert into `price` values 
@@ -70720,8 +70804,8 @@ null
 insert into `price` values 
 (
 58144,
-93929,
-145976
+100000,
+140976
 );
 
 insert into `price` values 
@@ -70734,8 +70818,8 @@ null
 insert into `price` values 
 (
 62672,
-1500,
-12722
+7500,
+12163
 );
 
 insert into `price` values 
@@ -70748,15 +70832,15 @@ insert into `price` values
 insert into `price` values 
 (
 60216,
-6000000,
-5201801
+4000000,
+5018764
 );
 
 insert into `price` values 
 (
 62677,
-31925,
-121303
+31900,
+104021
 );
 
 insert into `price` values 
@@ -70777,7 +70861,7 @@ insert into `price` values
 (
 62001,
 4508750,
-4061821
+4124391
 );
 
 insert into `price` values 
@@ -70798,7 +70882,7 @@ insert into `price` values
 (
 62047,
 99999500,
-96963586
+97399435
 );
 
 insert into `price` values 
@@ -70812,14 +70896,14 @@ insert into `price` values
 (
 62051,
 79999500,
-102968359
+99621139
 );
 
 insert into `price` values 
 (
 66952,
-7323081,
-7065539
+7422339,
+7091247
 );
 
 insert into `price` values 
@@ -70881,8 +70965,8 @@ null
 insert into `price` values 
 (
 62570,
-126446,
-null
+60000,
+60000
 );
 
 insert into `price` values 
@@ -70930,8 +71014,8 @@ null
 insert into `price` values 
 (
 52765,
-5994966,
-3610555
+5998974,
+3943361
 );
 
 insert into `price` values 
@@ -70945,7 +71029,7 @@ insert into `price` values
 (
 55057,
 438000,
-923756
+856032
 );
 
 insert into `price` values 
@@ -70958,8 +71042,8 @@ null
 insert into `price` values 
 (
 52212,
-1285132,
-1475995
+1123406,
+1442008
 );
 
 insert into `price` values 
@@ -70972,15 +71056,15 @@ null
 insert into `price` values 
 (
 56111,
-4455000,
-4570495
+4973295,
+4565548
 );
 
 insert into `price` values 
 (
 67233,
-1500000,
-3194691
+3200000,
+3178541
 );
 
 insert into `price` values 
@@ -71001,7 +71085,7 @@ insert into `price` values
 (
 58280,
 250000,
-138933
+151198
 );
 
 insert into `price` values 
@@ -71029,49 +71113,49 @@ insert into `price` values
 (
 52209,
 379500,
-461980
+450887
 );
 
 insert into `price` values 
 (
 52214,
-344499,
-653643
+299900,
+607303
 );
 
 insert into `price` values 
 (
 52232,
-160320,
-248106
+124466,
+232307
 );
 
 insert into `price` values 
 (
 61989,
-4000000,
-4159639
+7790000,
+5101384
 );
 
 insert into `price` values 
 (
 61995,
-7500000,
-6581645
+6000000,
+6628351
 );
 
 insert into `price` values 
 (
 62000,
 1000000,
-2811234
+2558708
 );
 
 insert into `price` values 
 (
 62019,
 10450000,
-11395569
+12795793
 );
 
 insert into `price` values 
@@ -71105,29 +71189,29 @@ insert into `price` values
 insert into `price` values 
 (
 52204,
-437874,
-559838
+369500,
+536965
 );
 
 insert into `price` values 
 (
 52208,
-248997,
-299831
+1999500,
+401149
 );
 
 insert into `price` values 
 (
 52219,
-238977,
-321149
+195390,
+305798
 );
 
 insert into `price` values 
 (
 52239,
-348195,
-297448
+315630,
+302042
 );
 
 insert into `price` values 
@@ -71147,15 +71231,15 @@ null
 insert into `price` values 
 (
 52213,
-300000,
-500515
+1998990,
+480887
 );
 
 insert into `price` values 
 (
 52217,
-300000,
-378915
+807204,
+366164
 );
 
 insert into `price` values 
@@ -71182,22 +71266,22 @@ insert into `price` values
 insert into `price` values 
 (
 52221,
-497493,
-373727
+478956,
+388821
 );
 
 insert into `price` values 
 (
 52235,
-134268,
-181423
+80000,
+170531
 );
 
 insert into `price` values 
 (
 52236,
-421842,
-399274
+299232,
+390888
 );
 
 insert into `price` values 
@@ -71217,22 +71301,22 @@ null
 insert into `price` values 
 (
 52205,
-372744,
-367850
+369237,
+368174
 );
 
 insert into `price` values 
 (
 52222,
-479400,
-701816
+389500,
+662997
 );
 
 insert into `price` values 
 (
 52231,
-216433,
-215384
+216933,
+214760
 );
 
 insert into `price` values 
@@ -71245,36 +71329,36 @@ null
 insert into `price` values 
 (
 52210,
-392784,
-703393
+369400,
+658245
 );
 
 insert into `price` values 
 (
 52228,
-458916,
-320079
+369500,
+332345
 );
 
 insert into `price` values 
 (
 52233,
-398496,
-232129
+339500,
+250831
 );
 
 insert into `price` values 
 (
 52237,
-558114,
-357947
+539500,
+383999
 );
 
 insert into `price` values 
 (
 52248,
-449500,
-491117
+496750,
+506550
 );
 
 insert into `price` values 
@@ -71287,50 +71371,50 @@ null
 insert into `price` values 
 (
 52226,
-177497,
-291815
+151853,
+272998
 );
 
 insert into `price` values 
 (
 52241,
-240000,
-451491
+299500,
+430890
 );
 
 insert into `price` values 
 (
 52244,
-128757,
-170465
+113727,
+163580
 );
 
 insert into `price` values 
 (
 52291,
-1089500,
-1453290
+1089000,
+1403528
 );
 
 insert into `price` values 
 (
 52220,
-479457,
-557550
+348195,
+534352
 );
 
 insert into `price` values 
 (
 52238,
-300000,
-570103
+534500,
+532840
 );
 
 insert into `price` values 
 (
 52294,
-1099500,
-1163844
+1059500,
+1150034
 );
 
 insert into `price` values 
@@ -71343,15 +71427,15 @@ null
 insert into `price` values 
 (
 52296,
-1109500,
-1538468
+1039500,
+1470353
 );
 
 insert into `price` values 
 (
 52211,
-348195,
-306539
+279558,
+305993
 );
 
 insert into `price` values 
@@ -71364,15 +71448,15 @@ null
 insert into `price` values 
 (
 52227,
-449500,
-296140
+509500,
+331196
 );
 
 insert into `price` values 
 (
 52240,
-339400,
-869613
+328900,
+793305
 );
 
 insert into `price` values 
@@ -71385,22 +71469,22 @@ null
 insert into `price` values 
 (
 52245,
-164328,
-261498
+138850,
+245354
 );
 
 insert into `price` values 
 (
 52250,
-575400,
-324883
+489400,
+435992
 );
 
 insert into `price` values 
 (
 56561,
-28000000,
-33625001
+22000000,
+28899999
 );
 
 insert into `price` values 
@@ -71427,15 +71511,15 @@ insert into `price` values
 insert into `price` values 
 (
 54448,
-5499477,
-9851125
+5200000,
+9214105
 );
 
 insert into `price` values 
 (
 54450,
-4995000,
-5249348
+4800000,
+5235704
 );
 
 insert into `price` values 
@@ -71448,8 +71532,8 @@ null
 insert into `price` values 
 (
 52225,
-169338,
-193297
+135771,
+187026
 );
 
 insert into `price` values 
@@ -71483,8 +71567,8 @@ insert into `price` values
 insert into `price` values 
 (
 52229,
-479500,
-335729
+439500,
+353017
 );
 
 insert into `price` values 
@@ -71497,8 +71581,8 @@ null
 insert into `price` values 
 (
 54441,
-3000000,
-3233975
+15000000,
+5533900
 );
 
 insert into `price` values 
@@ -71518,8 +71602,8 @@ null
 insert into `price` values 
 (
 55069,
-45900064,
-null
+34990000,
+34990000
 );
 
 insert into `price` values 
@@ -71532,8 +71616,8 @@ null
 insert into `price` values 
 (
 55059,
-51000000,
-51000000
+43000000,
+45799998
 );
 
 insert into `price` values 
@@ -71574,8 +71658,8 @@ null
 insert into `price` values 
 (
 60201,
-24404490,
-37764825
+26400000,
+36677910
 );
 
 insert into `price` values 
@@ -71603,7 +71687,7 @@ insert into `price` values
 (
 56491,
 900000,
-608436
+644383
 );
 
 insert into `price` values 
@@ -71623,8 +71707,8 @@ null
 insert into `price` values 
 (
 59467,
-190000000,
-null
+160000000,
+147500001
 );
 
 insert into `price` values 
@@ -71644,29 +71728,29 @@ insert into `price` values
 insert into `price` values 
 (
 52218,
-236605,
-227289
+282401,
+235463
 );
 
 insert into `price` values 
 (
 52292,
-1209500,
-959035
+1120000,
+985200
 );
 
 insert into `price` values 
 (
 59520,
 100003622,
-124397131
+118024053
 );
 
 insert into `price` values 
 (
 52299,
-1089500,
-892875
+1120000,
+923857
 );
 
 insert into `price` values 
@@ -71687,14 +71771,14 @@ insert into `price` values
 (
 56563,
 30000000,
-30812846
+30690074
 );
 
 insert into `price` values 
 (
 52298,
-1059500,
-896331
+1130000,
+926545
 );
 
 insert into `price` values 
@@ -71707,22 +71791,22 @@ null
 insert into `price` values 
 (
 52249,
-1999500,
-306725
+509500,
+386120
 );
 
 insert into `price` values 
 (
 55293,
-676098,
-842203
+400000,
+766934
 );
 
 insert into `price` values 
 (
 55438,
-450000,
-491861
+560000,
+505345
 );
 
 insert into `price` values 
@@ -71735,8 +71819,8 @@ null
 insert into `price` values 
 (
 55716,
-373789,
-null
+200000,
+200000
 );
 
 insert into `price` values 
@@ -71784,8 +71868,8 @@ null
 insert into `price` values 
 (
 63538,
-42900000,
-35498848
+34649999,
+35501906
 );
 
 insert into `price` values 
@@ -71819,8 +71903,8 @@ null
 insert into `price` values 
 (
 68608,
-123796000,
-null
+100008483,
+100008483
 );
 
 insert into `price` values 
@@ -71834,14 +71918,14 @@ insert into `price` values
 (
 62680,
 25000,
-16968
+17796
 );
 
 insert into `price` values 
 (
 62790,
-53400,
-84799
+43390,
+79099
 );
 
 insert into `price` values 
@@ -71896,8 +71980,8 @@ null
 insert into `price` values 
 (
 68358,
-568134,
-932008
+519036,
+877720
 );
 
 insert into `price` values 
@@ -71966,15 +72050,15 @@ insert into `price` values
 insert into `price` values 
 (
 55700,
-134130,
-null
+548583,
+548583
 );
 
 insert into `price` values 
 (
 55740,
 2004900,
-1176065
+1682575
 );
 
 insert into `price` values 
@@ -71987,15 +72071,15 @@ insert into `price` values
 insert into `price` values 
 (
 52301,
-1119500,
-875011
+980000,
+892687
 );
 
 insert into `price` values 
 (
 52302,
-1049500,
-1065854
+1040000,
+1063134
 );
 
 insert into `price` values 
@@ -72015,8 +72099,8 @@ insert into `price` values
 insert into `price` values 
 (
 52307,
-600000,
-450415
+259999,
+426737
 );
 
 insert into `price` values 
@@ -72029,8 +72113,8 @@ null
 insert into `price` values 
 (
 55543,
-1032715,
-1032715
+500000,
+1011406
 );
 
 insert into `price` values 
@@ -72051,28 +72135,28 @@ insert into `price` values
 (
 52778,
 11998415,
-12407195
+12331280
 );
 
 insert into `price` values 
 (
 55346,
-299900,
-299900
+330000,
+321791
 );
 
 insert into `price` values 
 (
 52308,
-230000,
-255035
+229999,
+250582
 );
 
 insert into `price` values 
 (
 52309,
-225000,
-240032
+210000,
+235778
 );
 
 insert into `price` values 
@@ -72085,8 +72169,8 @@ insert into `price` values
 insert into `price` values 
 (
 55494,
-280000,
-576033
+716638,
+516400
 );
 
 insert into `price` values 
@@ -72100,7 +72184,7 @@ insert into `price` values
 (
 52306,
 220000,
-192984
+198211
 );
 
 insert into `price` values 
@@ -72114,7 +72198,7 @@ insert into `price` values
 (
 52780,
 24999500,
-23498345
+23719328
 );
 
 insert into `price` values 
@@ -72155,22 +72239,22 @@ null
 insert into `price` values 
 (
 55741,
-150000,
-150000
+102736,
+144092
 );
 
 insert into `price` values 
 (
 52319,
-29857351,
-29857351
+18890000,
+26700082
 );
 
 insert into `price` values 
 (
 52781,
-12565312,
-null
+7600000,
+7600000
 );
 
 insert into `price` values 
@@ -72183,8 +72267,8 @@ null
 insert into `price` values 
 (
 55755,
-455693,
-472467
+365124,
+456446
 );
 
 insert into `price` values 
@@ -72232,22 +72316,22 @@ insert into `price` values
 insert into `price` values 
 (
 55312,
-1260000,
-659606
+925500,
+664530
 );
 
 insert into `price` values 
 (
 55484,
-300000,
-457303
+704500,
+444019
 );
 
 insert into `price` values 
 (
 55486,
-300000,
-347928
+400000,
+365596
 );
 
 insert into `price` values 
@@ -72261,7 +72345,7 @@ insert into `price` values
 (
 55548,
 287709,
-381917
+368533
 );
 
 insert into `price` values 
@@ -72282,14 +72366,14 @@ insert into `price` values
 (
 55457,
 542589,
-538399
+539625
 );
 
 insert into `price` values 
 (
 55539,
 200000,
-260574
+248458
 );
 
 insert into `price` values 
@@ -72316,8 +72400,8 @@ insert into `price` values
 insert into `price` values 
 (
 55436,
-800000,
-800000
+450000,
+645588
 );
 
 insert into `price` values 
@@ -72351,15 +72435,15 @@ insert into `price` values
 insert into `price` values 
 (
 52775,
-12870000,
-17121432
+8900100,
+16610709
 );
 
 insert into `price` values 
 (
 52779,
-14999500,
-19574699
+29999500,
+19011635
 );
 
 insert into `price` values 
@@ -72373,7 +72457,7 @@ insert into `price` values
 (
 52783,
 29999500,
-29373299
+29461455
 );
 
 insert into `price` values 
@@ -72442,22 +72526,22 @@ insert into `price` values
 insert into `price` values 
 (
 55348,
-560000,
-569237
+440000,
+542385
 );
 
 insert into `price` values 
 (
 55429,
 630000,
-480000
+520909
 );
 
 insert into `price` values 
 (
 56505,
 190000,
-412912
+381415
 );
 
 insert into `price` values 
@@ -72471,7 +72555,7 @@ insert into `price` values
 (
 52310,
 1500000,
-1573573
+1562041
 );
 
 insert into `price` values 
@@ -72512,8 +72596,8 @@ null
 insert into `price` values 
 (
 52321,
-30000000,
-null
+18890000,
+18890000
 );
 
 insert into `price` values 
@@ -72540,8 +72624,8 @@ insert into `price` values
 insert into `price` values 
 (
 58199,
-24500000,
-34165046
+15990000,
+31623333
 );
 
 insert into `price` values 
@@ -72568,8 +72652,8 @@ null
 insert into `price` values 
 (
 55521,
-350000,
-366102
+300000,
+358537
 );
 
 insert into `price` values 
@@ -72597,7 +72681,7 @@ insert into `price` values
 (
 58276,
 250000,
-132901
+152415
 );
 
 insert into `price` values 
@@ -72666,8 +72750,8 @@ null
 insert into `price` values 
 (
 55759,
-2500000,
-null
+350000,
+350000
 );
 
 insert into `price` values 
@@ -72750,8 +72834,8 @@ null
 insert into `price` values 
 (
 55534,
-600000,
-null
+250000,
+250000
 );
 
 insert into `price` values 
@@ -72807,14 +72891,14 @@ insert into `price` values
 (
 52375,
 2900000,
-921937
+1403984
 );
 
 insert into `price` values 
 (
 52377,
-1756799,
-null
+1200000,
+1200000
 );
 
 insert into `price` values 
@@ -72841,29 +72925,29 @@ null
 insert into `price` values 
 (
 52368,
-2437500,
-2423959
+2468726,
+2426384
 );
 
 insert into `price` values 
 (
 52370,
-1000000,
-1089059
+1136217,
+1083417
 );
 
 insert into `price` values 
 (
 52374,
-2948954,
-2549510
+3101486,
+2587129
 );
 
 insert into `price` values 
 (
 52378,
-536250,
-537571
+1879963,
+853428
 );
 
 insert into `price` values 
@@ -72883,15 +72967,15 @@ insert into `price` values
 insert into `price` values 
 (
 52386,
-1780649,
-null
+2682224,
+2682224
 );
 
 insert into `price` values 
 (
 52369,
 1504448,
-1309998
+1340809
 );
 
 insert into `price` values 
@@ -72905,7 +72989,7 @@ insert into `price` values
 (
 52376,
 2390127,
-1664199
+1833583
 );
 
 insert into `price` values 
@@ -72939,8 +73023,8 @@ null
 insert into `price` values 
 (
 55720,
-208278,
-432720
+200000,
+428776
 );
 
 insert into `price` values 
@@ -72975,7 +73059,7 @@ insert into `price` values
 (
 58482,
 25000000,
-16999874
+18043368
 );
 
 insert into `price` values 
@@ -73003,7 +73087,7 @@ insert into `price` values
 (
 55710,
 290000,
-358526
+353819
 );
 
 insert into `price` values 
@@ -73017,7 +73101,7 @@ insert into `price` values
 (
 55746,
 552321,
-1078272
+980502
 );
 
 insert into `price` values 
@@ -73080,7 +73164,7 @@ insert into `price` values
 (
 55519,
 550000,
-null
+550000
 );
 
 insert into `price` values 
@@ -73094,7 +73178,7 @@ insert into `price` values
 (
 55599,
 2000000,
-9868419
+8953487
 );
 
 insert into `price` values 
@@ -73129,7 +73213,7 @@ insert into `price` values
 (
 55683,
 200000,
-966526
+871305
 );
 
 insert into `price` values 
@@ -73171,7 +73255,7 @@ insert into `price` values
 (
 55439,
 546651,
-521748
+528315
 );
 
 insert into `price` values 
@@ -73219,8 +73303,8 @@ insert into `price` values
 insert into `price` values 
 (
 55342,
-699159,
-null
+2220000,
+2220000
 );
 
 insert into `price` values 
@@ -73240,22 +73324,22 @@ insert into `price` values
 insert into `price` values 
 (
 55422,
-320000,
-607333
+300000,
+566012
 );
 
 insert into `price` values 
 (
 55628,
-359991,
-467081
+370000,
+434720
 );
 
 insert into `price` values 
 (
 55502,
-382123,
-551527
+1200000,
+565205
 );
 
 insert into `price` values 
@@ -73268,8 +73352,8 @@ null
 insert into `price` values 
 (
 55763,
-300000,
-494386
+253500,
+453209
 );
 
 insert into `price` values 
@@ -73297,7 +73381,7 @@ insert into `price` values
 (
 55458,
 529053,
-559516
+546712
 );
 
 insert into `price` values 
@@ -73325,14 +73409,14 @@ insert into `price` values
 (
 55637,
 300000,
-892717
+782642
 );
 
 insert into `price` values 
 (
 55751,
-420000,
-232500
+350000,
+358125
 );
 
 insert into `price` values 
@@ -73373,8 +73457,8 @@ null
 insert into `price` values 
 (
 55430,
-200000,
-183846
+530000,
+384837
 );
 
 insert into `price` values 
@@ -73409,7 +73493,7 @@ insert into `price` values
 (
 55727,
 300000,
-492354
+490504
 );
 
 insert into `price` values 
@@ -73436,8 +73520,8 @@ insert into `price` values
 insert into `price` values 
 (
 55423,
-250000,
-551174
+1210000,
+517531
 );
 
 insert into `price` values 
@@ -73472,14 +73556,14 @@ insert into `price` values
 (
 55583,
 500000,
-365806
+409567
 );
 
 insert into `price` values 
 (
 55770,
 200000,
-394284
+337121
 );
 
 insert into `price` values 
@@ -73492,8 +73576,8 @@ null
 insert into `price` values 
 (
 55385,
-540000,
-543016
+655142,
+569302
 );
 
 insert into `price` values 
@@ -73541,8 +73625,8 @@ null
 insert into `price` values 
 (
 55419,
-280000,
-400299
+350000,
+388664
 );
 
 insert into `price` values 
@@ -73555,8 +73639,8 @@ null
 insert into `price` values 
 (
 55347,
-555500,
-555500
+526500,
+550500
 );
 
 insert into `price` values 
@@ -73570,7 +73654,7 @@ insert into `price` values
 (
 55495,
 300000,
-505140
+392896
 );
 
 insert into `price` values 
@@ -73584,14 +73668,14 @@ insert into `price` values
 (
 55612,
 1400000,
-800000
+1100002
 );
 
 insert into `price` values 
 (
 55482,
-426500,
-387948
+386500,
+399074
 );
 
 insert into `price` values 
@@ -73654,7 +73738,7 @@ insert into `price` values
 (
 55736,
 313133,
-375072
+366046
 );
 
 insert into `price` values 
@@ -73695,8 +73779,8 @@ null
 insert into `price` values 
 (
 55483,
-380000,
-400834
+440000,
+415409
 );
 
 insert into `price` values 
@@ -73724,7 +73808,7 @@ insert into `price` values
 (
 55756,
 278900,
-345272
+343466
 );
 
 insert into `price` values 
@@ -73738,14 +73822,14 @@ insert into `price` values
 (
 55666,
 800000,
-608503
+628090
 );
 
 insert into `price` values 
 (
 55691,
-209439,
-209439
+220000,
+211786
 );
 
 insert into `price` values 
@@ -73758,8 +73842,8 @@ null
 insert into `price` values 
 (
 55774,
-300000,
-509248
+60000,
+504969
 );
 
 insert into `price` values 
@@ -73772,15 +73856,15 @@ insert into `price` values
 insert into `price` values 
 (
 55294,
-692061,
-null
+2900000,
+2900000
 );
 
 insert into `price` values 
 (
 55540,
-500000,
-533101
+330000,
+501153
 );
 
 insert into `price` values 
@@ -73815,7 +73899,7 @@ insert into `price` values
 (
 55674,
 250000,
-349474
+340001
 );
 
 insert into `price` values 
@@ -73836,7 +73920,7 @@ insert into `price` values
 (
 55313,
 300000,
-300000
+300952
 );
 
 insert into `price` values 
@@ -73864,7 +73948,7 @@ insert into `price` values
 (
 55405,
 400000,
-494118
+434782
 );
 
 insert into `price` values 
@@ -73878,14 +73962,14 @@ insert into `price` values
 (
 55584,
 360000,
-569570
+565158
 );
 
 insert into `price` values 
 (
 55620,
 400000,
-228420
+298322
 );
 
 insert into `price` values 
@@ -73906,7 +73990,7 @@ insert into `price` values
 (
 55358,
 450000,
-443140
+444168
 );
 
 insert into `price` values 
@@ -73919,43 +74003,43 @@ insert into `price` values
 insert into `price` values 
 (
 68741,
-1999900,
-437614
+439500,
+492920
 );
 
 insert into `price` values 
 (
 68778,
-1588998,
-1585993
+1459500,
+1575370
 );
 
 insert into `price` values 
 (
 68779,
-1539500,
-1570260
+1429500,
+1555924
 );
 
 insert into `price` values 
 (
 68787,
-47519675,
-48740698
+60009675,
+49418782
 );
 
 insert into `price` values 
 (
 68793,
 1999500,
-1274182
+1378310
 );
 
 insert into `price` values 
 (
 52113,
-40000,
-125073
+100000,
+130336
 );
 
 insert into `price` values 
@@ -74017,15 +74101,15 @@ null
 insert into `price` values 
 (
 68780,
-1159500,
-1593276
+1110000,
+1528425
 );
 
 insert into `price` values 
 (
 68785,
-9499500,
-12334952
+29999500,
+13812223
 );
 
 insert into `price` values 
@@ -74045,8 +74129,8 @@ null
 insert into `price` values 
 (
 68786,
-29999500,
-26932604
+26999500,
+26958641
 );
 
 insert into `price` values 
@@ -74080,8 +74164,8 @@ null
 insert into `price` values 
 (
 68781,
-8000000,
-38833462
+29902654,
+36768766
 );
 
 insert into `price` values 
@@ -74144,7 +74228,7 @@ insert into `price` values
 (
 68757,
 20402,
-17475
+17906
 );
 
 insert into `price` values 
@@ -74164,8 +74248,8 @@ insert into `price` values
 insert into `price` values 
 (
 68784,
-19499500,
-19761262
+18999500,
+19693849
 );
 
 insert into `price` values 
@@ -74249,21 +74333,21 @@ insert into `price` values
 (
 55538,
 324998,
-299264
+305976
 );
 
 insert into `price` values 
 (
 55732,
-356747,
-null
+350000,
+350000
 );
 
 insert into `price` values 
 (
 55764,
 420720,
-498625
+492971
 );
 
 insert into `price` values 
@@ -74291,7 +74375,7 @@ insert into `price` values
 (
 55737,
 400000,
-563022
+531283
 );
 
 insert into `price` values 
@@ -74305,7 +74389,7 @@ insert into `price` values
 (
 55367,
 548493,
-652165
+633014
 );
 
 insert into `price` values 
@@ -74339,8 +74423,8 @@ insert into `price` values
 insert into `price` values 
 (
 55369,
-520000,
-null
+1220000,
+1220000
 );
 
 insert into `price` values 
@@ -74353,8 +74437,8 @@ insert into `price` values
 insert into `price` values 
 (
 55638,
-600000,
-null
+504698,
+504698
 );
 
 insert into `price` values 
@@ -74388,8 +74472,8 @@ insert into `price` values
 insert into `price` values 
 (
 70164,
-139990000,
-148377205
+150000000,
+148838422
 );
 
 insert into `price` values 
@@ -74417,14 +74501,14 @@ insert into `price` values
 (
 55387,
 743443,
-709181
+711572
 );
 
 insert into `price` values 
 (
 55556,
 873711,
-null
+873711
 );
 
 insert into `price` values 
@@ -74444,8 +74528,8 @@ null
 insert into `price` values 
 (
 55378,
-600000,
-412557
+400000,
+410601
 );
 
 insert into `price` values 
@@ -74515,7 +74599,7 @@ insert into `price` values
 (
 55350,
 529053,
-240465
+455056
 );
 
 insert into `price` values 
@@ -74529,7 +74613,7 @@ insert into `price` values
 (
 55734,
 318900,
-346856
+334149
 );
 
 insert into `price` values 
@@ -74549,8 +74633,8 @@ null
 insert into `price` values 
 (
 55377,
-350000,
-318695
+340000,
+517744
 );
 
 insert into `price` values 
@@ -74564,14 +74648,14 @@ insert into `price` values
 (
 55609,
 250000,
-190000
+227500
 );
 
 insert into `price` values 
 (
 55692,
-351500,
-337713
+350000,
+339603
 );
 
 insert into `price` values 
@@ -74584,22 +74668,22 @@ null
 insert into `price` values 
 (
 55567,
-450000,
-424815
+200000,
+341164
 );
 
 insert into `price` values 
 (
 55594,
-500000,
-482414
+250000,
+430766
 );
 
 insert into `price` values 
 (
 55504,
 375471,
-328953
+337054
 );
 
 insert into `price` values 
@@ -74620,7 +74704,7 @@ insert into `price` values
 (
 55547,
 416518,
-443121
+441472
 );
 
 insert into `price` values 
@@ -74633,8 +74717,8 @@ null
 insert into `price` values 
 (
 55709,
-436386,
-455967
+336386,
+439391
 );
 
 insert into `price` values 
@@ -74647,36 +74731,36 @@ null
 insert into `price` values 
 (
 55738,
-423327,
-398309
+800651,
+504810
 );
 
 insert into `price` values 
 (
 55537,
-677591,
-null
+660000,
+660000
 );
 
 insert into `price` values 
 (
 55493,
 359157,
-342807
+345254
 );
 
 insert into `price` values 
 (
 55600,
-301863,
-513627
+200000,
+413268
 );
 
 insert into `price` values 
 (
 55602,
-348900,
-348900
+375600,
+355955
 );
 
 insert into `price` values 
@@ -74703,8 +74787,8 @@ null
 insert into `price` values 
 (
 55593,
-200034,
-288269
+200000,
+278977
 );
 
 insert into `price` values 
@@ -74766,8 +74850,8 @@ null
 insert into `price` values 
 (
 69239,
-1250000,
-1165230
+750000,
+1116958
 );
 
 insert into `price` values 
@@ -74780,8 +74864,8 @@ null
 insert into `price` values 
 (
 55518,
-250000,
-290278
+220000,
+269833
 );
 
 insert into `price` values 
@@ -74816,7 +74900,7 @@ insert into `price` values
 (
 55560,
 800000,
-773750
+788333
 );
 
 insert into `price` values 
@@ -74885,8 +74969,8 @@ null
 insert into `price` values 
 (
 55750,
-420000,
-420000
+190000,
+336363
 );
 
 insert into `price` values 
@@ -74927,8 +75011,8 @@ null
 insert into `price` values 
 (
 55459,
-990000,
-null
+450000,
+450000
 );
 
 insert into `price` values 
@@ -74955,8 +75039,8 @@ null
 insert into `price` values 
 (
 55723,
-1000000,
-1000000
+200000,
+819356
 );
 
 insert into `price` values 
@@ -75018,8 +75102,8 @@ null
 insert into `price` values 
 (
 55663,
-250000,
-250000
+390000,
+365863
 );
 
 insert into `price` values 
@@ -75053,8 +75137,8 @@ null
 insert into `price` values 
 (
 70139,
-9299999,
-7470516
+7990000,
+7602589
 );
 
 insert into `price` values 
@@ -75109,8 +75193,8 @@ null
 insert into `price` values 
 (
 55453,
-1050000,
-null
+495000,
+495000
 );
 
 insert into `price` values 
@@ -75180,7 +75264,7 @@ insert into `price` values
 (
 55339,
 598736,
-647510
+637034
 );
 
 insert into `price` values 
@@ -75256,15 +75340,15 @@ null
 insert into `price` values 
 (
 55474,
-1000000,
-null
+440000,
+440000
 );
 
 insert into `price` values 
 (
 55686,
-1000000,
-1000000
+220000,
+679999
 );
 
 insert into `price` values 
@@ -75362,63 +75446,63 @@ insert into `price` values
 (
 69773,
 1999500,
-1558182
+1619715
 );
 
 insert into `price` values 
 (
 69796,
-5584662,
-2914890
+4999900,
+3956297
 );
 
 insert into `price` values 
 (
 69800,
-2500000,
-2953482
+2800000,
+2951508
 );
 
 insert into `price` values 
 (
 69801,
-4000000,
-4391584
+3950000,
+4305680
 );
 
 insert into `price` values 
 (
 69802,
-12000000,
-5924917
+11990000,
+7814120
 );
 
 insert into `price` values 
 (
 69803,
-14355000,
-15287703
+6965000,
+14550973
 );
 
 insert into `price` values 
 (
 69797,
-2500000,
-5192112
+3009186,
+4867872
 );
 
 insert into `price` values 
 (
 69798,
-9000000,
-2830331
+8300000,
+3902236
 );
 
 insert into `price` values 
 (
 69799,
-5010000,
-5759807
+4747500,
+5621903
 );
 
 insert into `price` values 
@@ -75431,8 +75515,8 @@ null
 insert into `price` values 
 (
 69864,
-50000000,
-null
+2000000,
+2000000
 );
 
 insert into `price` values 
@@ -75446,14 +75530,14 @@ insert into `price` values
 (
 69820,
 457579,
-950166
+877488
 );
 
 insert into `price` values 
 (
 63246,
-125194,
-null
+30000,
+30000
 );
 
 insert into `price` values 
@@ -75530,14 +75614,14 @@ insert into `price` values
 (
 69968,
 220000000,
-167826089
+196923080
 );
 
 insert into `price` values 
 (
 71365,
-98000000,
-null
+135861027,
+135861027
 );
 
 insert into `price` values 
@@ -75627,22 +75711,22 @@ null
 insert into `price` values 
 (
 70052,
-7550000,
-7060703
+7509000,
+7129966
 );
 
 insert into `price` values 
 (
 70068,
 5000000,
-5380953
+5352942
 );
 
 insert into `price` values 
 (
 70005,
-2000000,
-3974095
+6366751,
+3831540
 );
 
 insert into `price` values 
@@ -75662,8 +75746,8 @@ null
 insert into `price` values 
 (
 70007,
-5997500,
-6090552
+5991750,
+6076786
 );
 
 insert into `price` values 
@@ -75684,21 +75768,21 @@ insert into `price` values
 (
 70063,
 9999500,
-8463942
+8707282
 );
 
 insert into `price` values 
 (
 71720,
-5499999,
-7498226
+6000000,
+7276228
 );
 
 insert into `price` values 
 (
 70008,
-5250000,
-4655739
+5482500,
+4802707
 );
 
 insert into `price` values 
@@ -75711,15 +75795,15 @@ null
 insert into `price` values 
 (
 70064,
-1450000,
-1633558
+1005712,
+1611179
 );
 
 insert into `price` values 
 (
 70009,
-5970250,
-5557736
+5872750,
+5617270
 );
 
 insert into `price` values 
@@ -75740,56 +75824,56 @@ insert into `price` values
 (
 70010,
 2229648,
-3998606
+3938025
 );
 
 insert into `price` values 
 (
 70011,
-5997850,
-5097613
+5997239,
+5244504
 );
 
 insert into `price` values 
 (
 70004,
-5997750,
-6331250
+5872750,
+6249681
 );
 
 insert into `price` values 
 (
 70006,
-2497500,
-3813368
+5565236,
+3705389
 );
 
 insert into `price` values 
 (
 70014,
 5997032,
-6118152
+6101882
 );
 
 insert into `price` values 
 (
 70060,
 9999500,
-12191954
+11643840
 );
 
 insert into `price` values 
 (
 71155,
 2999500,
-2989220
+2990702
 );
 
 insert into `price` values 
 (
 70015,
-5995250,
-6449559
+5729182,
+6357635
 );
 
 insert into `price` values 
@@ -75802,15 +75886,15 @@ null
 insert into `price` values 
 (
 70061,
-3750000,
-3390793
+3749500,
+3442558
 );
 
 insert into `price` values 
 (
 70016,
-5990854,
-6248691
+5998587,
+6314972
 );
 
 insert into `price` values 
@@ -75823,8 +75907,8 @@ insert into `price` values
 insert into `price` values 
 (
 70062,
-1750000,
-2697791
+9999500,
+3176420
 );
 
 insert into `price` values 
@@ -75845,7 +75929,7 @@ insert into `price` values
 (
 70029,
 3000000,
-4709923
+4457639
 );
 
 insert into `price` values 
@@ -75873,7 +75957,7 @@ insert into `price` values
 (
 70025,
 3000000,
-4563104
+4424777
 );
 
 insert into `price` values 
@@ -75886,8 +75970,8 @@ insert into `price` values
 insert into `price` values 
 (
 70056,
-3989500,
-6633318
+4001553,
+6795799
 );
 
 insert into `price` values 
@@ -75921,22 +76005,22 @@ insert into `price` values
 insert into `price` values 
 (
 70065,
-4970946,
-5017343
+4920736,
+5010398
 );
 
 insert into `price` values 
 (
 70034,
-5000000,
-16531529
+4500000,
+14910851
 );
 
 insert into `price` values 
 (
 70071,
-6999999,
-22524066
+4509999,
+21212538
 );
 
 insert into `price` values 
@@ -75977,8 +76061,8 @@ insert into `price` values
 insert into `price` values 
 (
 70075,
-5008400,
-4718234
+5000000,
+4736710
 );
 
 insert into `price` values 
@@ -76033,8 +76117,8 @@ insert into `price` values
 insert into `price` values 
 (
 70012,
-5990250,
-6683349
+5729182,
+6560516
 );
 
 insert into `price` values 
@@ -76048,7 +76132,7 @@ insert into `price` values
 (
 70013,
 5319198,
-4867330
+4910110
 );
 
 insert into `price` values 
@@ -76089,15 +76173,15 @@ null
 insert into `price` values 
 (
 70053,
-4700000,
-5776337
+4699500,
+5470202
 );
 
 insert into `price` values 
 (
 70054,
-2949750,
-7158458
+2499500,
+6496277
 );
 
 insert into `price` values 
@@ -76110,8 +76194,8 @@ insert into `price` values
 insert into `price` values 
 (
 70069,
-7400000,
-6589307
+7118100,
+6686091
 );
 
 insert into `price` values 
@@ -76131,22 +76215,22 @@ null
 insert into `price` values 
 (
 69970,
-150000000,
-150000000
+450000000,
+191250001
 );
 
 insert into `price` values 
 (
 70033,
-5000000,
-16531529
+4500000,
+14910851
 );
 
 insert into `price` values 
 (
 70050,
-7019299,
-7994041
+6969616,
+7836614
 );
 
 insert into `price` values 
@@ -76160,7 +76244,7 @@ insert into `price` values
 (
 68915,
 250000000,
-250000000
+236364678
 );
 
 insert into `price` values 
@@ -76187,15 +76271,15 @@ insert into `price` values
 insert into `price` values 
 (
 71362,
-170000000,
-197492787
+210000000,
+200321720
 );
 
 insert into `price` values 
 (
 71367,
-149999700,
-178254830
+200009700,
+176459478
 );
 
 insert into `price` values 
@@ -76229,8 +76313,8 @@ insert into `price` values
 insert into `price` values 
 (
 71366,
-200000000,
-360815113
+220000000,
+345938537
 );
 
 insert into `price` values 
@@ -76251,7 +76335,7 @@ insert into `price` values
 (
 69963,
 60000000,
-91317862
+86771720
 );
 
 insert into `price` values 
@@ -76264,15 +76348,15 @@ null
 insert into `price` values 
 (
 71640,
-134900000,
-138138894
+90000000,
+132853279
 );
 
 insert into `price` values 
 (
 71077,
-80000000,
-111389810
+89900000,
+107387722
 );
 
 insert into `price` values 
@@ -76292,8 +76376,8 @@ insert into `price` values
 insert into `price` values 
 (
 70165,
-135000000,
-161911767
+220000000,
+166621624
 );
 
 insert into `price` values 
@@ -76313,8 +76397,8 @@ insert into `price` values
 insert into `price` values 
 (
 70138,
-30025000,
-50070448
+95000000,
+51538117
 );
 
 insert into `price` values 

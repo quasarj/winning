@@ -838,6 +838,13 @@ insert into `item` values
 
 insert into `item` values
 (
+10052,
+"Orange Martial Shirt"
+);
+
+
+insert into `item` values
+(
 2575,
 "Red Linen Shirt"
 );
@@ -15265,6 +15272,13 @@ insert into `item` values
 
 insert into `item` values
 (
+9378,
+"Shovelphlange's Mining Axe"
+);
+
+
+insert into `item` values
+(
 8271,
 "Ebonhold Leggings"
 );
@@ -15715,6 +15729,13 @@ insert into `item` values
 (
 24831,
 "Nexus-Strider Greaves"
+);
+
+
+insert into `item` values
+(
+29371,
+"Nexus-Claw"
 );
 
 
@@ -16583,6 +16604,13 @@ insert into `item` values
 (
 4091,
 "Widowmaker"
+);
+
+
+insert into `item` values
+(
+29372,
+"Void-Talon"
 );
 
 
@@ -22526,6 +22554,13 @@ insert into `item` values
 (
 1443,
 "Jeweled Amulet of Cainwyn"
+);
+
+
+insert into `item` values
+(
+29378,
+"Starheart Baton"
 );
 
 
@@ -35845,6 +35880,13 @@ insert into `item` values
 
 insert into `item` values
 (
+1214,
+"Gnoll Punisher"
+);
+
+
+insert into `item` values
+(
 14583,
 "Dokebi Gloves"
 );
@@ -41468,6 +41510,13 @@ insert into `item` values
 (
 2468,
 "Studded Bracers"
+);
+
+
+insert into `item` values
+(
+29391,
+"Pulse Dagger"
 );
 
 
@@ -60163,6 +60212,13 @@ insert into `item` values
 
 insert into `item` values
 (
+20531,
+"Scroll: Create Signet of Beckoning"
+);
+
+
+insert into `item` values
+(
 20860,
 "Silver Scarab"
 );
@@ -63194,6 +63250,13 @@ insert into `item` values
 
 insert into `item` values
 (
+29377,
+"Ethereum Phase-Spear"
+);
+
+
+insert into `item` values
+(
 44574,
 "Skin of Mulgore Firewater"
 );
@@ -63868,6 +63931,13 @@ insert into `item` values
 (
 19978,
 "Fishing Tournament!"
+);
+
+
+insert into `item` values
+(
+29380,
+"Ethereum Phase Blade"
 );
 
 
@@ -69767,6 +69837,13 @@ insert into `item` values
 
 insert into `item` values
 (
+62558,
+"Fortune Card"
+);
+
+
+insert into `item` values
+(
 62590,
 "Fortune Card"
 );
@@ -70686,6 +70763,13 @@ insert into `item` values
 (
 67141,
 "Corefire Legplates"
+);
+
+
+insert into `item` values
+(
+62574,
+"Fortune Card"
 );
 
 
