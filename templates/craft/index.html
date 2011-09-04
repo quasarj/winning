@@ -1,0 +1,28 @@
+{% load craft_extras %}
+{% include "craft/header.html" %}
+<h2>Well hello there!</h2>
+
+<p>
+    Pricing data was last imported: <strong>{{ time.time }}</strong>
+</p>
+
+<p>
+Some useful tiems:
+</p>
+<ul>
+{% for item in items %}
+	<li><a href="/item/{{ item.id }}">{{ item.name }}</a> ({{ item.price.price|gold }} | {{item.deep_profit|gold }})</li>
+{% endfor %}
+</ul>
+
+<h3><a href="/items">Full Item List</a></h3>
+
+
+<form action="/search/name/" method="get">
+<p>
+Search: <input type="text" name="search_name" />
+<input type="submit" value="Search" />
+</p>
+</form>
+
+{% include "craft/footer.html" %}
