@@ -18,9 +18,9 @@ urlpatterns = patterns('',
     #(r'^item/(?P<item_id>\d+)/$', 'craft.views.item'),
 
     #static media, DO NOT USE FOR PRODUCTION (per docs)
-    (r'^media/(?P<path>.*)$', 'django.views.static.serve',
-        {'document_root': settings.STATIC_DOC_ROOT,
-         'show_indexes': True}),
+    #(r'^media/(?P<path>.*)$', 'django.views.static.serve',
+    #    {'document_root': settings.STATIC_DOC_ROOT,
+    #     'show_indexes': True}),
 
     (r'^$', 'craft.views.index'),
     (r'^search/name/$', 'craft.views.search_name'),
@@ -33,6 +33,8 @@ urlpatterns = patterns('',
         'django.views.generic.list_detail.object_detail', info_dict),
 
     (r'^auctions/(?P<item_id>\d+)/$', 'craft.views.auctions'),
+
+    (r'^seller/(?P<owner>.+)/$', 'craft.views.seller'),
     
     # Uncomment the admin/doc line below to enable admin documentation:
     # (r'^admin/doc/', include('django.contrib.admindocs.urls')),

@@ -114,6 +114,13 @@ class RareGemValues(models.Model):
         db_table = u'rare_gem_values'
 
 
+class TopSellers(models.Model):
+    owner = models.CharField(max_length=45, primary_key=True)
+    auctions = models.IntegerField()
+
+    class Meta:
+        db_table = u'top_sellers'
+
 class Auctions(models.Model):
     auc = models.IntegerField(primary_key=True)
     time_left = models.CharField(max_length=10)

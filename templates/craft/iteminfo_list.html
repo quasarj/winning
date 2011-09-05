@@ -23,7 +23,9 @@
   {% for item in object_list %}
     <tr>
       <td>{{ item.id }}</td>
-      <td><a href="/item/{{ item.id }}">{{ item.name }}</a></td>
+      <td><a href="/item/{{ item.id }}" rel="item={{ item.id }}">
+        {{ item.name }}
+      </a></td>
       <td>{{ item.price.price|gold }}</td>
       <td>{{ item.iscrafted }}</td>
     </tr>

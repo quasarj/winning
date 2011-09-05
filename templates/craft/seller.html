@@ -1,0 +1,32 @@
+{% load craft_extras %}
+{% include "craft/header.html" %}
+
+<ul>
+    <li><a href="/">Home</a></li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Auction ID</th>
+        <th>Time Left</th>
+        <th>Seller</th>
+        <th>Buyout</th>
+        <th>Quantity</th>
+    </tr>
+{% for auction in auctions %}
+    <tr>
+        <td><a href="/item/{{ auction.item.id }}" 
+            rel="item={{ auction.item.id }}"
+            >{{ auction.item.name }}</a></td>
+        <td>{{ auction.auc }}</td>
+        <td>{{ auction.time_left }}</td>
+        <td>{{ auction.owner }}</td>
+        <td>{{ auction.buyout|gold }}</td>
+        <td>{{ auction.quantity }}</td>
+    </tr>
+{% endfor %}
+</table>
+
+
+{% include "craft/footer.html" %}

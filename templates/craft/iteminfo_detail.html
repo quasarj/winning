@@ -1,7 +1,11 @@
 {% load craft_extras %}
 
 {% include "craft/header.html" %}
-<h2>{{ object.name }}</h2>
+<h2>
+    <a href="#" rel="item={{ object.id }}">
+        {{ object.name }}
+    </a>
+</h2>
 <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/auctions/{{ object.id }}">View auctions</a></li>
@@ -25,7 +29,9 @@
 </tr>
 {% for item in object.craft_set.all %}
 <tr>
-    <td><a href="/item/{{ item.reagent.id }}">{{ item.reagent.name }}</a></td>
+    <td><a href="/item/{{ item.reagent.id }}"
+        rel="item={{ item.reagent.id }}"
+        >{{ item.reagent.name }}</a></td>
     <td>{{ item.count }}</td>
     <td>{{ item.reagent.price.price|gold }}</td>
 </tr>

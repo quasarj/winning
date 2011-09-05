@@ -11,9 +11,24 @@ Some useful tiems:
 </p>
 <ul>
 {% for item in items %}
-	<li><a href="/item/{{ item.id }}">{{ item.name }}</a> ({{ item.price.price|gold }} | {{item.deep_profit|gold }})</li>
+	<li>
+        <a href="/item/{{ item.id }}" rel="item={{ item.id }}">
+            {{ item.name }}
+        </a> 
+        ({{ item.price.price|gold }} | {{item.deep_profit|gold }})
+    </li>
 {% endfor %}
 </ul>
+
+<p>Top 10 sellers by volume:</p>
+<ul>
+{% for s in sellers %}
+    <li>
+        <a href="/seller/{{ s.owner }}">{{ s.owner }}</a> ({{ s.auctions }})
+    </li>
+{% endfor %}
+</ul>
+
 
 <h3><a href="/items">Full Item List</a></h3>
 
