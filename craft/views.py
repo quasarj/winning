@@ -25,6 +25,85 @@ def index(request):
     return render_to_response('craft/index.html', {'items': i, 'time': t, 'sellers': sellers })
 
 
+def undercut(request, owner):
+    from django.db import connection, transaction
+    cursor = connection.cursor()
+    # run undercut query
+
+    #cursor.execute("""
+    #    drop table if exists my_auctions;
+    #""")
+
+    cursor.execute("""
+        create table if not exists my_auctions (
+        item int,
+        price decimal);
+    """)
+
+    cursor.execute("truncate my_auctions;")
+
+    cursor.execute("""
+        insert into my_auctions
+        select item, min(buyout / quantity) as price
+        from auctions
+        where owner = %s
+        group by item;
+    """, [owner])
+
+    # the main query
+    cursor.execute("""
+        select
+            item_info.name,
+            lowest_price.item,
+            lowest_price.owner,
+            lowest_price.price / 10000 as their_price,
+            my_items.price / 10000 as my_price
+
+        from
+            (
+                -- get lowest price and the owner for each item
+                select distinct
+                    a.item, a.owner, a.price
+                from 
+                    (
+                        select 
+                            a.item,
+                            min(a.buyout / a.quantity) as price
+                        from auctions a, my_auctions
+                        where a.item = my_auctions.item
+                        group by a.item
+                        order by price
+                    ) min_price,
+                    (
+                        select a.item, a.owner, 
+                            a.buyout / a.quantity as price
+                        from auctions a, my_auctions m
+                        where a.item = m.item
+                    ) a
+                    
+                where a.item = min_price.item
+                  and a.price = min_price.price
+                                
+            ) lowest_price,
+            my_auctions as my_items,
+            item_info
+            
+        where lowest_price.item = my_items.item
+          and item_info.id = lowest_price.item
+          -- and owner != 'Aonah'
+
+        order by owner;
+    """)
+    
+    rows = cursor.fetchall()
+
+    cursor.execute("""
+        drop table if exists my_auctions;
+    """)
+
+    return render_to_response('craft/undercut.html', {'rows': rows})
+
+
 def search_name(request):
     if not request.GET['search_name']:
         raise Http404
