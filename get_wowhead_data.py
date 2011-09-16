@@ -6,6 +6,8 @@ import time
 import requests
 import MySQLdb
 
+import settings
+
 def getItemInfo(item_id):
 
 	#get it from the server
@@ -77,26 +79,24 @@ def insertCrafting(cursor, craft_table):
 								   item['quality'],
 								   item['count']] )
 
-
-con = MySQLdb.connect(  host="localhost",
-						user="quasar",
-						passwd="theeyeofra",
-						db="wow" )
+con = MySQLdb.connect(  settings.DATABASE_HOST,
+                        settings.DATABASE_USER,
+                        settings.DATABASE_PASS,
+                        settings.DATABASE_DB )
 
 cur = con.cursor()
 # Get a list of items that lack wowhead info
 cur.execute("""
-SELECT item.id 
+SELECT price.item
 
-FROM 
-    item
+FROM
+    price
 
-left join item_info on item_info.id = item.id
+left join item_info on item_info.id = price.item
 
 where item_info.id is null
-
 """)
-missing_items = cur.fetchall() #not used right now
+missing_items = cur.fetchall()
 
 count = 0
 for item in missing_items:

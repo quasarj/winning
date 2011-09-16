@@ -2,10 +2,12 @@
 
 import json
 import datetime
+import os
 
 import MySQLdb
 import requests
 
+import settings
 
 def insertAuc(cursor, auc):
 	ins_query = """
@@ -17,10 +19,10 @@ def insertAuc(cursor, auc):
 
 
 
-con = MySQLdb.connect(  host="localhost",
-						user="quasar",
-						passwd="theeyeofra",
-						db="wow" )
+con = MySQLdb.connect(  settings.DATABASE_HOST,
+						settings.DATABASE_USER,
+					    settings.DATABASE_PASS,
+						settings.DATABASE_DB )
 
 cur = con.cursor()
 
@@ -47,7 +49,10 @@ max_time = cur.fetchone()[0]
 
 
 if cur_time > max_time:
+#if True:
     print "Looks like new data, importing!"
+    print "(Exporting old data first)"
+    os.system('./export_auctions.sh')
 
     # add the cur_time to the db
     cur.execute("""
@@ -59,12 +64,20 @@ if cur_time > max_time:
     cur.execute("truncate auctions")
 
     new_data = requests.get(url)
+#    with open('data/%s' % cur_time, 'w') as outp:
+#        outp.write(new_data.content)
+
     data = json.loads(new_data.content)
 
     d = data['alliance']['auctions']
 
     for auc in d:
         insertAuc(cur, list(auc.values()))
+
+    # recalculate the price info
+    cur.callproc("generate_prices")
+else:
+    print "Not loading. cur_time: %s, max_time: %s" % (cur_time, max_time)
 
 con.close()
 
