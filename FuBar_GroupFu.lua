@@ -1,0 +1,2 @@
+
+GroupFuDB = nil

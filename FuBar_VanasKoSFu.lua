@@ -1,0 +1,9 @@
+
+VanasKoSFuDB = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}
