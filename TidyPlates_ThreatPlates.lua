@@ -121,27 +121,28 @@ ThreatPlatesDB = {
 				"Frost", -- [3]
 			},
 		},
-		["Aset - Auchindoun"] = {
-			["welcome"] = true,
+		["Promitto - Auchindoun"] = {
 			["spec"] = {
 				["secondary"] = true,
+				["primary"] = false,
 			},
+			["welcome"] = true,
 			["specInfo"] = {
 				{
-					nil, -- [1]
-					32, -- [2]
-					9, -- [3]
+					34, -- [1]
+					5, -- [2]
+					2, -- [3]
 				}, -- [1]
 				{
-					31, -- [1]
-					nil, -- [2]
-					10, -- [3]
+					nil, -- [1]
+					34, -- [2]
+					7, -- [3]
 				}, -- [2]
 			},
 			["specName"] = {
-				"Balance", -- [1]
-				"Feral Combat", -- [2]
-				"Restoration", -- [3]
+				"Holy", -- [1]
+				"Protection", -- [2]
+				"Retribution", -- [3]
 			},
 		},
 		["Sadr - Auchindoun"] = {
@@ -189,6 +190,29 @@ ThreatPlatesDB = {
 				"Restoration", -- [3]
 			},
 		},
+		["Aset - Auchindoun"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["secondary"] = true,
+			},
+			["specInfo"] = {
+				{
+					nil, -- [1]
+					32, -- [2]
+					9, -- [3]
+				}, -- [1]
+				{
+					31, -- [1]
+					nil, -- [2]
+					10, -- [3]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Balance", -- [1]
+				"Feral Combat", -- [2]
+				"Restoration", -- [3]
+			},
+		},
 		["Pulari - Auchindoun"] = {
 			["spec"] = {
 				["primary"] = false,
@@ -210,30 +234,6 @@ ThreatPlatesDB = {
 				"Beast Mastery", -- [1]
 				"Marksmanship", -- [2]
 				"Survival", -- [3]
-			},
-		},
-		["Promitto - Auchindoun"] = {
-			["spec"] = {
-				["secondary"] = true,
-				["primary"] = false,
-			},
-			["welcome"] = true,
-			["specInfo"] = {
-				{
-					34, -- [1]
-					5, -- [2]
-					2, -- [3]
-				}, -- [1]
-				{
-					nil, -- [1]
-					34, -- [2]
-					7, -- [3]
-				}, -- [2]
-			},
-			["specName"] = {
-				"Holy", -- [1]
-				"Protection", -- [2]
-				"Retribution", -- [3]
 			},
 		},
 		["Pooshield - Thrall"] = {
@@ -294,11 +294,11 @@ ThreatPlatesDB = {
 		["Deadset - Auchindoun"] = "Default",
 		["Gacrux - Auchindoun"] = "Default",
 		["Aonah - Auchindoun"] = "Default",
-		["Aset - Auchindoun"] = "Default",
+		["Promitto - Auchindoun"] = "Default",
 		["Sadr - Auchindoun"] = "Default",
 		["Pooshield - Arthas"] = "Default",
+		["Aset - Auchindoun"] = "Default",
 		["Pulari - Auchindoun"] = "Default",
-		["Promitto - Auchindoun"] = "Default",
 		["Pooshield - Thrall"] = "Default",
 		["Wezen - Auchindoun"] = "Default",
 		["Itsashaman - Arthas"] = "Default",

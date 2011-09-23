@@ -1,2 +1,0 @@
-
-GroupFuDB = nil

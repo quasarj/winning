@@ -1,3 +1,0 @@
-
-WGFormX = nil
-WGFormY = nil

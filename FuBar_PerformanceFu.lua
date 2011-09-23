@@ -1,9 +1,0 @@
-
-PerformanceFuDB = {
-	["profiles"] = {
-		["Default"] = {
-			["detachedTooltip"] = {
-			},
-		},
-	},
-}

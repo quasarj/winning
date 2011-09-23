@@ -1,2 +1,0 @@
-
-Cartographer_NoteshareDB = nil

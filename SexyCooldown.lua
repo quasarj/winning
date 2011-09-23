@@ -8,8 +8,8 @@ SexyCooldownDB = {
 		["Gacrux - Auchindoun"] = "Gacrux - Auchindoun",
 		["Wezen - Auchindoun"] = "Wezen - Auchindoun",
 		["Pooshield - Thrall"] = "Pooshield - Thrall",
-		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Aset - Auchindoun"] = "Aset - Auchindoun",
+		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
 		["Sadr - Auchindoun"] = "Sadr - Auchindoun",
 		["Aonah - Auchindoun"] = "Aonah - Auchindoun",
@@ -223,35 +223,6 @@ SexyCooldownDB = {
 				}, -- [1]
 			},
 		},
-		["Promitto - Auchindoun"] = {
-			["bars"] = {
-				{
-					["events"] = {
-					},
-					["bar"] = {
-						["fontColor"] = {
-						},
-						["borderColor"] = {
-						},
-						["height"] = 32.99999870064245,
-						["name"] = "Bar 0",
-						["backgroundColor"] = {
-						},
-						["width"] = 449.9999930245016,
-					},
-					["eventColors"] = {
-					},
-					["icon"] = {
-						["fontColor"] = {
-						},
-						["borderColor"] = {
-						},
-					},
-					["blacklist"] = {
-					},
-				}, -- [1]
-			},
-		},
 		["Aset - Auchindoun"] = {
 			["bars"] = {
 				{
@@ -295,6 +266,35 @@ SexyCooldownDB = {
 				}, -- [1]
 			},
 		},
+		["Promitto - Auchindoun"] = {
+			["bars"] = {
+				{
+					["events"] = {
+					},
+					["bar"] = {
+						["fontColor"] = {
+						},
+						["borderColor"] = {
+						},
+						["height"] = 32.99999870064245,
+						["name"] = "Bar 0",
+						["backgroundColor"] = {
+						},
+						["width"] = 449.9999930245016,
+					},
+					["eventColors"] = {
+					},
+					["icon"] = {
+						["fontColor"] = {
+						},
+						["borderColor"] = {
+						},
+					},
+					["blacklist"] = {
+					},
+				}, -- [1]
+			},
+		},
 		["Pulari - Auchindoun"] = {
 			["bars"] = {
 				{
@@ -334,19 +334,19 @@ SexyCooldownDB = {
 					["bar"] = {
 						["fontColor"] = {
 						},
-						["inactiveAlpha"] = 0.2,
+						["height"] = 32.99999870064245,
 						["backgroundColor"] = {
 						},
 						["width"] = 449.9999930245016,
 						["y"] = -354.8573556108008,
-						["flexible"] = false,
+						["x"] = -9.142695840480201,
 						["name"] = "Bar 0",
 						["borderColor"] = {
 						},
-						["height"] = 32.99999870064245,
+						["inactiveAlpha"] = 0.2,
 						["lock"] = true,
 						["advancedOptions"] = true,
-						["x"] = -9.142695840480201,
+						["flexible"] = false,
 					},
 					["eventColors"] = {
 					},

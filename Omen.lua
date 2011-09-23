@@ -59,19 +59,19 @@ Omen3DB = {
 			["VGrip2"] = 147.1999561308923,
 			["PositionY"] = 743.9522542178002,
 			["PositionW"] = 255.9998074215337,
-			["PositionH"] = 135.7143169574846,
-			["VGrip1"] = 108.7999675750073,
+			["Bar"] = {
+				["Texture"] = "Flat",
+			},
+			["PositionX"] = 1850.547407709882,
 			["Background"] = {
 				["Color"] = {
 					["a"] = 0,
 				},
-				["BorderTexture"] = "None",
 				["Texture"] = "Solid",
+				["BorderTexture"] = "None",
 			},
-			["PositionX"] = 1850.547407709882,
-			["Bar"] = {
-				["Texture"] = "Flat",
-			},
+			["VGrip1"] = 108.7999675750073,
+			["PositionH"] = 135.7143169574846,
 		},
 		["Sadr - Auchindoun"] = {
 			["VGrip2"] = 145.8859523224855,

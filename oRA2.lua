@@ -1,6 +1,0 @@
-
-oRADB = {
-	["disabled"] = {
-		["Default"] = true,
-	},
-}

@@ -4,18 +4,18 @@ TomTomDB = {
 		["Zik - Zuluhed"] = "Zik - Zuluhed",
 		["Ciid - Hellscream"] = "Ciid - Hellscream",
 		["Irone - Hellscream"] = "Irone - Hellscream",
-		["Japhaar - Hellscream"] = "Japhaar - Hellscream",
+		["Oxshield - Auchindoun"] = "Default",
 		["Sadr - Auchindoun"] = "Default",
 		["Thunderdome - Laughing Skull"] = "Thunderdome - Laughing Skull",
-		["Aonarah - Hellscream"] = "Aonarah - Hellscream",
-		["Oxshield - Auchindoun"] = "Default",
-		["Anabnak - Hellscream"] = "Anabnak - Hellscream",
 		["Abeninka - Hellscream"] = "Abeninka - Hellscream",
+		["Idsapme - Auchindoun"] = "Default",
+		["Anabnak - Hellscream"] = "Anabnak - Hellscream",
+		["Tamori - ChaosWoW Funserver"] = "Tamori - ChaosWoW Funserver",
 		["Aonah - Auchindoun"] = "Default",
 		["Dolivis - Hellscream"] = "Dolivis - Hellscream",
 		["Barimuri - Hellscream"] = "Barimuri - Hellscream",
 		["Ankra - Medivh"] = "Ankra - Medivh",
-		["Idsapme - Auchindoun"] = "Default",
+		["Japhaar - Hellscream"] = "Japhaar - Hellscream",
 		["Knasbank - Auchindoun"] = "Default",
 		["Itsashaman - Arthas"] = "Default",
 		["Pandohra - Auchindoun"] = "Default",
@@ -30,7 +30,7 @@ TomTomDB = {
 		["Promitto - Thorium Brotherhood"] = "Default",
 		["Kernelpanic - Auchindoun"] = "Default",
 		["Unlok - Auchindoun"] = "Default",
-		["Totemtusk - Auchindoun"] = "Default",
+		["Promitto - Auchindoun"] = "Default",
 		["Rudeadyet - Hellscream"] = "Rudeadyet - Hellscream",
 		["Chukk - Auchindoun"] = "Default",
 		["Deadset - Auchindoun"] = "Default",
@@ -40,7 +40,7 @@ TomTomDB = {
 		["Aniak - Garona"] = "Aniak - Garona",
 		["Pooshield - Arthas"] = "Default",
 		["Nohsk - Hellscream"] = "Nohsk - Hellscream",
-		["Pulari - Auchindoun"] = "Default",
+		["Gacrux - Thorium Brotherhood"] = "Default",
 		["Anokank - Hellscream"] = "Anokank - Hellscream",
 		["Chukk - Hellscream"] = "Chukk - Hellscream",
 		["Phoebeldia - Laughing Skull"] = "Phoebeldia - Laughing Skull",
@@ -48,15 +48,15 @@ TomTomDB = {
 		["Freezeforu - Zuluhed"] = "Default",
 		["Aona - Hellscream"] = "Aona - Hellscream",
 		["Wezen - Thorium Brotherhood"] = "Default",
-		["Gacrux - Thorium Brotherhood"] = "Default",
+		["Pulari - Auchindoun"] = "Default",
 		["Vanisa - Hellscream"] = "Vanisa - Hellscream",
 		["Pooshield - Thrall"] = "Default",
-		["Promitto - Auchindoun"] = "Default",
+		["Totemtusk - Auchindoun"] = "Default",
 		["Krisgurl - Hellscream"] = "Krisgurl - Hellscream",
 		["Wezen - Auchindoun"] = "Default",
 		["Xanaomi - Hellscream"] = "Xanaomi - Hellscream",
 		["Yttrium - Auchindoun"] = "Default",
-		["Tamori - ChaosWoW Funserver"] = "Tamori - ChaosWoW Funserver",
+		["Aonarah - Hellscream"] = "Aonarah - Hellscream",
 		["Bairra - Alterac valley (PVP - INSTA 70)"] = "Bairra - Alterac valley (PVP - INSTA 70)",
 		["Knas - Auchindoun"] = "Default",
 		["Pandohra - Zuluhed"] = "Default",
@@ -271,9 +271,9 @@ TomTomWaypointsMF = {
 		["Sadr - Auchindoun"] = "Sadr - Auchindoun",
 		["Wezen - Auchindoun"] = "Wezen - Auchindoun",
 		["Pooshield - Arthas"] = "Pooshield - Arthas",
+		["Aset - Auchindoun"] = "Aset - Auchindoun",
 		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
-		["Aset - Auchindoun"] = "Aset - Auchindoun",
 		["Pooshield - Thrall"] = "Pooshield - Thrall",
 		["Aonah - Auchindoun"] = "Aonah - Auchindoun",
 	},
@@ -297,6 +297,18 @@ TomTomWaypointsMF = {
 		["Chukk - Auchindoun"] = {
 		},
 		["Deadset - Auchindoun"] = {
+			[301] = {
+				["301:0:270000000:680000000:nil"] = {
+					301, -- [1]
+					0, -- [2]
+					0.27, -- [3]
+					0.6800000000000001, -- [4]
+					["crazy"] = true,
+					["world"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+				},
+			},
 		},
 		["Gacrux - Auchindoun"] = {
 		},
@@ -307,6 +319,8 @@ TomTomWaypointsMF = {
 		["Wezen - Auchindoun"] = {
 		},
 		["Pooshield - Arthas"] = {
+		},
+		["Aset - Auchindoun"] = {
 		},
 		["Promitto - Auchindoun"] = {
 			[467] = {
@@ -324,8 +338,6 @@ TomTomWaypointsMF = {
 			},
 		},
 		["Pulari - Auchindoun"] = {
-		},
-		["Aset - Auchindoun"] = {
 		},
 		["Pooshield - Thrall"] = {
 			[606] = {

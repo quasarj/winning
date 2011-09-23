@@ -245,9 +245,9 @@ DominosDB = {
 					["showstates"] = "[@pet,exists,nobonusbar:5]",
 				},
 				["bags"] = {
-					["hidden"] = true,
 					["point"] = "BOTTOMRIGHT",
 					["numButtons"] = 5,
+					["hidden"] = true,
 					["spacing"] = 2,
 				},
 			},
@@ -440,9 +440,9 @@ DominosDB = {
 					["showstates"] = "[target=vehicle,exists]",
 				},
 				["bags"] = {
-					["numButtons"] = 5,
 					["point"] = "BOTTOMRIGHT",
 					["hidden"] = true,
+					["numButtons"] = 5,
 					["spacing"] = 2,
 				},
 				["pet"] = {
@@ -626,9 +626,9 @@ DominosDB = {
 					["showTotems"] = true,
 				},
 				["bags"] = {
-					["numButtons"] = 5,
 					["point"] = "BOTTOMRIGHT",
 					["hidden"] = true,
+					["numButtons"] = 5,
 					["spacing"] = 2,
 				},
 				["pet"] = {
@@ -1164,9 +1164,9 @@ DominosDB = {
 					["width"] = 0.3,
 				},
 				["bags"] = {
-					["numButtons"] = 5,
 					["hidden"] = true,
 					["point"] = "BOTTOMRIGHT",
+					["numButtons"] = 5,
 					["spacing"] = 2,
 				},
 				["pet"] = {
@@ -1397,11 +1397,11 @@ DominosDB = {
 				["roll"] = {
 					["y"] = -390.1425294672803,
 					["x"] = -333.0008424092948,
-					["columns"] = 1,
+					["point"] = "TOPRIGHT",
 					["spacing"] = 2,
 					["scale"] = 1,
 					["numButtons"] = 4,
-					["point"] = "TOPRIGHT",
+					["columns"] = 1,
 				},
 			},
 			["ab"] = {
@@ -1609,11 +1609,11 @@ DominosDB = {
 					["y"] = -48.00043072875747,
 					["x"] = 74.05730730845065,
 					["point"] = "TOPLEFT",
-					["width"] = 0.24,
+					["texture"] = "blizzard",
 					["scale"] = 1,
 					["height"] = 14,
 					["alwaysShowText"] = true,
-					["texture"] = "blizzard",
+					["width"] = 0.24,
 				},
 				["vehicle"] = {
 					["y"] = 310.7144731539938,
@@ -1836,9 +1836,9 @@ DominosDB = {
 					["showstates"] = "[@pet,exists,nobonusbar:5]",
 				},
 				["bags"] = {
-					["point"] = "BOTTOMRIGHT",
 					["hidden"] = true,
 					["numButtons"] = 5,
+					["point"] = "BOTTOMRIGHT",
 					["spacing"] = 2,
 				},
 				["vehicle"] = {
@@ -2062,9 +2062,9 @@ DominosDB = {
 					["showstates"] = "[@vehicle,exists]",
 				},
 				["bags"] = {
-					["point"] = "BOTTOMRIGHT",
 					["hidden"] = true,
 					["numButtons"] = 5,
+					["point"] = "BOTTOMRIGHT",
 					["spacing"] = 2,
 				},
 				["pet"] = {

@@ -7,12 +7,12 @@ RecountDB = {
 		["Deadset - Auchindoun"] = "Deadset - Auchindoun",
 		["Gacrux - Auchindoun"] = "Gacrux - Auchindoun",
 		["Itsashaman - Arthas"] = "Itsashaman - Arthas",
-		["Wezen - Auchindoun"] = "Wezen - Auchindoun",
 		["Sadr - Auchindoun"] = "Sadr - Auchindoun",
+		["Wezen - Auchindoun"] = "Wezen - Auchindoun",
 		["Pooshield - Arthas"] = "Pooshield - Arthas",
-		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
 		["Aset - Auchindoun"] = "Aset - Auchindoun",
+		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pooshield - Thrall"] = "Pooshield - Thrall",
 		["Aonah - Auchindoun"] = "Aonah - Auchindoun",
 	},
@@ -112,10 +112,10 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -320.5555407307218,
-			["GraphWindowX"] = 0,
-			["ReportLines"] = 2,
-			["MainWindowWidth"] = 265.4446257238191,
 			["MainWindowHeight"] = 206.1111302215452,
+			["MainWindowWidth"] = 265.4446257238191,
+			["ReportLines"] = 2,
+			["GraphWindowX"] = 0,
 		},
 		["Gacrux - Auchindoun"] = {
 			["GraphWindowY"] = 0,
@@ -164,29 +164,6 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["CurDataSet"] = "OverallData",
 		},
-		["Wezen - Auchindoun"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -513.1430757475529,
-					["x"] = 593.142796727616,
-					["w"] = 140.0001157112092,
-					["h"] = 200.0000727640228,
-				},
-			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = 0,
-			["LastInstanceName"] = "Blackrock Caverns",
-			["CurDataSet"] = "LastFightData",
-			["GraphWindowX"] = 0,
-			["DetailWindowX"] = 0,
-		},
 		["Sadr - Auchindoun"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
@@ -215,6 +192,29 @@ RecountDB = {
 			["MainWindowWidth"] = 227.7777308033429,
 			["GraphWindowX"] = 0,
 		},
+		["Wezen - Auchindoun"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -513.1430757475529,
+					["x"] = 593.142796727616,
+					["w"] = 140.0001157112092,
+					["h"] = 200.0000727640228,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["LastInstanceName"] = "Blackrock Caverns",
+			["CurDataSet"] = "LastFightData",
+			["GraphWindowX"] = 0,
+			["DetailWindowX"] = 0,
+		},
 		["Pooshield - Arthas"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
@@ -239,31 +239,6 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["MainWindowWidth"] = 214.4444381376213,
 			["MainWindowHeight"] = 201.1110754433665,
-		},
-		["Promitto - Auchindoun"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -482.428587343259,
-					["x"] = 675.8569987261509,
-					["w"] = 222.2856905651118,
-					["h"] = 236.5713537753278,
-				},
-			},
-			["DetailWindowX"] = 294.8571698994113,
-			["LastInstanceName"] = "Icecrown Citadel",
-			["CurDataSet"] = "LastFightData",
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["DetailWindowY"] = -321.143010095803,
-			["MainWindowHeight"] = 236.5713664764398,
-			["MainWindowWidth"] = 222.2856028280211,
-			["GraphWindowX"] = 0,
 		},
 		["Pulari - Auchindoun"] = {
 			["GraphWindowY"] = 0,
@@ -331,6 +306,31 @@ RecountDB = {
 			["GraphWindowX"] = 0,
 			["MainWindowWidth"] = 252.5714440750933,
 			["MainWindowHeight"] = 284.571347357931,
+		},
+		["Promitto - Auchindoun"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -482.428587343259,
+					["x"] = 675.8569987261509,
+					["w"] = 222.2856905651118,
+					["h"] = 236.5713537753278,
+				},
+			},
+			["DetailWindowX"] = 294.8571698994113,
+			["LastInstanceName"] = "Icecrown Citadel",
+			["CurDataSet"] = "LastFightData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -321.143010095803,
+			["MainWindowHeight"] = 236.5713664764398,
+			["MainWindowWidth"] = 222.2856028280211,
+			["GraphWindowX"] = 0,
 		},
 		["Pooshield - Thrall"] = {
 			["GraphWindowY"] = 0,

@@ -1,4 +1,0 @@
-
-BrokerClockDB = {
-	["seconds"] = false,
-}

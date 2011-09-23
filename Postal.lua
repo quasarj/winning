@@ -195,10 +195,10 @@ Postal3DB = {
 		["Deadset - Auchindoun"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"promitto````|Auchindoun|Alliance", -- [1]
-					"Aonah|Auchindoun|Alliance", -- [2]
-					"aonah|Auchindoun|Alliance", -- [3]
-					"promitto|Auchindoun|Alliance", -- [4]
+					"promitto|Auchindoun|Alliance", -- [1]
+					"promitto````|Auchindoun|Alliance", -- [2]
+					"Aonah|Auchindoun|Alliance", -- [3]
+					"aonah|Auchindoun|Alliance", -- [4]
 					"Gacrux|Auchindoun|Alliance", -- [5]
 					"kernelpanic|Auchindoun|Alliance", -- [6]
 					"aset|Auchindoun|Alliance", -- [7]
