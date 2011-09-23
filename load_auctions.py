@@ -51,8 +51,6 @@ max_time = cur.fetchone()[0]
 if cur_time > max_time:
 #if True:
     print "Looks like new data, importing!"
-    print "(Exporting old data first)"
-    os.system('./export_auctions.sh')
 
     # add the cur_time to the db
     cur.execute("""
@@ -76,6 +74,12 @@ if cur_time > max_time:
 
     # recalculate the price info
     cur.callproc("generate_prices")
+
+    con.commit() #make sure it's committed before export
+
+    print "Exporting data"
+    os.system('./export_auctions.sh')
+
 else:
     print "Not loading. cur_time: %s, max_time: %s" % (cur_time, max_time)
 
