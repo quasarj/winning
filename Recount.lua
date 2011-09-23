@@ -10,9 +10,9 @@ RecountDB = {
 		["Sadr - Auchindoun"] = "Sadr - Auchindoun",
 		["Wezen - Auchindoun"] = "Wezen - Auchindoun",
 		["Pooshield - Arthas"] = "Pooshield - Arthas",
+		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
 		["Aset - Auchindoun"] = "Aset - Auchindoun",
-		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Pooshield - Thrall"] = "Pooshield - Thrall",
 		["Aonah - Auchindoun"] = "Aonah - Auchindoun",
 	},
@@ -98,9 +98,7 @@ RecountDB = {
 					["x"] = 922.1668179506381,
 				},
 			},
-			["DetailWindowX"] = 423.4444729467261,
-			["LastInstanceName"] = "Firelands",
-			["CurDataSet"] = "LastFightData",
+			["ReportLines"] = 2,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -112,10 +110,12 @@ RecountDB = {
 				},
 			},
 			["DetailWindowY"] = -320.5555407307218,
-			["MainWindowHeight"] = 206.1111302215452,
-			["MainWindowWidth"] = 265.4446257238191,
-			["ReportLines"] = 2,
+			["DetailWindowX"] = 423.4444729467261,
+			["LastInstanceName"] = "Blackrock Depths",
+			["CurDataSet"] = "LastFightData",
 			["GraphWindowX"] = 0,
+			["MainWindowWidth"] = 265.4446257238191,
+			["MainWindowHeight"] = 206.1111302215452,
 		},
 		["Gacrux - Auchindoun"] = {
 			["GraphWindowY"] = 0,
@@ -240,6 +240,31 @@ RecountDB = {
 			["MainWindowWidth"] = 214.4444381376213,
 			["MainWindowHeight"] = 201.1110754433665,
 		},
+		["Promitto - Auchindoun"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -482.428587343259,
+					["x"] = 675.8569987261509,
+					["w"] = 222.2856905651118,
+					["h"] = 236.5713537753278,
+				},
+			},
+			["DetailWindowX"] = 294.8571698994113,
+			["LastInstanceName"] = "Icecrown Citadel",
+			["CurDataSet"] = "LastFightData",
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = -321.143010095803,
+			["MainWindowHeight"] = 236.5713664764398,
+			["MainWindowWidth"] = 222.2856028280211,
+			["GraphWindowX"] = 0,
+		},
 		["Pulari - Auchindoun"] = {
 			["GraphWindowY"] = 0,
 			["MainWindow"] = {
@@ -276,17 +301,15 @@ RecountDB = {
 					["h"] = 285.0000235935976,
 				},
 			},
+			["DetailWindowX"] = 252.999995144506,
+			["LastInstanceName"] = "Ulduar",
+			["CurDataSet"] = "LastFightData",
 			["Colors"] = {
-				["Other Windows"] = {
-					["Background"] = {
-						["a"] = 0,
-					},
-				},
 				["Window"] = {
-					["Background"] = {
+					["Title"] = {
 						["a"] = 0,
 					},
-					["Title"] = {
+					["Background"] = {
 						["a"] = 0,
 					},
 				},
@@ -298,38 +321,15 @@ RecountDB = {
 						["a"] = 1,
 					},
 				},
-			},
-			["DetailWindowY"] = -284.0000686607884,
-			["DetailWindowX"] = 252.999995144506,
-			["LastInstanceName"] = "Blackrock Depths",
-			["CurDataSet"] = "LastFightData",
-			["GraphWindowX"] = 0,
-			["MainWindowWidth"] = 252.5714440750933,
-			["MainWindowHeight"] = 284.571347357931,
-		},
-		["Promitto - Auchindoun"] = {
-			["GraphWindowY"] = 0,
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = -482.428587343259,
-					["x"] = 675.8569987261509,
-					["w"] = 222.2856905651118,
-					["h"] = 236.5713537753278,
-				},
-			},
-			["DetailWindowX"] = 294.8571698994113,
-			["LastInstanceName"] = "Icecrown Citadel",
-			["CurDataSet"] = "LastFightData",
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
+				["Other Windows"] = {
+					["Background"] = {
+						["a"] = 0,
 					},
 				},
 			},
-			["DetailWindowY"] = -321.143010095803,
-			["MainWindowHeight"] = 236.5713664764398,
-			["MainWindowWidth"] = 222.2856028280211,
+			["DetailWindowY"] = -284.0000686607884,
+			["MainWindowHeight"] = 284.571347357931,
+			["MainWindowWidth"] = 252.5714440750933,
 			["GraphWindowX"] = 0,
 		},
 		["Pooshield - Thrall"] = {

@@ -371,8 +371,8 @@ MBFDB = {
 			},
 			["MBFHideMiniMapWorldMapButton"] = true,
 			["columns_or_rows"] = 1,
-			["padding"] = 0,
 			["MBFHideMiniMapTracking"] = true,
+			["padding"] = 0,
 			["locked"] = true,
 			["grabBlizzButtons"] = true,
 			["minimapButton"] = {
@@ -382,21 +382,15 @@ MBFDB = {
 			["disabledMail"] = false,
 		},
 		["Aset - Auchindoun"] = {
-			["MBFHideMiniMapVoiceChatFrame"] = true,
-			["MBFHideMiniMapWorldMapButton"] = true,
-			["columns_or_rows"] = 1,
-			["MBFHideGameTimeFrame"] = true,
-			["minimapButton"] = {
-				["minimapPos"] = 0,
-				["radius"] = 80,
-			},
-			["disabledMail"] = false,
-			["MBFHideMinimapZoomIn"] = true,
-			["altTitle"] = true,
-			["MBFHideMiniMapTracking"] = true,
 			["MBF_FrameLocation"] = {
 				[3] = -0.0007294638430595603,
 			},
+			["MBFHideMinimapZoomIn"] = true,
+			["altTitle"] = true,
+			["MBFHideMiniMapVoiceChatFrame"] = true,
+			["MBFHideMiniMapWorldMapButton"] = true,
+			["columns_or_rows"] = 1,
+			["MBFHideMiniMapTracking"] = true,
 			["customChildren"] = {
 				"MinimapButtonFrameDragButton", -- [1]
 				"MiniMapMailFrameDisabled", -- [2]
@@ -474,7 +468,13 @@ MBFDB = {
 				"LibDBIcon10_Skada", -- [74]
 				"DroodFocusMinimapButton", -- [75]
 			},
+			["MBFHideGameTimeFrame"] = true,
 			["grabBlizzButtons"] = true,
+			["minimapButton"] = {
+				["minimapPos"] = 0,
+				["radius"] = 80,
+			},
+			["disabledMail"] = false,
 		},
 		["Sadr - Auchindoun"] = {
 			["MBF_FrameLocation"] = {

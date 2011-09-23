@@ -26,41 +26,41 @@ BankStackDB = {
 	["profileKeys"] = {
 		["Kernelpanic - Auchindoun"] = "Default",
 		["Unlok - Auchindoun"] = "Unlok - Auchindoun",
-		["Promitto - Thorium Brotherhood"] = "Default",
-		["Meowfest - Auchindoun"] = "Default",
-		["Chukk - Auchindoun"] = "Chukk - Auchindoun",
+		["Pandohra - Zuluhed"] = "Pandohra - Zuluhed",
 		["Deadset - Auchindoun"] = "Default",
+		["Chukk - Auchindoun"] = "Chukk - Auchindoun",
+		["Meowfest - Auchindoun"] = "Default",
 		["Karrl - Auchindoun"] = "Default",
-		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
+		["Drybeard - Shadow Council"] = "Default",
 		["Relok - Auchindoun"] = "Relok - Auchindoun",
 		["Sadr - Auchindoun"] = "Default",
-		["Drybeard - Shadow Council"] = "Default",
-		["Totemtusk - Auchindoun"] = "Default",
+		["Pooshield - Arthas"] = "Default",
 		["Gacrux - Thorium Brotherhood"] = "Default",
+		["Totemtusk - Auchindoun"] = "Default",
 		["Zik - Zuluhed"] = "Zik - Zuluhed",
 		["Promitto - Auchindoun"] = "Promitto - Auchindoun",
 		["Aonah - Auchindoun"] = "Aonah - Auchindoun",
-		["Freezeforu - Zuluhed"] = "Freezeforu - Zuluhed",
 		["Gacrux - Zuluhed"] = "Default",
+		["Freezeforu - Zuluhed"] = "Freezeforu - Zuluhed",
+		["Idsapme - Auchindoun"] = "Default",
 		["Wezen - Thorium Brotherhood"] = "Default",
-		["Oxshield - Auchindoun"] = "Default",
-		["Pooshield - Thrall"] = "Default",
 		["Gacrux - Auchindoun"] = "Default",
 		["Pandohra - Auchindoun"] = "Pandohra - Auchindoun",
+		["Pooshield - Thrall"] = "Default",
 		["Ani - Hellscream"] = "Default",
-		["Idsapme - Auchindoun"] = "Default",
+		["Oxshield - Auchindoun"] = "Default",
 		["Wezen - Auchindoun"] = "Default",
 		["Knasbank - Auchindoun"] = "Knasbank - Auchindoun",
 		["Yttrium - Auchindoun"] = "Default",
 		["Aset - Auchindoun"] = "Aset - Auchindoun",
-		["Pooshield - Arthas"] = "Default",
+		["Pulari - Auchindoun"] = "Pulari - Auchindoun",
 		["Knas - Auchindoun"] = "Knas - Auchindoun",
-		["Pandohra - Zuluhed"] = "Pandohra - Zuluhed",
+		["Promitto - Thorium Brotherhood"] = "Default",
 	},
 	["profiles"] = {
 		["Zik - Zuluhed"] = {
 		},
-		["Aonah - Auchindoun"] = {
+		["Pandohra - Zuluhed"] = {
 		},
 		["Chukk - Auchindoun"] = {
 		},
@@ -68,24 +68,24 @@ BankStackDB = {
 		},
 		["Pandohra - Auchindoun"] = {
 		},
-		["Promitto - Auchindoun"] = {
+		["Unlok - Auchindoun"] = {
 		},
 		["Relok - Auchindoun"] = {
 		},
-		["Aset - Auchindoun"] = {
-			["conjured"] = true,
+		["Pulari - Auchindoun"] = {
 		},
 		["Default"] = {
 		},
 		["Knasbank - Auchindoun"] = {
 		},
-		["Pulari - Auchindoun"] = {
+		["Aset - Auchindoun"] = {
+			["conjured"] = true,
 		},
-		["Unlok - Auchindoun"] = {
+		["Promitto - Auchindoun"] = {
 		},
 		["Knas - Auchindoun"] = {
 		},
-		["Pandohra - Zuluhed"] = {
+		["Aonah - Auchindoun"] = {
 		},
 	},
 }

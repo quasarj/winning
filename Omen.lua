@@ -56,22 +56,22 @@ Omen3DB = {
 			["VGrip1"] = 102.4857092866784,
 		},
 		["Deadset - Auchindoun"] = {
+			["PositionW"] = 255.9998074215337,
+			["PositionH"] = 135.7143169574846,
 			["VGrip2"] = 147.1999561308923,
 			["PositionY"] = 743.9522542178002,
-			["PositionW"] = 255.9998074215337,
-			["Bar"] = {
-				["Texture"] = "Flat",
-			},
-			["PositionX"] = 1850.547407709882,
 			["Background"] = {
+				["BorderTexture"] = "None",
 				["Color"] = {
 					["a"] = 0,
 				},
 				["Texture"] = "Solid",
-				["BorderTexture"] = "None",
 			},
 			["VGrip1"] = 108.7999675750073,
-			["PositionH"] = 135.7143169574846,
+			["PositionX"] = 1850.547407709882,
+			["Bar"] = {
+				["Texture"] = "Flat",
+			},
 		},
 		["Sadr - Auchindoun"] = {
 			["VGrip2"] = 145.8859523224855,
@@ -206,12 +206,12 @@ Omen3DB = {
 			["Warnings"] = {
 				["Sound"] = false,
 			},
-			["PositionX"] = 1629.214219587742,
+			["VGrip1"] = 111.2284109650913,
 			["Background"] = {
 				["Texture"] = "Blizzard Dialog Background",
 				["BorderTexture"] = "None",
 			},
-			["VGrip1"] = 111.2284109650913,
+			["PositionX"] = 1629.214219587742,
 			["PositionH"] = 181.4286027371379,
 		},
 		["Wezen - Auchindoun"] = {
@@ -263,30 +263,30 @@ Omen3DB = {
 			["PositionH"] = 81.9999860828502,
 		},
 		["Aset - Auchindoun"] = {
-			["PositionW"] = 341.7138801287772,
-			["PositionH"] = 196.8570684114368,
-			["VGrip2"] = 196.4855427761355,
-			["PositionY"] = 831.1427035722301,
-			["Locked"] = true,
-			["Background"] = {
-				["BorderTexture"] = "None",
-				["Texture"] = "None",
-			},
 			["MinimapIcon"] = {
 				["minimapPos"] = 248.5097544565978,
 			},
+			["PositionW"] = 341.7138801287772,
 			["ShowWith"] = {
 				["HideWhenOOC"] = true,
 			},
 			["VGrip1"] = 145.2284446606219,
+			["PositionH"] = 196.8570684114368,
+			["VGrip2"] = 196.4855427761355,
+			["PositionY"] = 831.1427035722301,
 			["PositionX"] = 1566.859342529945,
 			["Warnings"] = {
 				["Sound"] = false,
 			},
+			["Locked"] = true,
+			["Background"] = {
+				["Texture"] = "None",
+				["BorderTexture"] = "None",
+			},
 			["CollapseHide"] = true,
 			["Bar"] = {
-				["Texture"] = "Flat",
 				["Spacing"] = 1,
+				["Texture"] = "Flat",
 			},
 		},
 		["Gacrux - Zuluhed"] = {

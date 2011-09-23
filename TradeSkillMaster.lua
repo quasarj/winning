@@ -8,8 +8,8 @@ TradeSkillMasterDB = {
 		["Wezen - Auchindoun"] = "Default",
 		["Sadr - Auchindoun"] = "Default",
 		["Aset - Auchindoun"] = "Default",
-		["Promitto - Auchindoun"] = "Default",
 		["Pulari - Auchindoun"] = "Default",
+		["Promitto - Auchindoun"] = "Default",
 		["Aonah - Auchindoun"] = "Default",
 	},
 	["profiles"] = {

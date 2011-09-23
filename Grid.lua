@@ -1199,8 +1199,6 @@ GridDB = {
 		["GridStatus"] = {
 			["profiles"] = {
 				["realm/Auchindoun - Horde"] = {
-					["range"] = false,
-					["debug"] = false,
 					["colors"] = {
 						["UNKNOWN_UNIT"] = {
 							["a"] = 1,
@@ -1258,8 +1256,11 @@ GridDB = {
 							["b"] = 0.8,
 						},
 					},
+					["range"] = false,
+					["debug"] = false,
 				},
 				["class/Druid"] = {
+					["debug"] = false,
 					["colors"] = {
 						["HUNTER"] = {
 							["r"] = 0.67,
@@ -1368,7 +1369,6 @@ GridDB = {
 						},
 					},
 					["range"] = false,
-					["debug"] = false,
 				},
 				["char/Aset - Auchindoun"] = {
 					["colors"] = {
@@ -1425,6 +1425,7 @@ GridDB = {
 					},
 				},
 				["realm/Auchindoun - Alliance"] = {
+					["debug"] = false,
 					["range"] = false,
 					["colors"] = {
 						["UNKNOWN_UNIT"] = {
@@ -1533,7 +1534,6 @@ GridDB = {
 							["b"] = 0.8,
 						},
 					},
-					["debug"] = false,
 				},
 				["asdf"] = {
 					["colors"] = {
@@ -1590,8 +1590,6 @@ GridDB = {
 					},
 				},
 				["class/Priest"] = {
-					["range"] = false,
-					["debug"] = false,
 					["colors"] = {
 						["Dragonkin"] = {
 							["a"] = 1,
@@ -1699,10 +1697,10 @@ GridDB = {
 							["r"] = 0.5,
 						},
 					},
-				},
-				["char/Promitto - Auchindoun"] = {
 					["range"] = false,
 					["debug"] = false,
+				},
+				["char/Promitto - Auchindoun"] = {
 					["colors"] = {
 						["UNKNOWN_UNIT"] = {
 							["a"] = 1,
@@ -1760,6 +1758,8 @@ GridDB = {
 							["b"] = 0.8,
 						},
 					},
+					["range"] = false,
+					["debug"] = false,
 				},
 				["Default"] = {
 					["colors"] = {
@@ -1816,8 +1816,6 @@ GridDB = {
 					},
 				},
 				["char/Chukk - Auchindoun"] = {
-					["range"] = false,
-					["debug"] = false,
 					["colors"] = {
 						["HUNTER"] = {
 							["b"] = 0.45,
@@ -1925,6 +1923,8 @@ GridDB = {
 							["b"] = 0,
 						},
 					},
+					["range"] = false,
+					["debug"] = false,
 				},
 				["Aset - Auchindoun"] = {
 					["colors"] = {
@@ -2089,8 +2089,6 @@ GridDB = {
 					},
 				},
 				["class/Paladin"] = {
-					["range"] = false,
-					["debug"] = false,
 					["colors"] = {
 						["Dragonkin"] = {
 							["a"] = 1,
@@ -2148,6 +2146,8 @@ GridDB = {
 							["b"] = 0.5,
 						},
 					},
+					["range"] = false,
+					["debug"] = false,
 				},
 			},
 		},
@@ -4630,10 +4630,10 @@ GridDB = {
 							["debuff_magic"] = true,
 						},
 						["text2"] = {
-							["alert_offline"] = true,
-							["alert_feignDeath"] = true,
-							["alert_death"] = true,
 							["debuff_Ghost"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["alert_feignDeath"] = true,
 						},
 						["manabar"] = {
 						},
@@ -4753,10 +4753,10 @@ GridDB = {
 							["debuff_magic"] = true,
 						},
 						["text2"] = {
-							["alert_feignDeath"] = true,
-							["alert_offline"] = true,
-							["alert_death"] = true,
 							["debuff_Ghost"] = true,
+							["alert_feignDeath"] = true,
+							["alert_death"] = true,
+							["alert_offline"] = true,
 						},
 						["manabar"] = {
 						},
@@ -4847,10 +4847,10 @@ GridDB = {
 							["debuff_magic"] = true,
 						},
 						["text2"] = {
-							["debuff_Ghost"] = true,
-							["alert_feignDeath"] = true,
-							["alert_death"] = true,
 							["alert_offline"] = true,
+							["debuff_Ghost"] = true,
+							["alert_death"] = true,
+							["alert_feignDeath"] = true,
 						},
 						["manabar"] = {
 						},
@@ -4943,10 +4943,10 @@ GridDB = {
 						["corner2"] = {
 						},
 						["text2"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
 							["alert_feignDeath"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["debuff_Ghost"] = true,
 						},
 						["manabar"] = {
 						},
@@ -5036,10 +5036,10 @@ GridDB = {
 						["corner2"] = {
 						},
 						["text2"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
 							["alert_feignDeath"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["debuff_Ghost"] = true,
 						},
 						["manabar"] = {
 						},
@@ -5211,10 +5211,10 @@ GridDB = {
 							["debuff_magic"] = true,
 						},
 						["text2"] = {
-							["alert_feignDeath"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
 							["alert_offline"] = true,
+							["alert_feignDeath"] = true,
+							["alert_death"] = true,
+							["debuff_Ghost"] = true,
 						},
 						["manabar"] = {
 						},
@@ -5322,10 +5322,10 @@ GridDB = {
 						["corner2"] = {
 						},
 						["text2"] = {
-							["alert_offline"] = true,
-							["debuff_Ghost"] = true,
-							["alert_death"] = true,
 							["alert_feignDeath"] = true,
+							["alert_offline"] = true,
+							["alert_death"] = true,
+							["debuff_Ghost"] = true,
 						},
 						["manabar"] = {
 						},
@@ -5410,10 +5410,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["arena"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["arena"] = "By Group 5",
+						["bg"] = "By Group 40",
+						["heroic_raid"] = "By Group 25",
 					},
 					["BackgroundB"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5442,10 +5442,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["arena"] = "By Group 5",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["heroic_raid"] = "By Group 25",
+						["bg"] = "By Group 40",
+						["arena"] = "By Group 5",
 					},
 					["BackgroundB"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5485,10 +5485,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["arena"] = "By Group 5",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["heroic_raid"] = "By Group 25",
+						["bg"] = "By Group 40",
+						["arena"] = "By Group 5",
 					},
 					["BackgroundB"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5524,10 +5524,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["arena"] = "By Group 5",
-						["raid"] = "By Group 10",
-						["bg"] = "By Group 40",
 						["heroic_raid"] = "By Group 25",
+						["arena"] = "By Group 5",
+						["bg"] = "By Group 40",
+						["raid"] = "By Group 10",
 					},
 					["BackgroundR"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5557,10 +5557,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["arena"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["arena"] = "By Group 5",
+						["bg"] = "By Group 40",
+						["heroic_raid"] = "By Group 25",
 					},
 					["BackgroundB"] = 0.1019607843137255,
 					["ScaleSize"] = 1,
@@ -5605,10 +5605,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["arena"] = "By Group 5",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["heroic_raid"] = "By Group 25",
+						["bg"] = "By Group 40",
+						["arena"] = "By Group 5",
 					},
 					["BackgroundR"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5656,10 +5656,10 @@ GridDB = {
 					["layouts"] = {
 						["party"] = "By Group 5",
 						["solo"] = "By Group 5",
-						["arena"] = "By Group 5",
-						["heroic_raid"] = "By Group 25",
-						["bg"] = "By Group 40",
 						["raid"] = "By Group 10",
+						["arena"] = "By Group 5",
+						["bg"] = "By Group 40",
+						["heroic_raid"] = "By Group 25",
 					},
 					["BackgroundB"] = 0.1,
 					["ScaleSize"] = 1,
@@ -5714,15 +5714,15 @@ GridDB = {
 					},
 					["abolish"] = true,
 					["debuff_curse"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.6,
 							["g"] = 0,
 							["b"] = 1,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Curse",
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
@@ -5794,15 +5794,15 @@ GridDB = {
 						["desc"] = "Buff: Power Word: Shield",
 					},
 					["debuff_disease"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.6,
 							["g"] = 0.4,
 							["b"] = 0,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Disease",
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -5821,15 +5821,15 @@ GridDB = {
 						["desc"] = "Buff: Regrowth",
 					},
 					["debuff_poison"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0,
 							["g"] = 0.6,
 							["b"] = 0,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Poison",
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -5874,15 +5874,15 @@ GridDB = {
 						["desc"] = "Buff: Lifebloom",
 					},
 					["debuff_magic"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.2,
 							["g"] = 0.6,
 							["b"] = 1,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Magic",
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -5922,44 +5922,44 @@ GridDB = {
 					},
 					["abolish"] = true,
 					["debuff_curse"] = {
-						["enable"] = true,
 						["order"] = 25,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
+						["priority"] = 90,
+						["enable"] = true,
 						["text"] = "Curse",
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
 					},
 					["debuff_poison"] = {
-						["enable"] = true,
 						["order"] = 25,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
+						["priority"] = 90,
+						["enable"] = true,
 						["text"] = "Poison",
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
 					},
 					["debug"] = false,
 					["debuff_disease"] = {
-						["enable"] = true,
 						["order"] = 25,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
+						["priority"] = 90,
+						["enable"] = true,
 						["text"] = "Disease",
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6082,15 +6082,15 @@ GridDB = {
 						["desc"] = "Buff: Lifebloom",
 					},
 					["debuff_magic"] = {
-						["enable"] = true,
 						["order"] = 25,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
+						["priority"] = 90,
+						["enable"] = true,
 						["text"] = "Magic",
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -6145,29 +6145,29 @@ GridDB = {
 					},
 					["abolish"] = true,
 					["debuff_curse"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.6,
 							["g"] = 0,
 							["b"] = 1,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Curse",
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
 					},
 					["debuff_poison"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0,
 							["g"] = 0.6,
 							["b"] = 0,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Poison",
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -6265,15 +6265,15 @@ GridDB = {
 						["desc"] = "Debuff: Ghost",
 					},
 					["debuff_disease"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.6,
 							["g"] = 0.4,
 							["b"] = 0,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Disease",
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6305,15 +6305,15 @@ GridDB = {
 						["desc"] = "Buff: Lifebloom",
 					},
 					["debuff_magic"] = {
-						["order"] = 25,
 						["enable"] = true,
-						["priority"] = 90,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.2,
 							["g"] = 0.6,
 							["b"] = 1,
 						},
+						["priority"] = 90,
+						["order"] = 25,
 						["text"] = "Magic",
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -6321,15 +6321,15 @@ GridDB = {
 				},
 				["realm/Auchindoun - Horde"] = {
 					["debuff_curse"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Curse",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Curse",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
@@ -6349,15 +6349,15 @@ GridDB = {
 					},
 					["debug"] = false,
 					["debuff_disease"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Disease",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Disease",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6389,15 +6389,15 @@ GridDB = {
 						["desc"] = "Buff: Renew",
 					},
 					["debuff_poison"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Poison",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["order"] = 25,
-						["text"] = "Poison",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -6456,15 +6456,15 @@ GridDB = {
 						["desc"] = "Debuff: Weakened Soul",
 					},
 					["debuff_magic"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Magic",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["order"] = 25,
-						["text"] = "Magic",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -6527,15 +6527,15 @@ GridDB = {
 					},
 					["abolish"] = true,
 					["debuff_curse"] = {
-						["order"] = 25,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["text"] = "Curse",
 						["enable"] = true,
+						["text"] = "Curse",
+						["order"] = 25,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
@@ -6607,15 +6607,15 @@ GridDB = {
 						["desc"] = "Buff: Power Word: Shield",
 					},
 					["debuff_disease"] = {
-						["order"] = 25,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["text"] = "Disease",
 						["enable"] = true,
+						["text"] = "Disease",
+						["order"] = 25,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6634,15 +6634,15 @@ GridDB = {
 						["desc"] = "Buff: Regrowth",
 					},
 					["debuff_poison"] = {
-						["order"] = 25,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["text"] = "Poison",
 						["enable"] = true,
+						["text"] = "Poison",
+						["order"] = 25,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -6687,15 +6687,15 @@ GridDB = {
 						["desc"] = "Buff: Lifebloom",
 					},
 					["debuff_magic"] = {
-						["order"] = 25,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["text"] = "Magic",
 						["enable"] = true,
+						["text"] = "Magic",
+						["order"] = 25,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -6713,15 +6713,15 @@ GridDB = {
 				},
 				["char/Promitto - Auchindoun"] = {
 					["debuff_curse"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Curse",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Curse",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
@@ -6741,15 +6741,15 @@ GridDB = {
 					},
 					["debug"] = false,
 					["debuff_disease"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Disease",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Disease",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6781,15 +6781,15 @@ GridDB = {
 						["desc"] = "Buff: Renew",
 					},
 					["debuff_poison"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Poison",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["order"] = 25,
-						["text"] = "Poison",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -6848,15 +6848,15 @@ GridDB = {
 						["desc"] = "Debuff: Weakened Soul",
 					},
 					["debuff_magic"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Magic",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["order"] = 25,
-						["text"] = "Magic",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -6864,15 +6864,15 @@ GridDB = {
 				},
 				["class/Paladin"] = {
 					["debuff_curse"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Curse",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Curse",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Curse",
@@ -6892,15 +6892,15 @@ GridDB = {
 					},
 					["debug"] = false,
 					["debuff_disease"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Disease",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.4,
 							["r"] = 0.6,
 						},
-						["order"] = 25,
-						["text"] = "Disease",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Disease",
@@ -6932,15 +6932,15 @@ GridDB = {
 						["desc"] = "Buff: Renew",
 					},
 					["debuff_poison"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Poison",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0,
 							["g"] = 0.6,
 							["r"] = 0,
 						},
-						["order"] = 25,
-						["text"] = "Poison",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Poison",
@@ -6999,15 +6999,15 @@ GridDB = {
 						["desc"] = "Debuff: Weakened Soul",
 					},
 					["debuff_magic"] = {
+						["order"] = 25,
+						["enable"] = true,
+						["text"] = "Magic",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 1,
 							["g"] = 0.6,
 							["r"] = 0.2,
 						},
-						["order"] = 25,
-						["text"] = "Magic",
-						["enable"] = true,
 						["priority"] = 90,
 						["range"] = false,
 						["desc"] = "Debuff type: Magic",
@@ -11285,17 +11285,17 @@ GridDB = {
 				["class/Priest"] = {
 					["debug"] = false,
 					["alert_mt"] = {
-						["priority"] = 60,
+						["text"] = "MTs",
 						["enable"] = true,
 						["general"] = false,
-						["text"] = "MTs",
+						["opacity"] = 1,
 						["color"] = {
 							["a"] = 1,
 							["r"] = 0.78,
 							["g"] = 0.52,
 							["b"] = 0.28,
 						},
-						["opacity"] = 1,
+						["priority"] = 60,
 						["range"] = false,
 						["numbered"] = false,
 					},
@@ -11332,17 +11332,17 @@ GridDB = {
 				},
 				["char/Chukk - Auchindoun"] = {
 					["alert_mt"] = {
-						["priority"] = 60,
+						["opacity"] = 1,
 						["enable"] = true,
 						["general"] = false,
-						["opacity"] = 1,
+						["text"] = "MTs",
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0.28,
 							["g"] = 0.52,
 							["r"] = 0.78,
 						},
-						["text"] = "MTs",
+						["priority"] = 60,
 						["range"] = false,
 						["numbered"] = false,
 					},
@@ -11351,7 +11351,7 @@ GridDB = {
 				["char/Aset - Auchindoun"] = {
 					["debug"] = false,
 					["alert_mt"] = {
-						["priority"] = 60,
+						["opacity"] = 1,
 						["color"] = {
 							["a"] = 0.4,
 							["b"] = 1,
@@ -11359,9 +11359,9 @@ GridDB = {
 							["r"] = 1,
 						},
 						["general"] = false,
-						["opacity"] = 1,
-						["enable"] = true,
 						["text"] = "MTs",
+						["enable"] = true,
+						["priority"] = 60,
 						["range"] = false,
 						["numbered"] = false,
 					},
@@ -11369,17 +11369,17 @@ GridDB = {
 				["class/Druid"] = {
 					["debug"] = false,
 					["alert_mt"] = {
-						["priority"] = 60,
+						["opacity"] = 1,
 						["enable"] = true,
 						["general"] = false,
-						["opacity"] = 1,
+						["text"] = "MTs",
 						["color"] = {
 							["a"] = 0.4,
 							["r"] = 1,
 							["g"] = 1,
 							["b"] = 1,
 						},
-						["text"] = "MTs",
+						["priority"] = 60,
 						["range"] = false,
 						["numbered"] = false,
 					},
@@ -11387,17 +11387,17 @@ GridDB = {
 				["realm/Auchindoun - Alliance"] = {
 					["debug"] = false,
 					["alert_mt"] = {
-						["priority"] = 60,
+						["text"] = "MTs",
 						["enable"] = true,
 						["general"] = false,
-						["text"] = "MTs",
+						["opacity"] = 1,
 						["color"] = {
 							["a"] = 1,
 							["b"] = 0.28,
 							["g"] = 0.52,
 							["r"] = 0.78,
 						},
-						["opacity"] = 1,
+						["priority"] = 60,
 						["range"] = false,
 						["numbered"] = false,
 					},
