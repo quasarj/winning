@@ -75,10 +75,13 @@ if cur_time > max_time:
     # recalculate the price info
     cur.callproc("generate_prices")
 
+    # append price info to the history table
+    cur.callproc("add_history")
+
     con.commit() #make sure it's committed before export
 
-    print "Exporting data"
-    os.system('./export_auctions.sh')
+#    print "Exporting data"
+#    os.system('./export_auctions.sh')
 
 else:
     print "Not loading. cur_time: %s, max_time: %s" % (cur_time, max_time)
