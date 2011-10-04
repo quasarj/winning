@@ -1,4 +1,4 @@
-cd /home/quasar/work/crafting/xslt_test
+cd /home/quasar/work/crafting/winning/scripts
 ./load_auctions.py
 ./get_wowhead_data.py
 # ./export_auctions.sh
