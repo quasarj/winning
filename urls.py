@@ -25,6 +25,7 @@ urlpatterns = patterns('',
     (r'^$', 'craft.views.index'),
     (r'^search/name/$', 'craft.views.search_name'),
     (r'^undercut/(?P<owner>.+)/$', 'craft.views.undercut'),
+    (r'^history/(?P<item>\d+)/$', 'craft.views.history'),
 
     (r'^items/$',
         'django.views.generic.list_detail.object_list', 

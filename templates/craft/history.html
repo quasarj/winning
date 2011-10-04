@@ -1,0 +1,33 @@
+{% load craft_extras %}
+{% include "craft/header.html" %}
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+<ul>
+    <li><a href="/">Home</a></li>
+</ul>
+
+<h2>{{ item.name }}</h2>
+
+<script type="text/javascript">
+      google.load("visualization", "1", {packages:["annotatedtimeline"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('date', 'Date');
+        data.addColumn('number', 'Price');
+        data.addColumn('number', 'Depth');
+        data.addRows(200);
+{% for row in rows %}
+        data.setValue({{ forloop.counter0 }}, 0, new Date('{{ row.0|date:"M d, Y H:i" }}'));
+        data.setValue({{ forloop.counter0 }}, 1, {{ row.1 }});
+        data.setValue({{ forloop.counter0 }}, 2, {{ row.2 }});
+{% endfor %}
+        var chart = new google.visualization.AnnotatedTimeLine(document.getElementById('chart_div'));
+        chart.draw(data, {displayAnnotations: true});
+      }
+    </script>
+
+<div id="chart_div" style="height: 500px; width: 1000px;"></div>
+
+{% include "craft/footer.html" %}

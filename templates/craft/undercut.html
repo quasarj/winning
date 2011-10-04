@@ -1,0 +1,28 @@
+{% load craft_extras %}
+{% include "craft/header.html" %}
+
+<ul>
+    <li><a href="/">Home</a></li>
+</ul>
+
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Seller</th>
+        <th>Their Price</th>
+        <th>Your Price</th>
+    </tr>
+
+{% for row in rows %}
+    <tr>
+        <td><a href="/item/{{ row.1 }}">{{ row.0 }}</a></td>
+        <td>{{ row.2 }}</td>
+        <td>{{ row.3 }}</td>
+        <td>{{ row.4 }}</td>
+    </tr>
+{% endfor %}
+
+</table>
+
+
+{% include "craft/footer.html" %}

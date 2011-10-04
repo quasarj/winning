@@ -24,6 +24,32 @@ def index(request):
 
     return render_to_response('craft/index.html', {'items': i, 'time': t, 'sellers': sellers })
 
+def history(request, item):
+    from django.db import connection, transaction
+    cursor = connection.cursor()
+
+    i = ItemInfo.objects.get(pk=item)   
+
+    # do the history queries
+    cursor.execute("""
+        select
+            ph.time,
+            ph.price / 10000,
+            ph.depth
+        from
+            price_history ph
+        where
+            ph.item = %s 
+        order by time desc
+        limit 200
+    """, [item])
+
+    rows = cursor.fetchall()
+    
+    rows = list(rows)
+    rows.reverse() # this order is more useful
+
+    return render_to_response('craft/history.html', {'item': i, 'rows': rows})
 
 def undercut(request, owner):
     from django.db import connection, transaction
