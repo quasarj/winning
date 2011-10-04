@@ -1,0 +1,21 @@
+<VirtualHost 69.164.198.123:80>
+
+    ServerName winning.quasarj.com
+
+    Alias /favicon.ico /home/winning/app/media/favicon.ico
+    Alias /media/ /home/winning/app/media/
+	
+    <Directory /home/winning/app/media>
+        Order allow,deny
+        Allow from all
+    </Directory>
+
+
+    <Directory /home/winning>
+        Order allow,deny
+        Allow from all
+    </Directory>
+
+    WSGIScriptAlias / /home/winning/winning-django.wsgi
+
+</VirtualHost>

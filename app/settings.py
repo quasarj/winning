@@ -10,7 +10,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-STATIC_DOC_ROOT = '/home/quasar/work/crafting/django/craft_info/media'
+STATIC_DOC_ROOT = '/home/winning/app/media'
 
 DATABASES = {
     'default': {
@@ -78,13 +78,13 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'craft_info.urls'
+ROOT_URLCONF = 'app.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "/home/quasar/work/crafting/django/craft_info/templates",
+    "/home/winning/app/templates",
 )
 
 INSTALLED_APPS = (
