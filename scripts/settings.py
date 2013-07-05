@@ -1,6 +1,6 @@
 DATABASE_HOST = "localhost"
-DATABASE_USER = "quasar"
-DATABASE_PASS = "theeyeofra"
+DATABASE_USER = "winning"
+DATABASE_PASS = "winning"
 DATABASE_DB = "wow"
 
 

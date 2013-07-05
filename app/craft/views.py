@@ -3,20 +3,21 @@
 from django.http import HttpResponse, Http404
 from django.shortcuts import render_to_response, get_object_or_404
 
-from craft.models import ItemInfo, ImportTime, Auctions, TopSellers
+from craft.models import *
 
 
 # None of these are used right now! All generic views!
 # remove this comment when this status changes...
 def index(request):
-    i = ItemInfo.objects.filter(pk__in=[
-        55054,
-        22573,
-        52185,
-        52183,
-        52328,
-        52721,
-        52719,
+    i = ItemInfo.objects.filter(name__in=[
+        'Ghost Iron Ore',
+        'Ghost Iron Bar',
+        'White Trillium Ore',
+        'Black Trillium Ore',
+        'Trillium Bar',
+        'Living Steel',
+        'Living Steel Belt Buckle',
+        'Green Tea Leaf',
      ])
     t = ImportTime.objects.latest(field_name='time') 
 

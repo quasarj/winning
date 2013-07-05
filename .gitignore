@@ -2,3 +2,4 @@ data/*
 *.pyc
 masterra_savedvariables/
 rope.py
+env.*

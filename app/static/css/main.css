@@ -1,0 +1,54 @@
+/* Main site CSS file!
+
+*/
+
+body {
+    color: #000;
+
+    background-color: #eeeeee;
+
+    margin: 0 0 0 0;
+
+}
+
+#logo {
+
+    background-color: #ddccaa;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+
+    display: block;
+}
+
+
+#footer {
+    margin-left: 15px;
+
+    
+}
+
+.content {
+    margin-left: 15px;
+
+}
+
+
+
+a {
+    color: #117711;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #117711;
+}
+
+a:hover {
+    color: #00aa00;
+}

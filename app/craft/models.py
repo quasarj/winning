@@ -9,27 +9,22 @@
 
 from django.db import models
 
+
 class ImportTime(models.Model):
     time = models.DateTimeField()
-    class Meta:
-        db_table = u'importtime'
+
 
 class Item(models.Model):
     id = models.IntegerField(primary_key=True)
-    name = models.CharField(max_length=600, blank=True)
-    class Meta:
-        db_table = u'item'
-
-class ItemInfo(models.Model):
-    id = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=135, blank=True)
     level = models.IntegerField(null=True, blank=True)
-    class_field = models.IntegerField(null=True, db_column='class', blank=True) # Field renamed because it was a Python reserved word.
+    class_field = models.IntegerField(null=True, blank=True) # Field renamed because it was a Python reserved word.
     subclass = models.IntegerField(null=True, blank=True)
     quality = models.IntegerField(null=True, blank=True)
     icon = models.CharField(max_length=135, blank=True)
     icon_id = models.IntegerField(null=True, blank=True)
     tooltip = models.TextField(blank=True)
+    placeholder = models.BooleanField()
 
     def __unicode__(self):
         return self.name
@@ -83,54 +78,61 @@ class ItemInfo(models.Model):
 
         return cost
 
-    class Meta:
-        db_table = u'item_info'
+
+class CraftSpell(models.Model):
+    name = models.CharField(null=True, max_length=200)
 
 
 class Craft(models.Model):
-    #item_id = models.IntegerField(db_column='id')
-    item = models.ForeignKey(ItemInfo, db_column='id')
-    reagent = models.ForeignKey(ItemInfo, related_name="reagent", db_column='reagent_id')
-    #reagent_id = models.IntegerField(null=True, blank=True)
+    item = models.ForeignKey(Item)
+    spell = models.ForeignKey(CraftSpell)
+    reagent = models.ForeignKey(Item, related_name="reagent_set")
     quality = models.IntegerField(null=True, blank=True)
     count = models.IntegerField(null=True, blank=True)
 
-    class Meta:
-        db_table = u'craft'
-
 
 class Price(models.Model):
-    item = models.OneToOneField(ItemInfo, db_column='item', primary_key=True) #one-to-one foreign key
-    #item = models.IntegerField(primary_key=True)
+    item = models.OneToOneField(Item, primary_key=True)
     price = models.IntegerField(null=True, blank=True)
     average_price = models.IntegerField(null=True, blank=True)
-    class Meta:
-        db_table = u'price'
 
-class RareGemValues(models.Model):
-    item = models.ForeignKey(ItemInfo)
-    value = models.DecimalField(null=True, max_digits=56, decimal_places=8, blank=True)
-    class Meta:
-        db_table = u'rare_gem_values'
+    def __unicode__(self):
+        return "{}: {} / {}".format(self.item.name, 
+                                    self.price, 
+                                    self.average_price)
+
+# class RareGemValues(models.Model):
+#     item = models.ForeignKey(Item)
+#     value = models.DecimalField(null=True, max_digits=56, decimal_places=8, blank=True)
+#     class Meta:
+#         db_table = u'rare_gem_values'
 
 
-class TopSellers(models.Model):
-    owner = models.CharField(max_length=45, primary_key=True)
-    auctions = models.IntegerField()
+# class TopSellers(models.Model):
+#     owner = models.CharField(max_length=45, primary_key=True)
+#     auctions = models.IntegerField()
 
-    class Meta:
-        db_table = u'top_sellers'
+#     class Meta:
+#         db_table = u'top_sellers'
 
-class Auctions(models.Model):
-    auc = models.IntegerField(primary_key=True)
+class Auction(models.Model):
+    auc = models.IntegerField()
     time_left = models.CharField(max_length=10)
     bid = models.IntegerField()
-    item = models.ForeignKey(ItemInfo, db_column='item')
+    item = models.ForeignKey(Item)
     owner = models.CharField(max_length=45)
     buyout = models.IntegerField()
     quantity = models.IntegerField()
 
-    class Meta:
-        db_table = u'auctions'
+    def __unicode__(self):
+        return u"{} sells {} {} for {}".format(
+            self.owner,
+            self.quantity,
+            self.item.name,
+            self.buyout
+        )
+    # def __str__(self):
+    #     return self.__unicode__().encode('ascii', 'ignore')
 
-
+class UsefulItem(models.Model):
+    item = models.ForeignKey(Item)
