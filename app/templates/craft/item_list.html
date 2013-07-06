@@ -1,0 +1,35 @@
+{% load craft_extras %}
+{% include "craft/header.html" %}
+
+<h2>All items</h2>
+<a href="/">Home</a>
+
+{% if page_obj.has_previous %}
+    <a href="?page={{ page_obj.previous_page_number }}">Previous</a>
+{% endif %}
+
+{% if page_obj.has_next %}
+    <a href="?page={{ page_obj.next_page_number }}">Next</a>
+{% endif %}
+
+
+<table>
+    <tr>
+        <th>Item ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Crafted</th>
+    </tr>
+  {% for item in object_list %}
+    <tr>
+      <td>{{ item.id }}</td>
+      <td><a href="/item/{{ item.id }}" rel="item={{ item.id }}">
+        {{ item.name }}
+      </a></td>
+      <td>{{ item.price.price|gold }}</td>
+      <td>{{ item.iscrafted }}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+{% include "craft/footer.html" %}
