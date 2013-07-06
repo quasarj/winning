@@ -9,7 +9,7 @@ from craft.models import *
 # None of these are used right now! All generic views!
 # remove this comment when this status changes...
 def index(request):
-    i = ItemInfo.objects.filter(name__in=[
+    i = Item.objects.filter(name__in=[
         'Ghost Iron Ore',
         'Ghost Iron Bar',
         'White Trillium Ore',
@@ -19,9 +19,11 @@ def index(request):
         'Living Steel Belt Buckle',
         'Green Tea Leaf',
      ])
-    t = ImportTime.objects.latest(field_name='time') 
+    #t = ImportTime.objects.latest(field_name='time') 
+    t = None
 
-    sellers = TopSellers.objects.all()[:10]
+    #sellers = TopSellers.objects.all()[:10]
+    sellers = None
 
     return render_to_response('craft/index.html', {'items': i, 'time': t, 'sellers': sellers })
 
@@ -29,7 +31,7 @@ def history(request, item):
     from django.db import connection, transaction
     cursor = connection.cursor()
 
-    i = ItemInfo.objects.get(pk=item)   
+    i = Item.objects.get(pk=item)   
 
     # do the history queries
     cursor.execute("""
@@ -135,15 +137,15 @@ def search_name(request):
     if not request.GET['search_name']:
         raise Http404
 
-    i = ItemInfo.objects.filter(name__icontains=request.GET['search_name'])
+    i = Item.objects.filter(name__icontains=request.GET['search_name'])
 
     #the var name here is to match what the generic view outputs
-    return render_to_response('craft/iteminfo_list.html', {'object_list': i})
+    return render_to_response('craft/item_list.html', {'object_list': i})
 
 def auctions(request, item_id):
     # This could cause some issue later, as "item" here should really
     # be a related item object, but this is working currently!
-    a = Auctions.objects.filter(item=item_id).order_by('buyout')
+    a = Auction.objects.filter(item=item_id).order_by('buyout')
     if len(a) < 1:
         raise Http404
 
@@ -152,13 +154,13 @@ def auctions(request, item_id):
     return render_to_response('craft/auctions.html', {'auctions': a, 'item': i})
 
 def seller(request, owner):
-    a = Auctions.objects.filter(owner=owner).order_by('buyout')
+    a = Auction.objects.filter(owner=owner).order_by('buyout')
     if len(a) < 1:
         raise Http404
 
     return render_to_response('craft/seller.html', {'auctions': a})
 
 def item(request, item_id):
-	i = get_object_or_404(ItemInfo, pk=item_id)
+	i = get_object_or_404(Item, pk=item_id)
 	return render_to_response('craft/item.html', {'item': i})
 
