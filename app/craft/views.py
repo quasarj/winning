@@ -4,6 +4,7 @@ from django.http import HttpResponse, Http404
 from django.shortcuts import render_to_response, get_object_or_404
 
 from craft.models import *
+from util import gold_short
 
 
 # None of these are used right now! All generic views!
@@ -259,27 +260,9 @@ def table_maker(output_list):
     def table(left, right=None):
         if right:
             # output_list.append("{}: {}".format(left, gold(right)))
-            output_list.append((left, gold(right)))
+            output_list.append((left, gold_short(right)))
         else:
             output_list.append(left)
 
     return table
-
-# this needs to be in a utils or something
-def gold(value):
-	"""Convert the value into gold, ie 12g 34s 23c"""
-	value = str(value)
-	
-	gold = value[:-4]
-
-	silver = value[-4:-2]
-
-	copper = value[-2:]
-
-	
-	if gold == '': gold = '0'
-	if silver == '': silver = '0'
-	if copper == '': copper = '0'
-
-	return "%sg %ss %sc" % (gold, silver, copper)
 

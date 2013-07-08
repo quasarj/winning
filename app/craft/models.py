@@ -8,6 +8,7 @@
 # into your database.
 
 from django.db import models
+from util import gold_short
 
 
 class ImportTime(models.Model):
@@ -98,8 +99,8 @@ class Price(models.Model):
 
     def __unicode__(self):
         return "{}: {} / {}".format(self.item.name, 
-                                    self.price, 
-                                    self.average_price)
+                                    gold_short(self.price), 
+                                    gold_short(self.average_price))
 
 # class RareGemValues(models.Model):
 #     item = models.ForeignKey(Item)
@@ -136,3 +137,40 @@ class Auction(models.Model):
 
 class UsefulItem(models.Model):
     item = models.ForeignKey(Item)
+
+class Sale(models.Model):
+    sale_id = models.CharField(max_length=60, primary_key=True)
+    item = models.ForeignKey(Item)
+    stack_size = models.IntegerField()
+    quantity = models.IntegerField()
+    sale_time = models.DateTimeField()
+    price = models.IntegerField()
+    sold_to = models.CharField(max_length=20)
+    sold_by = models.CharField(max_length=20)
+
+    def __unicode__(self):
+        return u"{} on {}: {} x {}".format(
+            gold_short(self.price),
+            self.sale_time,
+            self.item.name,
+            self.stack_size * self.quantity,
+        )
+
+
+class Purchase(models.Model):
+    sale_id = models.CharField(max_length=60, primary_key=True)
+    item = models.ForeignKey(Item)
+    stack_size = models.IntegerField()
+    quantity = models.IntegerField()
+    sale_time = models.DateTimeField()
+    price = models.IntegerField()
+    sold_to = models.CharField(max_length=20)
+    sold_by = models.CharField(max_length=20)
+
+    def __unicode__(self):
+        return u"{} on {}: {} x {}".format(
+            gold_short(self.price),
+            self.sale_time,
+            self.item.name,
+            self.stack_size * self.quantity,
+        )
