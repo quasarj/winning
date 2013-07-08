@@ -19,8 +19,8 @@ def index(request):
         'Living Steel Belt Buckle',
         'Green Tea Leaf',
      ])
-    #t = ImportTime.objects.latest(field_name='time') 
-    t = None
+    t = ImportTime.objects.latest(field_name='time') 
+    #t = None
 
     #sellers = TopSellers.objects.all()[:10]
     sellers = None
@@ -163,4 +163,123 @@ def seller(request, owner):
 def item(request, item_id):
 	i = get_object_or_404(Item, pk=item_id)
 	return render_to_response('craft/item.html', {'item': i})
+
+def stats(request):
+    # first step, get the prices of the items we need to work with
+
+    # items = Item.objects.filter(name__in=[
+    item_names = [
+        'Ghost Iron Ore',
+        'Ghost Iron Bar',
+        'White Trillium Ore',
+        'Black Trillium Ore',
+        'Trillium Bar',
+        'Living Steel',
+        'Living Steel Belt Buckle',
+    ]
+    items = {}
+    for i in item_names:
+        items[i] = Price.objects.filter(item__name=i)[0].price
+
+    gio = items['Ghost Iron Ore']
+    gib = items['Ghost Iron Bar']
+    wto = items['White Trillium Ore']
+    bto = items['Black Trillium Ore']
+    tb = items['Trillium Bar']
+    ls = items['Living Steel']
+    lsbb = items['Living Steel Belt Buckle']
+
+
+
+    out = []
+    o = {}
+    t = table_maker(out)
+
+    t("Ghost Iron Ore", items['Ghost Iron Ore'])
+
+    # overwrite this one
+    items['Ghost Iron Ore'] = 24000
+
+
+    t("My Actual Ghost Iron Ore", items['Ghost Iron Ore'])
+    gio_bar = gio * 2 * 10 * 6
+    gio_profit = ls - gio_bar
+
+    t("Ghost Iron Ore -> Living Steel", gio_bar)
+    t("Ghost Iron Ore profit (bar)", gio_profit)
+    t("Ghost Iron Ore profit (buckle)", lsbb - gio_bar)
+    t("----")
+
+    gib_bar = gib * 10 * 6
+    gib_profit = ls - gib_bar
+
+    t("Ghost Iron Bar", gib)
+    t("Ghost Iron Bar -> Living Steel", gib_bar)
+    t("Ghost Iron Bar profit (bar)", gib_profit)
+    t("Ghost Iron Bar profit (buckle)", lsbb - gib_bar)
+    t("----")
+
+    to = (wto + bto) / 2
+    to_bar = to * 4 * 6
+    to_profit = ls - to_bar
+
+    t("White Trillium Ore", wto)
+    t("Black Trillium Ore", bto)
+    t("Trillium Ore (avg)", to)
+    t("Trillium Ore -> Living Steel", to_bar)
+    t("Trillium Ore profit (bar)", to_profit)
+    t("Trillium Ore profit (buckle)", lsbb - to_bar)
+    t("----")
+
+    tb_ls = tb * 6
+    tb_profit = ls - tb_ls
+
+    t("Trillium Bar", tb)
+    t("Trillium Bar -> Living Steel", tb_ls)
+    t("Trillium Bar profit (bar)", tb_profit)
+    t("Trillium Bar profit (buckle)", lsbb - tb_ls)
+    t("----")
+
+
+    t("Living Steel", ls)
+    t("Living Steel Belt Buckle", lsbb)
+
+    return HttpResponse(make_table(out))
+
+
+def make_table(out):
+    s = "<table>"
+    for tr in out:
+        s += "<tr><td>{}</td><td>{}</td></tr>".format(*tr)
+    s += "</table>"
+
+    return s
+
+def table_maker(output_list):
+    def table(left, right=None):
+        if right:
+            # output_list.append("{}: {}".format(left, gold(right)))
+            output_list.append((left, gold(right)))
+        else:
+            output_list.append(left)
+
+    return table
+
+# this needs to be in a utils or something
+def gold(value):
+	"""Convert the value into gold, ie 12g 34s 23c"""
+	value = str(value)
+	
+	gold = value[:-4]
+
+	silver = value[-4:-2]
+
+	copper = value[-2:]
+
+	
+	if gold == '': gold = '0'
+	if silver == '': silver = '0'
+	if copper == '': copper = '0'
+
+	return "%sg %ss %sc" % (gold, silver, copper)
 

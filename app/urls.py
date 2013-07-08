@@ -37,6 +37,7 @@ urlpatterns = patterns('',
     (r'^auctions/(?P<item_id>\d+)/$', 'craft.views.auctions'),
 
     (r'^seller/(?P<owner>.+)/$', 'craft.views.seller'),
+    (r'^stats/$', 'craft.views.stats'),
     
     # Uncomment the admin/doc line below to enable admin documentation:
     # (r'^admin/doc/', include('django.contrib.admindocs.urls')),
