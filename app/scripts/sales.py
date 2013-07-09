@@ -44,7 +44,14 @@ def process_sale_data(sell_data):
     
     for i in sell_data:
         encodedItem, encodedRecords = sell_data[i].split("!")
-        item_id = get_item_id(encodedItem)
+        # old way using the encoded data between the pipes
+        # it was prone to errors on items with sub-ids (.. of the whale,
+        # random stat stuff). This method should always work, using the
+        # key that comes in the data (this was new recently, when they
+        # stopped using the rope).
+
+        # item_id = get_item_id(encodedItem)
+        item_id = int(i.split(':')[1])
         
         for record in encodedRecords.split("@"):
             # generate a sha1 id for this sale, so we can easily
@@ -67,6 +74,7 @@ def process_sale_data(sell_data):
                 'price': decode(price),
                 'sold_to': sold_to,
                 'sold_by': sold_by,
+                'backup_id': i,
             })
     return sales
 
@@ -86,7 +94,10 @@ def load_sale_data(sale_data):
 
             s.save()
         except: # IntegirtyError:
-            print "Failed to import this sale, the item probably doesn't exist: {}".format(sale['item_id'])
+            print "Failed sale, id {}, backup {}".format(
+                sale['item_id'],
+                sale['backup_id']
+            )
 
 def load_buy_data(sale_data):
     # exactly the same as sale data, except sold_to and sold_by are reversed
@@ -106,7 +117,10 @@ def load_buy_data(sale_data):
 
             s.save()
         except: # IntegirtyError:
-            print "Failed to import this sale, the item probably doesn't exist: {}".format(sale['item_id'])
+            print "Failed purchase, id {}, backup {}".format(
+                sale['item_id'],
+                sale['backup_id']
+            )
 
 def run():
     sale_data = process_sale_data(rope.sell_data)
