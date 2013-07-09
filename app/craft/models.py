@@ -150,10 +150,10 @@ class Sale(models.Model):
 
     def __unicode__(self):
         return u"{} on {}: {} x {}".format(
-            gold_short(self.price),
+            gold_short(self.price * self.quantity),
             self.sale_time,
             self.item.name,
-            self.stack_size * self.quantity,
+            self.quantity,
         )
 
 
@@ -169,8 +169,8 @@ class Purchase(models.Model):
 
     def __unicode__(self):
         return u"{} on {}: {} x {}".format(
-            gold_short(self.price),
+            gold_short(self.price * self.quantity),
             self.sale_time,
             self.item.name,
-            self.stack_size * self.quantity,
+            self.quantity,
         )
