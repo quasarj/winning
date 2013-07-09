@@ -245,7 +245,21 @@ def stats(request):
     t("Living Steel", ls)
     t("Living Steel Belt Buckle", lsbb)
 
-    return HttpResponse(make_table(out))
+
+    top_sales = Sale.objects.all().order_by('-price')[:10]
+    top_purchases = Purchase.objects.all().order_by('-price')[:10]
+    
+    string = "<h3>Top Sales</h3><p>"
+    for s in top_sales:
+        string += str(s) + "<br/>"
+    string += "</p>"
+
+    string += "<h3>Top Purchases</h3><p>"
+    for s in top_purchases:
+        string += str(s) + "<br/>"
+    string += "</p>"
+
+    return HttpResponse(make_table(out) + string)
 
 
 def make_table(out):
